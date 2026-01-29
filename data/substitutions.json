@@ -25,7 +25,7 @@
         ],
         "why": "Yogurt has similar acidity, fat content, and cultured flavor. The milk thins it to the right consistency.",
         "notes": "Use plain, unflavored yogurt. Greek yogurt works but use more milk (1/2 cup yogurt + 1/2 cup milk).",
-        "science": "Buttermilk and yogurt are both fermented dairy products containing lactic acid bacteria. This fermentation produces lactic acid, which lowers the pH to around 4.5. In baking, this acidity serves two critical functions: it reacts with baking soda (sodium bicarbonate) to produce CO2 for leavening, and it denatures gluten proteins, resulting in a more tender crumb. Yogurt's casein proteins also contribute to moisture retention during baking."
+        "science": "<p>Buttermilk and yogurt are both fermented dairy products containing lactic acid bacteria. This fermentation produces lactic acid, lowering the pH to around 4.5.</p><p>In baking, this acidity serves two critical functions: it reacts with baking soda (sodium bicarbonate) to produce CO\u2082 for leavening, and it denatures gluten proteins, resulting in a more tender crumb.</p><p>Yogurt's casein proteins also contribute to moisture retention during baking, keeping your final product soft longer.</p>"
       },
       {
         "name": "Sour Cream + Milk",
@@ -37,7 +37,7 @@
         ],
         "why": "Sour cream has the same cultured tang and similar acidity. Higher fat makes baked goods extra tender.",
         "notes": "Results may be slightly richer due to higher fat content.",
-        "science": "Sour cream undergoes the same lactic acid fermentation as buttermilk, giving it comparable acidity (pH 4.5). The higher fat content (18-20% vs buttermilk's 1-2%) actually enhances tenderness because fat coats flour proteins, physically preventing gluten formation. This creates an even more tender result than buttermilk, though the texture will be slightly richer."
+        "science": "<p>Sour cream undergoes the same lactic acid fermentation as buttermilk, giving it comparable acidity (pH 4.5). The key difference is fat content: sour cream has 18-20% fat versus buttermilk's 1-2%.</p><p>This higher fat content actually enhances tenderness because fat molecules coat flour proteins, physically preventing gluten formation. The result is an even more tender crumb than buttermilk would produce.</p>"
       },
       {
         "name": "Milk + Lemon Juice",
@@ -48,7 +48,7 @@
         ],
         "why": "The acid curdles the milk, creating acidity. However, it lacks the complex cultured flavor.",
         "notes": "NOT recommended for baking. The acidity is inconsistent and won't reliably activate baking soda. Fine for marinades or sauces.",
-        "science": "Adding citric acid (lemon juice) to milk causes the casein proteins to denature and coagulate, mimicking the curdled texture of buttermilk. However, this is purely a chemical reaction, not fermentation. Real buttermilk contains complex flavor compounds (diacetyl, acetaldehyde) produced by bacterial metabolism that this quick method cannot replicate. The acidity is also less consistent, making it unreliable for precise leavening reactions."
+        "science": "<p>Adding citric acid (lemon juice) to milk causes the casein proteins to denature and coagulate, mimicking the curdled texture of buttermilk.</p><p>However, this is purely a chemical reaction, not fermentation. Real buttermilk contains complex flavor compounds\u2014diacetyl, acetaldehyde, and others\u2014produced by bacterial metabolism that this quick method cannot replicate.</p><p>The acidity is also less consistent, making it unreliable for precise leavening reactions in baking. That's why it works better in cooking applications.</p>"
       },
       {
         "name": "Milk + White Vinegar",
@@ -58,7 +58,8 @@
           "cooking"
         ],
         "why": "Creates acidity through curdling, similar to lemon juice method.",
-        "notes": "NOT recommended for baking. Use only in cooking where exact leavening isn't critical."
+        "notes": "NOT recommended for baking. Use only in cooking where exact leavening isn't critical.",
+        "science": "<p>Like the lemon juice method, vinegar's acetic acid causes milk proteins to curdle. The resulting texture approximates buttermilk, but the flavor profile is quite different.</p><p>Acetic acid has a sharper, more pungent taste than lactic acid. In cooking where buttermilk provides moisture and some acidity, this works fine. For baking, the inconsistent acid levels make leavening unpredictable.</p>"
       },
       {
         "name": "Kefir",
@@ -70,7 +71,7 @@
         ],
         "why": "Kefir is also a cultured dairy product with similar acidity, thickness, and tangy flavor.",
         "notes": "Excellent 1:1 substitute. Slightly thinner than buttermilk but same chemistry.",
-        "science": "Kefir is fermented using a symbiotic culture of bacteria AND yeast (SCOBY), producing an even more complex acid profile than buttermilk. It contains lactic acid, acetic acid, and small amounts of alcohol. The pH is virtually identical to buttermilk (4.4-4.6), and it provides the same gluten-tenderizing and leavening-activating functions."
+        "science": "<p>Kefir is fermented using a SCOBY (symbiotic culture of bacteria and yeast), producing an even more complex acid profile than buttermilk. It contains lactic acid, acetic acid, and trace amounts of alcohol.</p><p>The pH is virtually identical to buttermilk (4.4-4.6), providing the same gluten-tenderizing and leavening-activating functions. The additional bacterial diversity actually makes it nutritionally superior while functioning identically in recipes.</p>"
       }
     ]
   },
@@ -98,7 +99,7 @@
         ],
         "why": "Flaxseed becomes gelatinous when mixed with water, providing binding similar to eggs.",
         "notes": "Best for dense, moist baked goods (muffins, brownies). Not suitable for recipes needing lift or where egg flavor matters.",
-        "science": "Ground flaxseed contains mucilage, a type of soluble fiber that becomes gel-like when mixed with water. This gel mimics the binding properties of egg proteins. However, eggs provide leavening through air incorporation and protein coagulation during baking\u2014functions flax cannot replicate. That's why flax eggs work in dense, moist recipes (muffins, brownies) but fail in recipes requiring lift (souffl\u00e9s, angel food cake)."
+        "science": "<p>Ground flaxseed contains mucilage, a type of soluble fiber that becomes gel-like when hydrated. This gel mimics the binding properties of egg proteins by creating a network that holds ingredients together.</p><p>However, eggs provide leavening through air incorporation when beaten, and structure through protein coagulation when heated\u2014functions flax cannot replicate.</p><p>That's why flax eggs work beautifully in dense, moist recipes (muffins, brownies) but fail in recipes requiring lift (souffl\u00e9s, angel food cake).</p>"
       },
       {
         "name": "Chia Egg",
@@ -108,7 +109,8 @@
           "baking"
         ],
         "why": "Chia seeds form a gel similar to flax, providing binding properties.",
-        "notes": "May leave visible specks. Best for darker baked goods like chocolate recipes."
+        "notes": "May leave visible specks. Best for darker baked goods like chocolate recipes.",
+        "science": "<p>Chia seeds contain similar mucilaginous compounds to flax. When mixed with water, they form a gel through the hydration of soluble fiber on the seed's surface.</p><p>The binding power is comparable to flax, but chia has a more neutral taste. The seeds remain visible as small specks, which is why they work better in darker batters where they're less noticeable.</p>"
       },
       {
         "name": "Mashed Banana",
@@ -119,7 +121,7 @@
         ],
         "why": "Provides moisture and binding. Natural sugars add sweetness.",
         "notes": "Will add banana flavor. Best for quick breads, muffins, pancakes. Reduce sugar in recipe slightly.",
-        "science": "Bananas contain pectin and starches that provide binding and moisture. The natural sugars (fructose, glucose) add sweetness and promote Maillard browning. However, bananas cannot provide the protein structure or emulsification that eggs offer. The high moisture content also means results will be denser. Works best when egg's primary role is moisture and binding, not structure."
+        "science": "<p>Bananas contain pectin and starches that provide binding and moisture. The natural sugars (fructose and glucose) add sweetness and promote Maillard browning during baking.</p><p>However, bananas cannot provide the protein structure or emulsification that eggs offer. The high moisture content also means results will be denser.</p><p>This substitute works best when egg's primary role is moisture and binding, not structure or leavening.</p>"
       },
       {
         "name": "Unsweetened Applesauce",
@@ -129,7 +131,8 @@
           "baking"
         ],
         "why": "Provides moisture and some binding. Pectin helps with structure.",
-        "notes": "Milder flavor than banana. Good for cakes and muffins. Results may be slightly denser."
+        "notes": "Milder flavor than banana. Good for cakes and muffins. Results may be slightly denser.",
+        "science": "<p>Applesauce provides moisture through its high water content and some binding through pectin\u2014the same compound that makes jams gel.</p><p>Pectin creates weak bonds between molecules, offering mild structural support. Unlike eggs, it can't trap air or coagulate into a firm structure when heated.</p><p>Results tend to be denser and moister, making applesauce ideal for quick breads and muffins where a tight crumb is acceptable.</p>"
       },
       {
         "name": "Silken Tofu",
@@ -139,7 +142,8 @@
           "baking"
         ],
         "why": "High protein content provides structure and binding similar to eggs.",
-        "notes": "Blend until completely smooth. Neutral flavor works in most recipes."
+        "notes": "Blend until completely smooth. Neutral flavor works in most recipes.",
+        "science": "<p>Silken tofu is made from coagulated soy milk with high water content. It contains complete protein that can provide structure and binding in baking.</p><p>When blended smooth, its neutral flavor disappears into batters. The proteins don't behave identically to egg proteins, but they do help bind ingredients and retain moisture.</p><p>For best results, blend until completely smooth to avoid any grainy texture in your final product.</p>"
       },
       {
         "name": "Commercial Egg Replacer",
@@ -150,7 +154,7 @@
         ],
         "why": "Specifically formulated to mimic egg properties in baking.",
         "notes": "Brands like Bob's Red Mill or JUST Egg work well. Most reliable for light, fluffy results.",
-        "science": "Products like Bob's Red Mill contain potato starch, tapioca flour, and leavening agents specifically formulated to replicate multiple egg functions: binding (from starches), leavening (from added baking powder), and moisture (when hydrated). This multi-functional approach makes them the most reliable substitute for general baking."
+        "science": "<p>Products like Bob's Red Mill contain potato starch, tapioca flour, and leavening agents specifically formulated to replicate multiple egg functions simultaneously.</p><p>The starches provide binding, the leavening creates lift, and added stabilizers help with texture. This multi-functional approach makes commercial replacers the most reliable substitute for general baking.</p>"
       },
       {
         "name": "Aquafaba",
@@ -161,7 +165,7 @@
         ],
         "why": "The liquid from canned chickpeas contains proteins that mimic egg whites. Can even be whipped to stiff peaks.",
         "notes": "Best egg substitute discovered. Works for meringues, macarons, and anything needing whipped eggs.",
-        "science": "The liquid from canned chickpeas contains proteins (albumins), saponins, and carbohydrates that closely mimic egg white composition. Saponins are natural surfactants that stabilize air bubbles, while the proteins can denature and set when heated. This is why aquafaba can be whipped to stiff peaks and used in meringues\u2014it's not just mimicking eggs, it's using similar chemistry."
+        "science": "<p>Aquafaba\u2014the liquid from canned chickpeas\u2014contains proteins (albumins), saponins, and carbohydrates that closely mimic egg white composition.</p><p>Saponins are natural surfactants that stabilize air bubbles by reducing surface tension at the air-water interface. The proteins can denature and set when heated, providing structure.</p><p>This is why aquafaba can be whipped to stiff peaks and used in meringues\u2014it's not just mimicking eggs, it's using remarkably similar chemistry.</p>"
       }
     ]
   },
@@ -190,7 +194,7 @@
         ],
         "why": "Chickpea liquid contains saponins and proteins that whip exactly like egg whites, creating stable foam.",
         "notes": "Can make meringues, macarons, marshmallows. Whip with cream of tartar for stability. Use liquid from unsalted chickpeas.",
-        "science": "Aquafaba's remarkable ability to mimic egg whites stems from its composition. During cooking, chickpeas release albumin-type proteins and saponins into the water. Saponins are amphiphilic molecules (both water-loving and water-fearing) that act as natural surfactants, stabilizing the air-water interface in foams. The proteins can denature and coagulate when heated, providing structure. Research shows aquafaba can reach nearly identical foam stability to egg whites."
+        "science": "<p>Aquafaba's ability to mimic egg whites stems from its unique composition. During cooking, chickpeas release albumin-type proteins and saponins into the water.</p><p>Saponins are amphiphilic molecules\u2014they have both water-loving and water-fearing parts\u2014that act as natural surfactants. They stabilize the air-water interface in foams, preventing bubbles from collapsing.</p><p>Research shows aquafaba can achieve nearly identical foam stability to egg whites. The proteins can even denature and set when heated, providing structure for baked meringues.</p>"
       },
       {
         "name": "Meringue Powder",
@@ -201,7 +205,7 @@
         ],
         "why": "Dried egg whites with stabilizers. Reconstitutes to functional egg white.",
         "notes": "Shelf-stable and consistent. Great for royal icing and meringue.",
-        "science": "Meringue powder is dehydrated egg whites with added stabilizers (cream of tartar, cornstarch) and sometimes sugar. When reconstituted, the proteins (ovalbumin, ovotransferrin) regain their ability to unfold and trap air. The added stabilizers help compensate for any protein damage during dehydration, making it more foolproof than fresh egg whites."
+        "science": "<p>Meringue powder is dehydrated egg whites with added stabilizers like cream of tartar and cornstarch. When reconstituted, the proteins (ovalbumin, ovotransferrin) regain their foaming ability.</p><p>The added stabilizers compensate for any protein damage during dehydration, making it more foolproof than fresh egg whites. This is why it's preferred for royal icing\u2014consistent results every time.</p>"
       },
       {
         "name": "Agar Agar + Water (whipped)",
@@ -211,7 +215,8 @@
           "baking"
         ],
         "why": "Agar creates a gel that can be whipped into foam. Provides structure without eggs.",
-        "notes": "Technique is tricky. Results are less stable than real egg whites. For vegan mousses."
+        "notes": "Technique is tricky. Results are less stable than real egg whites. For vegan mousses.",
+        "science": "<p>Agar creates a gel through hydrogen bonding between its long polysaccharide chains. When this gel is chilled and then whipped, it can incorporate air.</p><p>However, the resulting foam is less stable than egg white foam and doesn't provide the same protein structure when baked. It works for vegan mousses but requires careful technique.</p>"
       }
     ]
   },
@@ -240,7 +245,8 @@
           "cooking"
         ],
         "why": "Provides similar richness and binding. Neutral flavor allows it to blend in.",
-        "notes": "Blend until completely smooth. Add pinch of turmeric for yellow color if desired."
+        "notes": "Blend until completely smooth. Add pinch of turmeric for yellow color if desired.",
+        "science": "<p>Silken tofu provides similar richness to egg yolks through its combination of protein and fat. When blended smooth, it creates a creamy consistency comparable to yolk.</p><p>However, it lacks lecithin\u2014the key emulsifying compound in egg yolks. For recipes where emulsification is critical (like mayonnaise), you may need to add a supplemental emulsifier.</p><p>Adding a pinch of turmeric can replicate egg yolk's characteristic yellow color.</p>"
       },
       {
         "name": "Mayonnaise",
@@ -251,7 +257,7 @@
         ],
         "why": "Mayo IS egg yolk + oil, already emulsified. Provides same fat and emulsification.",
         "notes": "Adds moisture and tenderness. Great for cakes. Use unflavored mayo.",
-        "science": "Mayonnaise is already an emulsion of egg yolk, oil, and acid\u2014essentially pre-emulsified egg yolk with added fat. The lecithin in egg yolks acts as an emulsifier, with hydrophilic heads attracted to water and hydrophobic tails attracted to fat. This is exactly what egg yolks do in batters, making mayo an ideal substitute for moisture and emulsification."
+        "science": "<p>Mayonnaise is already an emulsion of egg yolk, oil, and acid\u2014essentially pre-emulsified egg yolk with added fat. The lecithin in egg yolks acts as an emulsifier, with hydrophilic heads attracted to water and hydrophobic tails attracted to fat.</p><p>This is exactly what egg yolks do in batters. Using mayo in baking adds moisture, fat, and already-activated emulsifiers, often producing exceptionally moist cakes.</p>"
       },
       {
         "name": "Nut Butter",
@@ -261,7 +267,8 @@
           "baking"
         ],
         "why": "Provides fat and binding. Creates richness similar to yolks.",
-        "notes": "Will add flavor. Best in cookies, brownies, or recipes where nut flavor complements."
+        "notes": "Will add flavor. Best in cookies, brownies, or recipes where nut flavor complements.",
+        "science": "<p>Nut butters provide fat and some protein for binding, similar to egg yolks. The high fat content (around 50%) creates richness and tenderness in baked goods.</p><p>Unlike egg yolks, nut butters don't emulsify or thicken when heated. They work best in cookies and brownies where their flavor complements the recipe.</p>"
       },
       {
         "name": "Mashed Avocado",
@@ -271,7 +278,8 @@
           "baking"
         ],
         "why": "High fat content mimics yolk's richness. Creates tender baked goods.",
-        "notes": "May add slight green tint and mild flavor. Best in chocolate recipes."
+        "notes": "May add slight green tint and mild flavor. Best in chocolate recipes.",
+        "science": "<p>Avocados are roughly 77% fat, primarily monounsaturated oleic acid. This high fat content mimics egg yolk's richness and tenderizing effect.</p><p>The fruit also contains natural emulsifiers that help bind ingredients. The mild flavor largely disappears in baking, especially in chocolate recipes where the green color is also masked.</p>"
       },
       {
         "name": "Soy Lecithin",
@@ -282,7 +290,7 @@
         ],
         "why": "Lecithin is the emulsifying compound in egg yolks. Provides same emulsification power.",
         "notes": "Only for emulsification (dressings, sauces). Doesn't provide richness or thickening for custards.",
-        "science": "Lecithin is the primary emulsifying compound in egg yolks. Soy lecithin is extracted from soybeans and provides identical emulsification chemistry. The molecule has a phosphate head (hydrophilic) and fatty acid tails (hydrophobic), allowing it to stabilize oil-water mixtures. Use only when emulsification is needed\u2014it won't provide the color, flavor, or thickening of whole yolks."
+        "science": "<p>Lecithin is the actual emulsifying compound in egg yolks, extracted here from soybeans. The molecule has a phosphate head (hydrophilic) and fatty acid tails (hydrophobic), allowing it to stabilize oil-water mixtures.</p><p>Use this only when emulsification is the goal\u2014it won't provide the color, flavor, richness, or thickening that whole yolks offer. A little goes a long way.</p>"
       }
     ]
   },
@@ -313,7 +321,7 @@
         ],
         "why": "Similar fat content and solid-at-room-temperature property. Creates good flaky texture.",
         "notes": "Use refined coconut oil for neutral flavor, or virgin for subtle coconut taste. Works especially well in pie crusts and cookies.",
-        "science": "Butter is approximately 80% fat, 16-18% water, and 2-4% milk solids. Coconut oil is 100% fat with a similar melting point (76\u00b0F vs butter's 90-95\u00b0F) and saturated fat structure that keeps it solid at room temperature. This solid-to-liquid transition is crucial for flaky pastries\u2014fat must be cold and solid to create layers. The higher fat content means slightly more tender results."
+        "science": "<p>Butter is approximately 80% fat, 16-18% water, and 2-4% milk solids. Coconut oil is 100% fat with a similar melting point (76\u00b0F vs butter's 90-95\u00b0F).</p><p>Both fats are high in saturated fatty acids, which is why they're solid at room temperature. This solid-to-liquid transition is crucial for flaky pastries\u2014fat must be cold and solid to create distinct layers.</p><p>The higher fat content in coconut oil means slightly more tender results. Use refined coconut oil for neutral flavor.</p>"
       },
       {
         "name": "Vegetable Oil",
@@ -325,7 +333,7 @@
         ],
         "why": "Provides fat for tenderness and moisture. Use less because oil is 100% fat vs butter's 80%.",
         "notes": "Cannot create flaky layers (pie crust, croissants). Best for cakes, muffins, quick breads. Results are more moist and dense.",
-        "science": "Oil is 100% liquid fat with no water content, fundamentally changing baking chemistry. Butter's water creates steam for lift and its milk solids enable Maillard browning. Oil provides tenderness through fat coating flour proteins, but cannot create flaky layers (no solid-to-liquid phase change) or contribute to browning. Use 3/4 cup oil per cup butter to account for butter's water content."
+        "science": "<p>Oil is 100% liquid fat with no water content, fundamentally changing baking chemistry. Butter's water creates steam for lift and its milk solids enable Maillard browning.</p><p>Oil provides tenderness through fat coating flour proteins (shortening effect), but cannot create flaky layers since there's no solid-to-liquid phase change.</p><p>Use 3/4 cup oil per cup butter to account for butter's water content. Results will be more moist and dense.</p>"
       },
       {
         "name": "Greek Yogurt",
@@ -335,7 +343,8 @@
           "baking"
         ],
         "why": "Provides moisture and tenderness with much less fat. Protein adds structure.",
-        "notes": "Significantly reduces fat and calories. Best for cakes and muffins. Not for cookies or pastries."
+        "notes": "Significantly reduces fat and calories. Best for cakes and muffins. Not for cookies or pastries.",
+        "science": "<p>Greek yogurt substitutes fat with protein and moisture. The high protein content provides structure, while lactic acid tenderizes gluten.</p><p>This creates tender results with significantly less fat and calories. The tangy flavor can actually enhance certain recipes. Best for cakes and muffins, not cookies or pastries.</p>"
       },
       {
         "name": "Applesauce",
@@ -345,7 +354,8 @@
           "baking"
         ],
         "why": "Provides moisture. Pectin helps with structure.",
-        "notes": "Major texture change - use only when reducing fat is priority. Best combined with some oil (1/4 cup applesauce + 1/4 cup oil)."
+        "notes": "Major texture change - use only when reducing fat is priority. Best combined with some oil (1/4 cup applesauce + 1/4 cup oil).",
+        "science": "<p>Applesauce provides moisture and pectin (for some binding) but virtually no fat. Using it alone dramatically changes texture.</p><p>The best approach is combining applesauce with some oil\u2014this provides moisture reduction benefits while maintaining enough fat for proper texture. Expect denser, more cake-like results.</p>"
       },
       {
         "name": "Avocado",
@@ -356,7 +366,7 @@
         ],
         "why": "Similar fat content with healthy fats. Creamy texture works well in baking.",
         "notes": "May add slight green tint. Best for chocolate recipes where color is masked. Very rich results.",
-        "science": "Avocados are roughly 77% fat, primarily monounsaturated oleic acid\u2014similar to olive oil. This high fat content provides the tenderizing function of butter. The fruit also contains fiber and emulsifying compounds that help retain moisture. The green color comes from chlorophyll, which remains stable during baking but is masked in chocolate recipes."
+        "science": "<p>Avocados contain about 77% fat, primarily heart-healthy monounsaturated oleic acid. The creamy texture and high fat content make it an effective butter substitute.</p><p>The fats coat flour proteins similarly to butter, creating tenderness. Avocado also contains fiber and emulsifying compounds that help bind batters.</p><p>Best used in chocolate recipes where the green color and mild flavor are masked.</p>"
       },
       {
         "name": "Vegan Butter",
@@ -367,7 +377,8 @@
           "cooking"
         ],
         "why": "Formulated to mimic butter's fat content and water content exactly.",
-        "notes": "Brands like Miyoko's or Earth Balance work well. Some contain palm oil. Check if solid vs spreadable."
+        "notes": "Brands like Miyoko's or Earth Balance work well. Some contain palm oil. Check if solid vs spreadable.",
+        "science": "<p>Commercial vegan butters are specifically formulated to mimic dairy butter's fat content (80%) and water content (16-18%). They typically use a blend of oils (coconut, palm, canola) to achieve the right melting point.</p><p>This engineering makes them the most reliable butter substitute for any application\u2014baking, cooking, or spreading. Check whether the product is solid (for pastries) or spreadable (for general use).</p>"
       }
     ]
   },
@@ -394,7 +405,8 @@
           "baking"
         ],
         "why": "Similar 100% fat content and solid texture at room temperature. Creates flaky pastry.",
-        "notes": "Use refined for neutral flavor. Keep very cold for pie crusts. Melts faster than shortening."
+        "notes": "Use refined for neutral flavor. Keep very cold for pie crusts. Melts faster than shortening.",
+        "science": "<p>Both shortening and coconut oil are 100% fat with no water content. Coconut oil's melting point (76\u00b0F) is close to shortening's, making it behave similarly in baking.</p><p>The key to flaky pastry is keeping fat cold and solid until it hits oven heat, then melting to create steam pockets. Coconut oil does this well, though it melts faster than shortening.</p><p>Use refined coconut oil for neutral flavor, and keep ingredients very cold when making pie crust.</p>"
       },
       {
         "name": "Butter",
@@ -404,7 +416,8 @@
           "baking"
         ],
         "why": "Butter is 80% fat vs shortening's 100%, so use slightly more. Adds flavor but contains water.",
-        "notes": "Results less flaky, more tender. Butter adds better flavor. Keep very cold for pastry."
+        "notes": "Results less flaky, more tender. Butter adds better flavor. Keep very cold for pastry.",
+        "science": "<p>Butter is only 80% fat compared to shortening's 100%, and contains 16-18% water. You need slightly more butter to match the fat content.</p><p>The water in butter actually creates steam, which adds some lift but can also make pastry less flaky if overworked. The milk solids add wonderful flavor and promote browning.</p><p>For pie crusts, very cold butter creates tender, flavorful (though less flaky) results.</p>"
       },
       {
         "name": "Lard",
@@ -414,7 +427,8 @@
           "baking"
         ],
         "why": "Same 100% fat, solid texture. Traditional before vegetable shortening existed.",
-        "notes": "Makes incredibly flaky pie crusts. Slight savory flavor. Not vegetarian."
+        "notes": "Makes incredibly flaky pie crusts. Slight savory flavor. Not vegetarian.",
+        "science": "<p>Lard is 100% fat like shortening, but it's animal-derived (rendered pork fat). It creates exceptionally flaky pastry because its fat crystals have an ideal size and structure for layering.</p><p>Traditional pie bakers often prefer lard for its superior flakiness. It has a subtle savory flavor that works wonderfully in pie crusts and biscuits. Not suitable for vegetarians.</p>"
       },
       {
         "name": "Vegan Butter (solid block style)",
@@ -424,7 +438,8 @@
           "baking"
         ],
         "why": "Similar fat properties to regular butter. Use slightly more to account for water content.",
-        "notes": "Must use block-style, not spreadable. Keep cold for pastry work."
+        "notes": "Must use block-style, not spreadable. Keep cold for pastry work.",
+        "science": "<p>Block-style vegan butter is formulated to be solid at room temperature, unlike spreadable varieties. This makes it suitable for pastry work.</p><p>Like dairy butter, it contains water (around 16-18%), so you need slightly more. Keep it very cold for flaky results. The water content means slightly less flakiness than shortening but better flavor.</p>"
       }
     ]
   },
@@ -452,7 +467,8 @@
           "baking"
         ],
         "why": "Same 100% fat, solid texture. Vegetarian alternative.",
-        "notes": "Less flavorful but same flakiness. Good for those avoiding pork."
+        "notes": "Less flavorful but same flakiness. Good for those avoiding pork.",
+        "science": "<p>Vegetable shortening replaced lard in many American kitchens during the 20th century. Both are 100% fat with similar textures.</p><p>Shortening produces good flakiness but lacks lard's superior fat crystal structure. It also has no flavor of its own, while lard has a subtle savory note.</p><p>For vegetarians or those avoiding pork, shortening is the closest textural substitute.</p>"
       },
       {
         "name": "Butter",
@@ -462,7 +478,8 @@
           "baking"
         ],
         "why": "Provides richness, though with water content. Creates tender rather than flaky.",
-        "notes": "Different texture - more tender, less flaky. Better flavor in some applications."
+        "notes": "Different texture - more tender, less flaky. Better flavor in some applications.",
+        "science": "<p>Butter provides better flavor than lard but different textural results. The water content (16-18%) creates steam during baking, affecting flakiness.</p><p>Butter makes pastry more tender but less flaky than lard. The milk solids add browning and rich flavor. Many bakers combine butter and lard for both flavor and flakiness.</p>"
       },
       {
         "name": "Coconut Oil",
@@ -473,7 +490,8 @@
           "cooking"
         ],
         "why": "100% fat, solid at room temp. Creates good flakiness.",
-        "notes": "Use refined for neutral flavor. Works for savory and sweet. Vegan option."
+        "notes": "Use refined for neutral flavor. Works for savory and sweet. Vegan option.",
+        "science": "<p>Coconut oil is 100% fat and solid at room temperature, similar to lard. It creates good flakiness in pastry, though with a slightly different texture.</p><p>Use refined coconut oil for neutral flavor. The plant-based fat is a good option for those avoiding animal products. Keep it very cold when making pastry.</p>"
       },
       {
         "name": "Bacon Fat",
@@ -483,7 +501,8 @@
           "cooking"
         ],
         "why": "Also rendered pork fat. Same properties with smoky flavor.",
-        "notes": "Adds smoky, savory depth. Best for savory applications. Not for sweet pastries."
+        "notes": "Adds smoky, savory depth. Best for savory applications. Not for sweet pastries.",
+        "science": "<p>Bacon fat is rendered pork fat like lard, but with smoky, savory flavor compounds from the curing and smoking process.</p><p>It has identical fat properties to lard and creates excellent flakiness. The smoky flavor makes it ideal for savory applications\u2014biscuits, cornbread, pot pie crusts\u2014but not for sweet pastries.</p>"
       }
     ]
   },
@@ -510,7 +529,7 @@
         ],
         "why": "Baking powder contains baking soda plus acid. You need 4x as much because it's diluted.",
         "notes": "Only works if recipe has no other acid (buttermilk, yogurt, lemon). If recipe has acid, the extra acid in baking powder may cause metallic taste.",
-        "science": "Baking soda is pure sodium bicarbonate (NaHCO3). Baking powder is sodium bicarbonate PLUS a dry acid (usually cream of tartar or sodium aluminum sulfate) and cornstarch. Since the acid is pre-included and diluted, you need 4x the amount to get equivalent leavening power. Important: if your recipe already contains acid (buttermilk, yogurt, vinegar), the extra acid in baking powder may over-acidify your batter, creating a metallic taste."
+        "science": "<p>Baking soda is pure sodium bicarbonate (NaHCO\u2083). Baking powder is sodium bicarbonate PLUS a dry acid (usually cream of tartar or sodium aluminum sulfate) and cornstarch as a buffer.</p><p>Since the acid is pre-included and the mixture is diluted with cornstarch, you need about 4 times as much baking powder to achieve the same leavening.</p><p>Important: if your recipe already contains acid (buttermilk, yogurt, vinegar), the extra acid in baking powder may over-acidify your batter, creating a metallic taste.</p>"
       },
       {
         "name": "Self-Rising Flour (replace all-purpose)",
@@ -520,7 +539,8 @@
           "baking"
         ],
         "why": "Self-rising flour contains baking powder and salt already.",
-        "notes": "Only works if you're also using all-purpose flour in the recipe. Ratio of leavening may not be exact."
+        "notes": "Only works if you're also using all-purpose flour in the recipe. Ratio of leavening may not be exact.",
+        "science": "<p>Self-rising flour is all-purpose flour pre-mixed with baking powder and salt. It provides convenient leavening but at fixed ratios.</p><p>When substituting, you're essentially replacing your leavening system entirely. This works best when the original recipe uses all-purpose flour and baking soda together.</p>"
       },
       {
         "name": "Potassium Bicarbonate",
@@ -530,7 +550,8 @@
           "baking"
         ],
         "why": "Same chemical reaction, just with potassium instead of sodium. Identical leavening power.",
-        "notes": "Sodium-free alternative for those on restricted diets. Slightly different aftertaste."
+        "notes": "Sodium-free alternative for those on restricted diets. Slightly different aftertaste.",
+        "science": "<p>Potassium bicarbonate (KHCO\u2083) undergoes the same acid-base reaction as sodium bicarbonate, producing CO\u2082 for leavening. The chemistry is identical.</p><p>The only difference is the metal ion\u2014potassium instead of sodium. This makes it ideal for those on sodium-restricted diets. There may be a very slight difference in aftertaste.</p>"
       }
     ]
   },
@@ -556,7 +577,7 @@
         ],
         "why": "This IS what baking powder is - baking soda plus an acid (cream of tartar). Same chemistry.",
         "notes": "This is single-acting (reacts immediately). Work quickly and get batter in oven fast.",
-        "science": "This recreates baking powder from first principles. Cream of tartar (potassium bitartrate) is a dry acid that reacts with baking soda when liquid is added: NaHCO3 + KHC4H4O6 \u2192 CO2 + H2O + KNaC4H4O6. The CO2 creates bubbles for leavening. Commercial baking powder is 'double-acting'\u2014it reacts twice (when wet, then when heated). This homemade version is single-acting, so work quickly once mixed."
+        "science": "<p>This combination recreates baking powder from first principles. Cream of tartar (potassium bitartrate) is a dry acid that reacts with baking soda when liquid is added.</p><p>The reaction: NaHCO\u2083 + KHC\u2084H\u2084O\u2086 \u2192 CO\u2082 + H\u2082O + KNaC\u2084H\u2084O\u2086. The CO\u2082 gas creates bubbles that leaven your batter.</p><p>Commercial baking powder is \"double-acting\"\u2014it reacts twice (when wet, then when heated). This homemade version is single-acting, so work quickly once mixed.</p>"
       },
       {
         "name": "Baking Soda + Lemon Juice",
@@ -567,7 +588,7 @@
         ],
         "why": "Lemon juice provides the acid to activate the baking soda.",
         "notes": "May add slight lemon flavor. Single-acting, so work quickly.",
-        "science": "Citric acid in lemon juice reacts with sodium bicarbonate: 3NaHCO3 + C6H8O7 \u2192 3CO2 + 3H2O + Na3C6H5O7. This produces carbon dioxide for leavening. The reaction begins immediately upon contact, so you lose some leavening power before baking begins. Get your batter in the oven fast."
+        "science": "<p>Citric acid in lemon juice reacts with sodium bicarbonate to produce carbon dioxide: 3NaHCO\u2083 + C\u2086H\u2088O\u2087 \u2192 3CO\u2082 + 3H\u2082O + Na\u2083C\u2086H\u2085O\u2087.</p><p>The reaction begins immediately upon contact, so you lose some leavening power while mixing. Get your batter in the oven quickly.</p><p>This may add a subtle lemon flavor to your baked goods\u2014sometimes desirable, sometimes not.</p>"
       },
       {
         "name": "Baking Soda + Vinegar",
@@ -577,7 +598,8 @@
           "baking"
         ],
         "why": "Vinegar provides acid. The reaction is the classic 'volcano' effect.",
-        "notes": "Use white vinegar for neutral flavor. Apple cider vinegar adds slight taste. Work quickly!"
+        "notes": "Use white vinegar for neutral flavor. Apple cider vinegar adds slight taste. Work quickly!",
+        "science": "<p>Acetic acid in vinegar provides the acid for the classic acid-base reaction with baking soda. This is the same chemistry as the classic \"volcano\" science experiment.</p><p>White vinegar has the most neutral flavor. The reaction is immediate and vigorous, so mix quickly and bake promptly to capture the leavening gas.</p>"
       },
       {
         "name": "Baking Soda + Yogurt or Buttermilk",
@@ -587,7 +609,8 @@
           "baking"
         ],
         "why": "Cultured dairy provides lactic acid to activate baking soda.",
-        "notes": "Reduce other liquid in recipe by 1/2 cup. Adds tangy flavor and tenderness."
+        "notes": "Reduce other liquid in recipe by 1/2 cup. Adds tangy flavor and tenderness.",
+        "science": "<p>Cultured dairy products contain lactic acid from bacterial fermentation. This acid reacts with baking soda to produce CO\u2082.</p><p>The reaction is gentler than with vinegar or lemon juice, and the dairy adds its own benefits: tenderizing proteins, adding moisture, and contributing tangy flavor.</p><p>Reduce other liquids in your recipe by the amount of dairy added.</p>"
       },
       {
         "name": "Self-Rising Flour (replace all-purpose)",
@@ -597,7 +620,8 @@
           "baking"
         ],
         "why": "Self-rising flour = all-purpose flour + baking powder + salt.",
-        "notes": "1 cup self-rising flour contains about 1.5 teaspoons baking powder and 1/4 teaspoon salt."
+        "notes": "1 cup self-rising flour contains about 1.5 teaspoons baking powder and 1/4 teaspoon salt.",
+        "science": "<p>Self-rising flour contains approximately 1.5 teaspoons baking powder and 1/4 teaspoon salt per cup. It's a convenient all-in-one solution.</p><p>When substituting, remove both the baking powder and salt from your recipe. The fixed ratios work well for biscuits, pancakes, and quick breads.</p>"
       }
     ]
   },
@@ -623,7 +647,8 @@
           "baking"
         ],
         "why": "Both are acids. Lemon juice can stabilize egg whites and activate baking soda similarly.",
-        "notes": "Use for meringues and baking soda activation. May add slight lemon flavor."
+        "notes": "Use for meringues and baking soda activation. May add slight lemon flavor.",
+        "science": "<p>Both cream of tartar and lemon juice are acids, but they work differently. Cream of tartar (potassium bitartrate) is a dry acid that activates when liquid is added. Citric acid in lemon juice is already in solution.</p><p>For stabilizing egg whites, both acids work by lowering pH, which strengthens the protein network that traps air. Lemon juice works slightly faster.</p><p>For activating baking soda, lemon juice provides equivalent acid. It may add subtle citrus flavor.</p>"
       },
       {
         "name": "White Vinegar",
@@ -633,7 +658,8 @@
           "baking"
         ],
         "why": "Acetic acid provides similar acidic function.",
-        "notes": "Good for stabilizing egg whites. Neutral flavor when used in small amounts."
+        "notes": "Good for stabilizing egg whites. Neutral flavor when used in small amounts.",
+        "science": "<p>Acetic acid in vinegar serves the same acidifying function as tartaric acid. It stabilizes egg white foams by denaturing proteins at the air-water interface.</p><p>The sharp vinegar taste disappears during baking, leaving no detectable flavor. Use white vinegar for the most neutral result.</p>"
       },
       {
         "name": "Baking Powder (replace baking soda + cream of tartar)",
@@ -643,7 +669,8 @@
           "baking"
         ],
         "why": "If recipe calls for both, baking powder combines them already.",
-        "notes": "Only use this substitution if recipe calls for BOTH baking soda and cream of tartar together."
+        "notes": "Only use this substitution if recipe calls for BOTH baking soda and cream of tartar together.",
+        "science": "<p>When a recipe calls for both baking soda AND cream of tartar, it's essentially creating baking powder from scratch. Commercial baking powder combines these two ingredients (plus a starch buffer).</p><p>Substituting baking powder for the combination simplifies your ingredient list and provides more consistent results, since commercial products are precisely measured.</p>"
       }
     ]
   },
@@ -671,7 +698,7 @@
         ],
         "why": "Same organism, just processed differently. Can be mixed directly into flour.",
         "notes": "No need to dissolve in warm water first. Slightly faster rise time.",
-        "science": "Both active dry and instant yeast are Saccharomyces cerevisiae. The difference is processing: active dry yeast is dried at higher temperatures, killing outer cells and creating a protective dead cell layer. This layer must dissolve in warm water before inner living cells can activate. Instant yeast is dried more gently, leaving more cells alive and accessible, so it can be mixed directly with flour."
+        "science": "<p>Both active dry and instant yeast are the same organism: Saccharomyces cerevisiae. The difference is processing method.</p><p>Active dry yeast is dried at higher temperatures, killing outer cells and creating a protective dead cell layer. This layer must dissolve in warm water (proofing) before the living inner cells can activate.</p><p>Instant yeast is dried more gently, leaving more cells alive and directly accessible. It can be mixed straight into flour without proofing.</p>"
       },
       {
         "name": "Fresh Yeast (Cake Yeast)",
@@ -681,7 +708,8 @@
           "baking"
         ],
         "why": "Same organism in fresh form. More perishable but works identically.",
-        "notes": "Crumble and dissolve in liquid. Must be refrigerated. Check expiration date."
+        "notes": "Crumble and dissolve in liquid. Must be refrigerated. Check expiration date.",
+        "science": "<p>Fresh yeast is the original form\u2014live yeast cells compressed into a moist cake. It's more perishable but many bakers prefer its performance.</p><p>The yeast cells are already fully hydrated and active, so fermentation begins quickly. Use 2-3 times the weight of fresh yeast compared to dry yeast.</p><p>Fresh yeast must be refrigerated and used within a couple weeks. Check for off odors before using.</p>"
       },
       {
         "name": "Sourdough Starter",
@@ -692,7 +720,7 @@
         ],
         "why": "Wild yeast and bacteria. Provides leavening plus complex flavor.",
         "notes": "Much longer rise time (6-12 hours). Adds tangy flavor. Adjust flour/liquid in recipe.",
-        "science": "Sourdough starter is a symbiotic culture of wild yeasts AND lactic acid bacteria. The yeasts (often Saccharomyces and Candida species) provide leavening, while bacteria (Lactobacillus) produce lactic and acetic acids that give sourdough its tang. This fermentation is slower but produces more complex flavor compounds through extended enzymatic activity."
+        "science": "<p>Sourdough starter is a symbiotic culture of wild yeasts AND lactic acid bacteria. The yeasts (often Saccharomyces and Candida species) provide leavening, while bacteria (Lactobacillus) produce acids that give sourdough its tang.</p><p>Fermentation is much slower\u2014often 6-12 hours or overnight\u2014but produces more complex flavors through extended enzymatic activity.</p><p>You'll need to adjust flour and liquid in your recipe since starter contains both. Expect about 1 cup starter to replace 1 packet yeast.</p>"
       },
       {
         "name": "Baking Powder (for quick breads only)",
@@ -702,7 +730,8 @@
           "baking"
         ],
         "why": "Chemical leavening can substitute in some recipes, but won't develop yeast flavor or texture.",
-        "notes": "NOT for bread - only for things like pizza dough in a pinch. No rise time needed but texture is different."
+        "notes": "NOT for bread - only for things like pizza dough in a pinch. No rise time needed but texture is different.",
+        "science": "<p>Baking powder provides chemical leavening\u2014CO\u2082 from an acid-base reaction\u2014rather than biological leavening from yeast fermentation.</p><p>This works for quick breads where you don't need the flavor development and gluten structure that long fermentation provides. It's not suitable for traditional bread, which relies on yeast for texture and taste.</p><p>The advantage is speed: no rising time required.</p>"
       }
     ]
   },
@@ -732,7 +761,7 @@
         ],
         "why": "Similar fat content and thickness. Can even be whipped when very cold.",
         "notes": "Adds coconut flavor. Refrigerate can overnight, use only the solid cream on top. Great for dairy-free.",
-        "science": "Heavy cream's whipping ability comes from its fat globules (36-40%) surrounded by protein membranes. When whipped, air is incorporated and fat globules cluster around air bubbles. Coconut cream has similar fat content (24%+) and can form comparable structures when very cold. The fat must be solid to trap air\u2014that's why refrigerating overnight is essential."
+        "science": "<p>Heavy cream's whipping ability comes from fat globules (36-40% fat) surrounded by protein membranes. When whipped, air is incorporated and fat globules cluster around air bubbles, stabilizing them.</p><p>Coconut cream has similar fat content (24%+) and can form comparable structures when very cold. The fat must be solid to trap air effectively.</p><p>Refrigerate the can overnight, then scoop only the solid cream. The coconut flavor is noticeable but complements many desserts.</p>"
       },
       {
         "name": "Milk + Butter",
@@ -743,7 +772,7 @@
         ],
         "why": "Adds fat back to low-fat milk to approximate cream's richness.",
         "notes": "Cannot be whipped. Good for sauces, soups, baking. May separate if boiled - add at end of cooking.",
-        "science": "This combination attempts to reconstruct cream's fat content by adding butter (80% fat) to low-fat milk (3.25% fat). However, the emulsion is unstable because the fat isn't properly homogenized with the milk proteins. It works for adding richness to sauces but will break (separate into fat and liquid) if boiled or whipped."
+        "science": "<p>This combination attempts to reconstruct cream's fat content by adding butter (80% fat) to milk (3.25% fat). The math works out to similar fat levels.</p><p>However, the emulsion is unstable because the fat isn't properly homogenized with the milk proteins. Homogenization in real cream breaks fat into tiny droplets coated with proteins.</p><p>This substitute works for adding richness to sauces but will break (separate) if boiled or whipped.</p>"
       },
       {
         "name": "Greek Yogurt + Milk",
@@ -753,7 +782,8 @@
           "cooking"
         ],
         "why": "Provides thickness and tang. Lower fat but good body.",
-        "notes": "Cannot be whipped. Add at end of cooking to prevent curdling. Adds tangy flavor."
+        "notes": "Cannot be whipped. Add at end of cooking to prevent curdling. Adds tangy flavor.",
+        "science": "<p>This combination provides thickness from yogurt's strained proteins and moisture from milk. The result approximates cream's body without matching its fat content.</p><p>Greek yogurt is tangy from lactic acid fermentation, which adds flavor. The proteins may curdle if heated too aggressively.</p><p>Best for cold applications or adding at the end of cooking. Cannot be whipped.</p>"
       },
       {
         "name": "Evaporated Milk",
@@ -765,7 +795,7 @@
         ],
         "why": "Concentrated milk with similar consistency. About 6-8% fat.",
         "notes": "Cannot be whipped unless very cold (and even then, not as well). Slightly caramelized flavor.",
-        "science": "Evaporated milk is regular milk with 60% of its water removed through vacuum evaporation. This concentrates the proteins, fat, and sugars, giving it body similar to cream despite lower fat (6-8% vs 36%). The heating process also causes slight caramelization of lactose, adding a subtle cooked flavor."
+        "science": "<p>Evaporated milk is regular milk with 60% of its water removed through vacuum evaporation. This concentrates the proteins, fat (6-8%), and sugars.</p><p>The concentration gives it body similar to cream despite lower fat. The heating process also causes slight Maillard browning, adding a subtle caramelized flavor.</p><p>Can be whipped if ultra-cold, but the foam is less stable than cream.</p>"
       },
       {
         "name": "Silken Tofu + Soy Milk",
@@ -775,7 +805,8 @@
           "cooking"
         ],
         "why": "Creates creamy consistency for sauces. Dairy-free option.",
-        "notes": "Cannot be whipped. Blend until very smooth. Neutral flavor."
+        "notes": "Cannot be whipped. Blend until very smooth. Neutral flavor.",
+        "science": "<p>Blending silken tofu with soy milk creates a creamy emulsion with neutral flavor. The soy proteins provide body and some emulsification.</p><p>This vegan option works well in sauces and soups where cream provides richness and body. It cannot be whipped.</p><p>Blend until completely smooth to avoid any graininess.</p>"
       },
       {
         "name": "Cashew Cream",
@@ -785,7 +816,8 @@
           "cooking"
         ],
         "why": "Blended cashews create rich, creamy texture similar to cream.",
-        "notes": "Soak 1 cup raw cashews 4+ hours, blend with 1/2-3/4 cup water until smooth. Cannot whip."
+        "notes": "Soak 1 cup raw cashews 4+ hours, blend with 1/2-3/4 cup water until smooth. Cannot whip.",
+        "science": "<p>Soaked cashews blended with water create a remarkably cream-like emulsion. Cashews are high in fat and starch, which emulsify smoothly.</p><p>The resulting cream is rich, neutral-flavored, and works in both sweet and savory applications. It's especially popular in vegan cooking for sauces and soups.</p><p>Cannot be whipped, but provides excellent richness.</p>"
       }
     ]
   },
@@ -1045,7 +1077,7 @@
         ],
         "why": "Similar consistency and neutral flavor. Contains some fat and natural sugars for browning.",
         "notes": "Best plant milk for baking. Creamy texture closest to dairy milk.",
-        "science": "Oat milk is made by blending oats with water and straining. The result contains beta-glucans (soluble fiber) that give it a creamy mouthfeel similar to dairy. It also contains some protein and natural sugars that participate in Maillard browning during baking. The fat content varies by brand (usually 2-5%), closer to dairy milk than most alternatives."
+        "science": "<p>Oat milk is made by blending oats with water and straining. The result contains beta-glucans (soluble fiber) that give it a creamy mouthfeel remarkably similar to dairy milk.</p><p>It contains some protein and natural sugars that participate in Maillard browning during baking. Fat content varies by brand (typically 2-5%), approaching whole milk levels.</p><p>The neutral flavor and similar behavior make it the top plant milk for baking.</p>"
       },
       {
         "name": "Soy Milk",
@@ -1057,7 +1089,7 @@
         ],
         "why": "Highest protein of plant milks, similar to dairy. Good browning.",
         "notes": "Slight bean flavor in some brands. Unsweetened, unflavored works best.",
-        "science": "Soy milk has the highest protein content of plant milks (6-8g per cup vs cow's milk 8g), and the proteins can coagulate and contribute to structure similarly to casein. It also contains natural emulsifiers. The slight beany flavor comes from lipoxygenase enzymes acting on fatty acids\u2014heat treatment during production minimizes this."
+        "science": "<p>Soy milk has the highest protein content of plant milks (6-8g per cup, similar to cow's milk at 8g). These proteins can coagulate and contribute to structure similarly to dairy casein.</p><p>The proteins also participate in Maillard browning, helping baked goods develop golden color. Natural emulsifiers in soy help with batter consistency.</p><p>Some brands have a beany flavor from lipoxygenase enzymes\u2014choose unflavored, unsweetened varieties for baking.</p>"
       },
       {
         "name": "Almond Milk",
@@ -1068,7 +1100,8 @@
           "cooking"
         ],
         "why": "Works as liquid replacement. Much lower in protein and fat.",
-        "notes": "Thinner than dairy milk. May result in slightly less tender baked goods. Subtle nutty flavor."
+        "notes": "Thinner than dairy milk. May result in slightly less tender baked goods. Subtle nutty flavor.",
+        "science": "<p>Almond milk is lower in both protein and fat than dairy milk. It works as a liquid substitute but won't contribute the same structural properties.</p><p>Baked goods may be slightly less tender due to reduced protein interference with gluten. The subtle nutty flavor usually disappears in baking.</p><p>Choose unsweetened varieties to maintain proper sugar balance in recipes.</p>"
       },
       {
         "name": "Coconut Milk (carton, not canned)",
@@ -1079,7 +1112,8 @@
           "cooking"
         ],
         "why": "Similar consistency to dairy milk. Contains some fat.",
-        "notes": "Adds subtle coconut flavor. Don't confuse with thick canned coconut milk."
+        "notes": "Adds subtle coconut flavor. Don't confuse with thick canned coconut milk.",
+        "science": "<p>Carton coconut milk (a beverage) is diluted to have similar consistency to dairy milk, unlike thick canned coconut milk.</p><p>It contains more fat than almond milk but less protein than soy. The coconut flavor is subtle and complements many baked goods.</p><p>Don't confuse with canned coconut milk, which is much thicker and fattier.</p>"
       },
       {
         "name": "Half-and-Half + Water",
@@ -1090,7 +1124,8 @@
           "cooking"
         ],
         "why": "Dilutes the higher fat of half-and-half to approximate whole milk.",
-        "notes": "Good option if you have half-and-half but no milk."
+        "notes": "Good option if you have half-and-half but no milk.",
+        "science": "<p>Half-and-half is half milk, half cream (about 12% fat). Diluting it 1:1 with water brings the fat content down to approximately that of whole milk (3.25%).</p><p>This works perfectly when you have half-and-half but no milk. The proteins and sugars are slightly more concentrated than regular milk, but this rarely matters.</p>"
       },
       {
         "name": "Powdered Milk (reconstituted)",
@@ -1101,7 +1136,8 @@
           "cooking"
         ],
         "why": "Dried milk reconstitutes to the same product. Shelf-stable option.",
-        "notes": "Follow package directions for ratio. Works well in baking where fresh milk taste isn't critical."
+        "notes": "Follow package directions for ratio. Works well in baking where fresh milk taste isn't critical.",
+        "science": "<p>Powdered milk is made by spray-drying fresh milk, removing water while preserving proteins, fats, and sugars. Reconstituting with water reverses the process.</p><p>The proteins may be slightly denatured from heat during drying, but this rarely affects baking results. The convenience of shelf-stable storage makes it a valuable pantry item.</p>"
       }
     ]
   },
@@ -1129,7 +1165,8 @@
           "cooking"
         ],
         "why": "Nearly identical taste and consistency. Same tangy, cultured flavor.",
-        "notes": "Full-fat Greek yogurt is closest. Lower fat works but slightly less rich."
+        "notes": "Full-fat Greek yogurt is closest. Lower fat works but slightly less rich.",
+        "science": "<p>Both sour cream and Greek yogurt are cultured dairy products with lactic acid bacteria. The fermentation produces the characteristic tang.</p><p>Greek yogurt has more protein and less fat than sour cream, but similar acidity and thickness. Full-fat Greek yogurt is closest in richness.</p><p>The cultures behave identically in baking, tenderizing gluten and activating leavening. Most people can't detect any difference.</p>"
       },
       {
         "name": "Cottage Cheese (blended)",
@@ -1140,7 +1177,8 @@
           "cooking"
         ],
         "why": "When blended, has similar consistency and tangy flavor.",
-        "notes": "Must blend until completely smooth. Add 1-2 tablespoons milk if too thick."
+        "notes": "Must blend until completely smooth. Add 1-2 tablespoons milk if too thick.",
+        "science": "<p>Cottage cheese is curds of casein protein in whey. When blended smooth, the curds break down into a creamy texture similar to sour cream.</p><p>The tanginess comes from the same lactic acid fermentation. Blending thoroughly is essential\u2014any remaining curds create unwanted texture.</p><p>Add a splash of milk if needed to achieve the right consistency.</p>"
       },
       {
         "name": "Cream Cheese + Milk",
@@ -1150,7 +1188,8 @@
           "cooking"
         ],
         "why": "Similar richness and tang when thinned with milk.",
-        "notes": "Slightly denser. Best for dips and sauces, not ideal for baking."
+        "notes": "Slightly denser. Best for dips and sauces, not ideal for baking.",
+        "science": "<p>Cream cheese is a fresh, high-fat cultured cheese. Thinning with milk approximates sour cream's consistency.</p><p>The fat content is higher than sour cream, making results richer. The tang is similar since both use lactic acid cultures.</p><p>Better for dips and sauces than for baking, where the higher fat might affect texture.</p>"
       },
       {
         "name": "Coconut Cream + Lemon",
@@ -1160,7 +1199,8 @@
           "cooking"
         ],
         "why": "Coconut cream provides richness, lemon adds tang. Dairy-free option.",
-        "notes": "Will have coconut undertone. Let sit 10 min to thicken and develop tang."
+        "notes": "Will have coconut undertone. Let sit 10 min to thicken and develop tang.",
+        "science": "<p>Coconut cream provides the fat and thickness of sour cream. Lemon juice adds the acid that creates tanginess.</p><p>The result has a subtle coconut undertone. Letting it sit for 10 minutes allows the acid to thicken the proteins slightly.</p><p>This dairy-free option works well in most applications except where sour cream's specific cultures matter.</p>"
       },
       {
         "name": "Mexican Crema",
@@ -1170,7 +1210,8 @@
           "cooking"
         ],
         "why": "Very similar cultured cream product. Slightly thinner and milder.",
-        "notes": "Great for tacos and Mexican dishes. Pourable consistency."
+        "notes": "Great for tacos and Mexican dishes. Pourable consistency.",
+        "science": "<p>Mexican crema is a cultured cream very similar to sour cream but with slightly lower acidity and higher fat content. It's thinner and more pourable.</p><p>The cultures are similar\u2014both use lactic acid bacteria. Crema's milder tang and creamier texture make it ideal for drizzling over tacos and Mexican dishes.</p>"
       }
     ]
   },
@@ -1200,7 +1241,7 @@
         ],
         "why": "Similar richness and consistency. Mascarpone is slightly sweeter and less tangy.",
         "notes": "Italian cream cheese essentially. Perfect for cheesecakes and frostings.",
-        "science": "Both cream cheese and mascarpone are fresh, high-fat cheeses made by acidifying cream. Cream cheese uses lactic acid bacterial cultures for tangy flavor, while mascarpone uses citric or tartaric acid for a milder taste. The fat content is similar (33% vs 40%), and both provide the dense, spreadable texture needed for cheesecakes and frostings."
+        "science": "<p>Both cream cheese and mascarpone are fresh, high-fat cheeses made by acidifying cream. The difference is the acid used.</p><p>Cream cheese uses lactic acid bacterial cultures, creating tanginess. Mascarpone uses citric or tartaric acid, resulting in a milder, sweeter flavor.</p><p>The fat content is similar (33% vs 40%), and both provide the dense, spreadable texture needed for cheesecakes and frostings.</p>"
       },
       {
         "name": "Greek Yogurt (strained overnight)",
@@ -1212,7 +1253,7 @@
         ],
         "why": "When strained, achieves similar thick consistency. Similar tang.",
         "notes": "Strain through cheesecloth 8+ hours. Lower fat, more protein. Works for dips and spreads.",
-        "science": "Greek yogurt already has much of its whey removed, and further straining concentrates the proteins and fat while removing more liquid. The result is a thick, spreadable consistency approaching cream cheese. The tanginess comes from the same lactic acid produced in cream cheese, making the flavor profile similar though the fat content is lower."
+        "science": "<p>Greek yogurt already has much whey removed. Further straining concentrates proteins and fat while removing more liquid.</p><p>After 8+ hours of straining through cheesecloth, the consistency approaches cream cheese. The tanginess comes from the same lactic acid found in cream cheese.</p><p>Fat content is lower, making this a lighter option. Works for dips and spreads; may affect cheesecake texture.</p>"
       },
       {
         "name": "Ricotta (blended)",
@@ -1222,7 +1263,8 @@
           "baking"
         ],
         "why": "Provides creamy cheese texture. Slightly grainy but works in baking.",
-        "notes": "Blend until completely smooth. Best in baked applications, not raw spreads."
+        "notes": "Blend until completely smooth. Best in baked applications, not raw spreads.",
+        "science": "<p>Ricotta is a fresh Italian cheese made from whey proteins rather than casein. When blended smooth, it achieves a spreadable consistency.</p><p>The flavor is milder and slightly grainy compared to cream cheese. Blending helps but doesn't completely eliminate the grain.</p><p>Works better in baked applications like cheesecake, where baking smooths the texture.</p>"
       },
       {
         "name": "Cottage Cheese (blended)",
@@ -1232,7 +1274,8 @@
           "cooking"
         ],
         "why": "When blended smooth, provides similar texture with less fat.",
-        "notes": "Must blend thoroughly. Lower fat, higher protein. Best for dips and cooking."
+        "notes": "Must blend thoroughly. Lower fat, higher protein. Best for dips and cooking.",
+        "science": "<p>Cottage cheese is casein curds in whey. Blending breaks down the curds into a smooth spread.</p><p>It's lower in fat and higher in protein than cream cheese. Must be blended very thoroughly\u2014any remaining curds affect texture significantly.</p><p>The lighter profile makes it good for dips and cooking, less ideal for rich desserts.</p>"
       },
       {
         "name": "Cashew Cream Cheese",
@@ -1242,7 +1285,8 @@
           "cooking"
         ],
         "why": "Vegan option with similar spreadable texture.",
-        "notes": "Homemade: blend soaked cashews with lemon juice and salt. Or use store-bought (Miyoko's, Kite Hill)."
+        "notes": "Homemade: blend soaked cashews with lemon juice and salt. Or use store-bought (Miyoko's, Kite Hill).",
+        "science": "<p>Soaked raw cashews blended with lemon juice, salt, and often probiotics create a cream cheese analogue. The cashew fats emulsify smoothly.</p><p>Adding probiotics or rejuvelac (fermented grain water) introduces cultured tanginess. Even without culturing, lemon juice provides acidity.</p><p>Commercial versions (Miyoko's, Kite Hill) have perfected the texture and flavor through controlled fermentation.</p>"
       }
     ]
   },
@@ -1271,7 +1315,8 @@
           "cooking"
         ],
         "why": "Both are cultured dairy with similar acidity and tang. Sour cream is richer.",
-        "notes": "Results will be slightly richer. Works perfectly in baking and sauces."
+        "notes": "Results will be slightly richer. Works perfectly in baking and sauces.",
+        "science": "<p>Both yogurt and sour cream are fermented dairy with lactic acid bacteria cultures. The main difference is fat content: sour cream has 18-20% fat versus yogurt's 3-5%.</p><p>In baking, both provide acidity that tenderizes gluten and activates baking soda. Sour cream's higher fat creates richer results.</p><p>The cultures are interchangeable for their functional properties.</p>"
       },
       {
         "name": "Buttermilk",
@@ -1281,7 +1326,8 @@
           "baking"
         ],
         "why": "Similar cultured tang and acidity. Thinner consistency.",
-        "notes": "Buttermilk is thinner - reduce other liquids in recipe or use less."
+        "notes": "Buttermilk is thinner - reduce other liquids in recipe or use less.",
+        "science": "<p>Buttermilk is thinner than yogurt but has similar cultured tanginess from lactic acid fermentation. Use less (about 3/4 cup) to compensate for yogurt's thickness.</p><p>You may need to reduce other liquids in the recipe. The acidity and tenderizing effects are equivalent.</p>"
       },
       {
         "name": "Cottage Cheese (blended)",
@@ -1291,7 +1337,8 @@
           "cooking"
         ],
         "why": "When blended smooth, similar consistency and mild tangy flavor.",
-        "notes": "Blend until completely smooth. Add splash of milk if needed for consistency."
+        "notes": "Blend until completely smooth. Add splash of milk if needed for consistency.",
+        "science": "<p>Cottage cheese blended smooth approximates yogurt's texture and mild tangy flavor. It's higher in protein and has different fat distribution.</p><p>The lactic acid content is similar, providing comparable functionality in cooking. Add a splash of milk for proper consistency.</p>"
       },
       {
         "name": "Coconut Yogurt",
@@ -1302,7 +1349,8 @@
           "cooking"
         ],
         "why": "Same cultured, tangy properties. Dairy-free alternative.",
-        "notes": "Adds subtle coconut flavor. Works well in baking and smoothies."
+        "notes": "Adds subtle coconut flavor. Works well in baking and smoothies.",
+        "science": "<p>Coconut yogurt is made by fermenting coconut cream with the same bacterial cultures used for dairy yogurt. The fermentation produces identical lactic acid.</p><p>The result is tangy and creamy like dairy yogurt. Coconut fat is more saturated than dairy fat, so texture may differ slightly.</p><p>A completely dairy-free option that works in most recipes.</p>"
       },
       {
         "name": "Silken Tofu + Lemon Juice",
@@ -1312,7 +1360,8 @@
           "cooking"
         ],
         "why": "Tofu provides creamy texture, lemon adds tang. Vegan option.",
-        "notes": "Blend until completely smooth. Good for dressings and smoothies."
+        "notes": "Blend until completely smooth. Good for dressings and smoothies.",
+        "science": "<p>Blended silken tofu creates a creamy base, while lemon juice adds the acidity that yogurt provides through fermentation.</p><p>The protein content is similar, though soy proteins behave differently than dairy casein. Works well for smoothies and dressings.</p><p>For baking, the acid from lemon provides similar functionality to lactic acid.</p>"
       }
     ]
   },
@@ -1521,7 +1570,7 @@
         ],
         "why": "Flour thickens well but needs twice as much. Contains protein so it's not as pure a starch.",
         "notes": "Must cook 2-3 minutes to remove raw flour taste. Results are opaque, not glossy. Make a slurry first.",
-        "science": "Cornstarch is pure starch (amylose and amylopectin), while flour contains starch plus 10-12% protein (gluten). Starch thickens by absorbing water and swelling when heated\u2014a process called gelatinization. Flour's proteins create cloudiness and can make sauces taste 'floury' if undercooked. You need 2x flour because only half of it is starch."
+        "science": "<p>Cornstarch is pure starch (chains of amylose and amylopectin), while flour contains starch plus 10-12% protein (gluten-forming).</p><p>Starch thickens by absorbing water and swelling when heated\u2014a process called gelatinization. The starch granules burst and release their contents, creating thickness.</p><p>Flour's proteins create cloudiness and require longer cooking to remove the raw taste. You need twice as much flour since only about half is starch.</p>"
       },
       {
         "name": "Arrowroot Powder",
@@ -1532,7 +1581,7 @@
         ],
         "why": "Nearly identical thickening power. Also a pure starch.",
         "notes": "Creates glossy, clear sauces like cornstarch. Doesn't hold up to prolonged cooking or reheating.",
-        "science": "Arrowroot is a pure starch extracted from the Maranta arundinacea plant. It gelatinizes at a lower temperature than cornstarch and creates an exceptionally clear, glossy gel. However, its starch structure breaks down more easily with prolonged heat or when cooled and reheated, causing sauces to thin out."
+        "science": "<p>Arrowroot is a pure starch extracted from the Maranta arundinacea plant. It gelatinizes at a lower temperature than cornstarch.</p><p>The resulting gel is exceptionally clear and glossy\u2014even more so than cornstarch. This makes it ideal for fruit glazes and clear sauces.</p><p>However, arrowroot breaks down with prolonged heating or freezing. Use it for sauces served immediately.</p>"
       },
       {
         "name": "Tapioca Starch",
@@ -1543,7 +1592,7 @@
         ],
         "why": "Another pure starch thickener. Creates slightly chewy, glossy texture.",
         "notes": "Can become stringy if overcooked. Great for fruit pies.",
-        "science": "Tapioca starch (from cassava root) has a unique ratio of amylose to amylopectin that creates a slightly chewy, stretchy texture\u2014perfect for fruit pie fillings where you want the filling to hold together when sliced. It becomes stringy if overcooked because the amylopectin chains begin to break down."
+        "science": "<p>Tapioca starch comes from cassava root. It has a unique ratio of amylose to amylopectin that creates a slightly chewy, stretchy texture.</p><p>This makes it perfect for fruit pie fillings\u2014they hold together when sliced but have pleasant texture. It also creates glossy sauces.</p><p>Overheating makes tapioca stringy, so use it for dishes that won't be cooked too long.</p>"
       },
       {
         "name": "Potato Starch",
@@ -1553,7 +1602,8 @@
           "cooking"
         ],
         "why": "Similar thickening power to cornstarch. Pure starch with neutral flavor.",
-        "notes": "Breaks down at high heat or with prolonged cooking. Add at end."
+        "notes": "Breaks down at high heat or with prolonged cooking. Add at end.",
+        "science": "<p>Potato starch has large granules that swell dramatically when heated. It creates a clear, glossy gel similar to cornstarch.</p><p>However, potato starch is more fragile\u2014it breaks down with prolonged cooking or when reheated. It also has a slightly lower gelatinization temperature.</p><p>Add near the end of cooking for best results. Popular in gluten-free and Passover baking.</p>"
       },
       {
         "name": "Rice Flour",
@@ -1563,7 +1613,8 @@
           "cooking"
         ],
         "why": "Provides thickening, though not as strong as pure starch.",
-        "notes": "Creates slightly grainy texture. Best for gravies where smoothness isn't critical."
+        "notes": "Creates slightly grainy texture. Best for gravies where smoothness isn't critical.",
+        "science": "<p>Rice flour contains starch plus some protein, similar to wheat flour. It provides thickening but creates a slightly grainy texture.</p><p>The proteins prevent the completely smooth gel that pure starches achieve. Better for rustic gravies and sauces where perfect smoothness isn't critical.</p><p>Use twice as much as cornstarch.</p>"
       }
     ]
   },
@@ -1839,7 +1890,7 @@
         ],
         "why": "This IS what brown sugar is - white sugar with molasses added back.",
         "notes": "Mix thoroughly. This is the perfect substitute - same chemistry.",
-        "science": "Brown sugar literally IS white sugar with molasses added back. During sugar refining, molasses (the syrup remaining after sugar crystallization) is removed to create white sugar. Adding it back recreates brown sugar exactly. Molasses contains minerals (calcium, iron, potassium), moisture, and flavor compounds (melanoidins from Maillard reactions) that give brown sugar its character."
+        "science": "<p>Brown sugar is literally white sugar with molasses added. During sugar refining, molasses is removed from raw cane juice to create white sugar. Adding it back creates brown sugar.</p><p>Light brown sugar contains about 3.5% molasses; dark brown has about 6.5%. This formula perfectly replicates commercial brown sugar.</p><p>The molasses provides moisture, mineral content, and the flavor compounds that give brown sugar its character.</p>"
       },
       {
         "name": "Coconut Sugar",
@@ -1851,7 +1902,7 @@
         ],
         "why": "Similar caramel flavor and color. Contains some moisture.",
         "notes": "Slightly less sweet, grainier texture. Won't cream as smoothly with butter.",
-        "science": "Coconut sugar is made by evaporating sap from coconut palm flower buds. It contains sucrose (like cane sugar) but also retains some nutrients and inulin fiber from the sap. The caramel flavor comes from Maillard browning during production. It's less processed than refined sugars but behaves similarly in most recipes."
+        "science": "<p>Coconut sugar is made by evaporating sap from coconut palm flower buds. It contains sucrose (like cane sugar) plus minerals and inulin fiber from the sap.</p><p>The caramel flavor comes from Maillard reactions during evaporation. It has a lower glycemic index than white sugar.</p><p>Won't cream as smoothly as brown sugar due to different crystal structure, but provides similar flavor.</p>"
       },
       {
         "name": "Maple Sugar",
@@ -1861,7 +1912,8 @@
           "baking"
         ],
         "why": "Provides similar moisture and caramel-like depth.",
-        "notes": "Adds maple flavor. Expensive but delicious in cookies."
+        "notes": "Adds maple flavor. Expensive but delicious in cookies.",
+        "science": "<p>Maple sugar is crystallized maple syrup\u2014all the water is evaporated, leaving pure maple crystals. It contains sucrose plus maple's distinctive flavor compounds.</p><p>The moisture content and behavior are similar to brown sugar. The flavor is different but provides comparable depth and complexity.</p><p>More expensive but delicious in cookies and recipes where maple complements.</p>"
       },
       {
         "name": "White Sugar (in a pinch)",
@@ -1871,7 +1923,8 @@
           "baking"
         ],
         "why": "Provides sweetness, though missing moisture and flavor.",
-        "notes": "Cookies will be crisper and less chewy. Flavor will be less complex."
+        "notes": "Cookies will be crisper and less chewy. Flavor will be less complex.",
+        "science": "<p>White sugar provides sweetness but lacks the moisture and flavor compounds in molasses. Results will be noticeably different.</p><p>Cookies made with white sugar are crisper and spread more (brown sugar's acidity creates a chewier texture). The caramel notes will be absent.</p><p>Only use when you have no other options.</p>"
       }
     ]
   },
@@ -1957,7 +2010,7 @@
         ],
         "why": "Similar consistency, sweetness, and moisture-retaining properties.",
         "notes": "Adds distinct maple flavor. Works beautifully in most applications.",
-        "science": "Both honey and maple syrup are supersaturated sugar solutions with complex flavor compounds. Honey is primarily fructose and glucose from plant nectar, processed by bee enzymes. Maple syrup is sucrose from tree sap, concentrated by boiling. Both contain antioxidants, have hygroscopic properties (attract and retain moisture), and promote Maillard browning in baking."
+        "science": "<p>Both honey and maple syrup are natural liquid sweeteners with similar viscosity and hygroscopic (moisture-attracting) properties.</p><p>Honey is primarily fructose and glucose from flower nectar. Maple syrup is primarily sucrose from tree sap with distinctive flavor compounds.</p><p>Both promote Maillard browning and retain moisture in baked goods. The flavor profiles differ significantly.</p>"
       },
       {
         "name": "Agave Nectar",
@@ -1969,7 +2022,7 @@
         ],
         "why": "Similar liquid consistency. Agave is actually sweeter than honey.",
         "notes": "Neutral flavor, thinner than honey. Vegan alternative.",
-        "science": "Agave nectar is about 90% fructose (compared to honey's 40% fructose, 30% glucose). Fructose is 1.5x sweeter than sucrose, which is why you need less agave. Its high fructose content also means it has a lower glycemic index. The neutral flavor and thin consistency differ from honey but the hygroscopic properties (moisture retention) are similar."
+        "science": "<p>Agave nectar is about 90% fructose, making it 1.5 times sweeter than honey. This is why you need less\u2014the intense sweetness compensates.</p><p>Fructose has a lower glycemic index than glucose or sucrose. The neutral flavor and thin consistency differ from honey's distinctive taste.</p><p>It has similar hygroscopic properties, keeping baked goods moist.</p>"
       },
       {
         "name": "Corn Syrup",
@@ -1980,7 +2033,8 @@
           "cooking"
         ],
         "why": "Similar liquid texture and moisture properties.",
-        "notes": "No distinct flavor like honey. Use light corn syrup for neutral taste."
+        "notes": "No distinct flavor like honey. Use light corn syrup for neutral taste.",
+        "science": "<p>Corn syrup is glucose derived from corn starch through enzymatic processing. It's less sweet than honey, requiring more to achieve equivalent sweetness.</p><p>Light corn syrup has neutral flavor; dark corn syrup has molasses-like notes. Both prevent crystallization in candies and provide moisture in baking.</p>"
       },
       {
         "name": "Molasses + Sugar",
@@ -1990,7 +2044,8 @@
           "baking"
         ],
         "why": "Provides sweetness plus some depth and moisture.",
-        "notes": "Adds strong molasses flavor - good in gingerbread, not for delicate recipes."
+        "notes": "Adds strong molasses flavor - good in gingerbread, not for delicate recipes.",
+        "science": "<p>This combination provides sweetness from sugar and some of honey's depth from molasses. Molasses contains minerals and flavor compounds from sugar refining.</p><p>The result won't match honey's floral complexity but provides similar moisture retention. Works well in dark, spiced baked goods.</p>"
       },
       {
         "name": "Brown Rice Syrup",
@@ -2001,7 +2056,8 @@
           "cooking"
         ],
         "why": "Similar sticky consistency. Less sweet than honey.",
-        "notes": "Mild, slightly nutty flavor. Good vegan option."
+        "notes": "Mild, slightly nutty flavor. Good vegan option.",
+        "science": "<p>Brown rice syrup is made by breaking down rice starch into sugars using enzymes. It's less sweet than honey (about 50% as sweet).</p><p>The mild, slightly nutty flavor works in many applications. It provides similar moisture retention and doesn't crystallize easily.</p><p>A good vegan option when honey's specific flavor isn't essential.</p>"
       }
     ]
   },
@@ -2088,7 +2144,8 @@
           "cooking"
         ],
         "why": "The source of vanilla extract - pure vanilla flavor with visible specks.",
-        "notes": "More expensive but more aromatic. Save the pod to make vanilla sugar."
+        "notes": "More expensive but more aromatic. Save the pod to make vanilla sugar.",
+        "science": "<p>Vanilla extract is made by soaking vanilla beans in alcohol to extract the flavor compounds\u2014primarily vanillin, plus hundreds of other aromatic molecules.</p><p>Using the bean directly provides these compounds more intensely, plus visible specks that many find appealing. One inch of bean equals about one teaspoon of extract.</p><p>Save the scraped pod to make vanilla sugar by burying it in granulated sugar.</p>"
       },
       {
         "name": "Vanilla Paste",
@@ -2098,7 +2155,8 @@
           "baking"
         ],
         "why": "Concentrated vanilla with bean specks. Same flavor, thicker consistency.",
-        "notes": "Slightly more intense. Beautiful specks in custards and ice cream."
+        "notes": "Slightly more intense. Beautiful specks in custards and ice cream.",
+        "science": "<p>Vanilla paste is a concentrated mixture of vanilla extract, vanilla bean seeds, and a thickener (usually sugar or glycerin). It provides intense flavor plus the visual appeal of bean specks.</p><p>The thicker consistency means it doesn't evaporate as readily as extract during baking. Particularly good for custards and ice creams where you want visible vanilla.</p>"
       },
       {
         "name": "Maple Syrup",
@@ -2108,7 +2166,8 @@
           "baking"
         ],
         "why": "Adds similar warmth and depth, though different flavor profile.",
-        "notes": "Works when vanilla complements (pancakes, oatmeal cookies). Not for vanilla-forward recipes."
+        "notes": "Works when vanilla complements (pancakes, oatmeal cookies). Not for vanilla-forward recipes.",
+        "science": "<p>Maple syrup contains flavor compounds (primarily maple lactone) that provide similar warmth and depth to vanilla, though distinctly different.</p><p>Both are natural plant-derived flavors that complement sweet baked goods. Maple works especially well in recipes where its distinctive flavor is welcome.</p><p>Not appropriate for vanilla-forward desserts like vanilla cake.</p>"
       },
       {
         "name": "Almond Extract",
@@ -2118,7 +2177,8 @@
           "baking"
         ],
         "why": "Provides aromatic depth, though distinctly different flavor.",
-        "notes": "Use half as much - almond extract is very strong. Good in cookies, cakes."
+        "notes": "Use half as much - almond extract is very strong. Good in cookies, cakes.",
+        "science": "<p>Almond extract contains benzaldehyde, which provides a strong, distinctive nutty-floral aroma. It's much more concentrated than vanilla.</p><p>Use half as much\u2014almond extract is powerful. The flavor complements many baked goods but is very different from vanilla.</p><p>Popular in cookies, cakes, and anything with stone fruits.</p>"
       },
       {
         "name": "Bourbon or Rum",
@@ -2128,7 +2188,8 @@
           "baking"
         ],
         "why": "Vanilla extract is alcohol-based and shares some flavor compounds with aged spirits.",
-        "notes": "Adds warmth and complexity. Good in adult desserts. Alcohol cooks off."
+        "notes": "Adds warmth and complexity. Good in adult desserts. Alcohol cooks off.",
+        "science": "<p>Vanilla extract itself is alcohol-based, and aged spirits share some flavor compounds with vanilla due to lignin breakdown in wooden barrels.</p><p>Bourbon has vanillin from oak aging; rum has caramel notes from molasses. Both add warmth and complexity similar to vanilla's effect.</p><p>The alcohol cooks off during baking, leaving the flavor compounds behind.</p>"
       }
     ]
   },
@@ -2156,7 +2217,7 @@
         ],
         "why": "Japanese soy sauce, usually gluten-free. Same umami and saltiness.",
         "notes": "Slightly thicker and less salty. Check label for gluten-free if needed.",
-        "science": "Both soy sauce and tamari are fermented soybean products, but traditional tamari contains little to no wheat (soy sauce is typically 50% wheat). The brewing process uses Aspergillus molds to break down soy proteins into amino acids (including glutamate for umami). Tamari's soy-only formulation creates a slightly thicker texture and more soybean-forward flavor."
+        "science": "<p>Both soy sauce and tamari are fermented soybean products using Aspergillus molds to break down soy proteins into amino acids, including glutamate for umami.</p><p>Traditional tamari uses little to no wheat (soy sauce is typically 50% wheat). This makes tamari naturally gluten-free (verify on label) with a slightly thicker texture.</p><p>The flavor is similar\u2014both provide salt and deep umami.</p>"
       },
       {
         "name": "Coconut Aminos",
@@ -2167,7 +2228,7 @@
         ],
         "why": "Soy-free alternative with similar umami. Made from coconut sap.",
         "notes": "Less salty and slightly sweeter than soy sauce. Add salt to taste. Soy-free and gluten-free.",
-        "science": "Coconut aminos are made by fermenting coconut tree sap with salt. The fermentation produces amino acids and develops umami flavor, though less intensely than soy fermentation. It's naturally lower in sodium (73% less than soy sauce) and has a slightly sweeter taste. The reduced sodium means you may need to add salt to match soy sauce's seasoning power."
+        "science": "<p>Coconut aminos are made by fermenting coconut tree sap with salt. The fermentation produces amino acids and develops umami, though less intensely than soy fermentation.</p><p>It's naturally 73% lower in sodium than soy sauce with a slightly sweeter taste. You may need to add salt to match soy sauce's seasoning power.</p><p>Completely soy-free and usually gluten-free.</p>"
       },
       {
         "name": "Worcestershire Sauce",
@@ -2177,7 +2238,8 @@
           "cooking"
         ],
         "why": "Provides umami and fermented depth, though different flavor profile.",
-        "notes": "More vinegary and complex. Works in Western dishes, less authentic for Asian food."
+        "notes": "More vinegary and complex. Works in Western dishes, less authentic for Asian food.",
+        "science": "<p>Worcestershire sauce contains fermented anchovies, tamarind, molasses, and various spices. It provides umami from both fish and fermented ingredients.</p><p>The flavor profile is more complex and vinegary than soy sauce. It works well in Western dishes but tastes less authentic in Asian recipes.</p>"
       },
       {
         "name": "Liquid Aminos",
@@ -2187,7 +2249,8 @@
           "cooking"
         ],
         "why": "Made from soybeans but unfermented. Similar salty, umami flavor.",
-        "notes": "Gluten-free. Slightly milder and less complex than fermented soy sauce."
+        "notes": "Gluten-free. Slightly milder and less complex than fermented soy sauce.",
+        "science": "<p>Bragg's Liquid Aminos is made from unfermented soybeans treated with acidic water to release amino acids. It provides salty umami similar to soy sauce.</p><p>The lack of fermentation means fewer complex flavor compounds than traditionally brewed soy sauce. It's gluten-free since no wheat is used.</p>"
       },
       {
         "name": "Fish Sauce (diluted)",
@@ -2197,7 +2260,8 @@
           "cooking"
         ],
         "why": "Provides intense umami and salt. Very different flavor but similar function.",
-        "notes": "Not vegetarian. Adds fishy depth. Use when soy sauce unavailable in Thai/Vietnamese cooking."
+        "notes": "Not vegetarian. Adds fishy depth. Use when soy sauce unavailable in Thai/Vietnamese cooking.",
+        "science": "<p>Fish sauce provides intense umami from fermented fish proteins. It's much stronger and fishier than soy sauce, hence the dilution.</p><p>The amino acid profile differs\u2014fish sauce has more inosinate, soy sauce has more glutamate. Used together, they create synergistic umami.</p><p>Not vegetarian. Works when authentic soy sauce isn't available.</p>"
       }
     ]
   },
@@ -2224,7 +2288,7 @@
         ],
         "why": "Mirin is essentially sweet sake. This recreates both components.",
         "notes": "Best substitute. Sake provides the rice wine base, sugar adds sweetness.",
-        "science": "Mirin is made by fermenting sweet rice with koji (Aspergillus oryzae mold) and shochu (distilled spirit). This creates a complex mixture of sugars, amino acids, and organic acids. Sake provides the rice-based alcohol and umami (from koji's enzymatic action), while sugar adds the sweetness. Together they approximate mirin's 40-50% sugar content and 14% alcohol."
+        "science": "<p>Mirin is made by fermenting sweet rice with koji (Aspergillus oryzae mold) and shochu (distilled spirit). The result contains about 14% alcohol and 40-50% sugar.</p><p>Sake provides the rice-based alcohol and some umami from koji's enzymatic breakdown of proteins. Adding sugar replicates mirin's sweetness.</p><p>This combination closely approximates authentic mirin's function in cooking.</p>"
       },
       {
         "name": "Dry Sherry + Sugar",
@@ -2235,7 +2299,7 @@
         ],
         "why": "Sherry has similar depth and slight sweetness. Common Western substitute.",
         "notes": "Flavor is different but works well in most Asian recipes.",
-        "science": "Dry sherry undergoes a unique aging process under flor yeast, which produces acetaldehyde and gives sherry its distinctive nutty flavor. This complexity somewhat mimics mirin's fermented depth. The addition of sugar compensates for sherry's dryness. While not identical, the combination provides similar cooking functionality."
+        "science": "<p>Dry sherry undergoes a unique aging process under flor yeast, producing acetaldehyde and distinctive nutty flavors. This complexity somewhat mimics mirin's fermented depth.</p><p>Sherry is wine-based rather than rice-based, so the flavor profile differs. The addition of sugar compensates for sherry's dryness.</p><p>A common Western pantry substitute that works well in most recipes.</p>"
       },
       {
         "name": "Rice Vinegar + Sugar",
@@ -2245,7 +2309,8 @@
           "cooking"
         ],
         "why": "Provides some of the flavor complexity, but more acidic than mirin.",
-        "notes": "Use only if no alcohol options available. Reduce any other vinegar or acid in the recipe."
+        "notes": "Use only if no alcohol options available. Reduce any other vinegar or acid in the recipe.",
+        "science": "<p>This non-alcoholic option provides some rice-based flavor notes through the vinegar. The sugar adds required sweetness.</p><p>However, the result is more acidic than mirin. Reduce other acids in the recipe to compensate.</p><p>You also lose the alcohol's ability to extract and carry fat-soluble flavor compounds.</p>"
       },
       {
         "name": "White Wine + Sugar",
@@ -2255,7 +2320,8 @@
           "cooking"
         ],
         "why": "Provides alcohol and sweetness, though different flavor profile.",
-        "notes": "Acceptable substitute. Won't have the same umami depth."
+        "notes": "Acceptable substitute. Won't have the same umami depth.",
+        "science": "<p>White wine provides alcohol for tenderizing proteins and extracting flavors. Sugar adds sweetness.</p><p>The grape-based flavor profile is quite different from rice-based mirin. This works when mirin's specific character isn't essential.</p>"
       }
     ]
   },
@@ -2340,7 +2406,7 @@
         ],
         "why": "Soy provides umami and salt, Worcestershire adds the fermented anchovy depth (it contains anchovies).",
         "notes": "Good all-purpose substitute. Worcestershire adds some of the fermented fish element.",
-        "science": "Fish sauce is produced by fermenting fish with salt for 12-24 months, during which proteins break down into free amino acids (especially glutamate) and other flavor compounds. Worcestershire sauce also contains fermented anchovies, along with tamarind, vinegar, and molasses. Combining it with soy sauce (another fermented, glutamate-rich product) approximates fish sauce's umami profile."
+        "science": "<p>Fish sauce is made by fermenting fish (usually anchovies) with salt for 12-24 months. This breaks down proteins into free amino acids, especially glutamate.</p><p>Worcestershire sauce also contains fermented anchovies, contributing some fishy umami. Combined with soy sauce (rich in glutamate), this approximates fish sauce's depth.</p><p>Not vegetarian due to anchovies in Worcestershire.</p>"
       },
       {
         "name": "Soy Sauce + Lime Juice",
@@ -2350,7 +2416,8 @@
           "cooking"
         ],
         "why": "Soy provides salt and umami, lime adds brightness that fish sauce contributes.",
-        "notes": "Missing the depth but works for Thai salads and stir-fries."
+        "notes": "Missing the depth but works for Thai salads and stir-fries.",
+        "science": "<p>Soy sauce provides umami and salt. Lime juice adds the brightness that fish sauce contributes to dishes, especially Thai cuisine.</p><p>This lacks the fermented fish depth but works in stir-fries and salads where fish sauce is one of many ingredients.</p>"
       },
       {
         "name": "Coconut Aminos + Seaweed",
@@ -2360,7 +2427,8 @@
           "cooking"
         ],
         "why": "Coconut aminos for savory base, seaweed adds ocean/umami notes.",
-        "notes": "Good vegetarian option. Less salty than soy-based substitutes."
+        "notes": "Good vegetarian option. Less salty than soy-based substitutes.",
+        "science": "<p>Coconut aminos provide a savory, slightly sweet base. Crumbled nori or other seaweed adds ocean-like umami flavors.</p><p>This vegetarian option approximates fish sauce's maritime quality without using fish. The umami isn't as intense but provides similar functionality.</p>"
       },
       {
         "name": "Anchovy Paste",
@@ -2371,7 +2439,7 @@
         ],
         "why": "Made from the same fish, just in paste form. Same umami profile.",
         "notes": "Very close substitute. Might have slightly different texture in dressings.",
-        "science": "Anchovy paste is made from the same fish used in fish sauce (typically anchovies), just processed differently\u2014ground and salted rather than fermented in liquid. It contains similar levels of glutamate and nucleotides (inosinate) that create umami. Diluting with water creates a texture and salinity closer to fish sauce."
+        "science": "<p>Anchovy paste is made from the same fish as fish sauce, just processed differently\u2014ground and salted rather than liquid-fermented.</p><p>It contains equivalent levels of glutamate and inosinate (another umami compound). Diluting with water creates proper consistency and reduces saltiness.</p><p>This is the closest substitute since it's literally the same fish.</p>"
       }
     ]
   },
@@ -2544,7 +2612,7 @@
         ],
         "why": "Similar consistency and neutral-nutty flavor. Nut-free alternative.",
         "notes": "Very similar texture. Slightly different flavor but works well. Seed allergy-friendly.",
-        "science": "Tahini is ground sesame seeds, which are about 50% fat and rich in lignans (sesamin, sesamolin). Sunflower seed butter has similar fat content and a neutral flavor profile. Both are seed-based, so the protein structures and emulsification properties are comparable. The main difference is sesame's distinctive nutty, slightly bitter flavor."
+        "science": "<p>Tahini is ground sesame seeds, about 50% fat and rich in lignans (sesamin, sesamolin) that give it distinctive flavor. It's been used for thousands of years in Middle Eastern cuisine.</p><p>Sunflower seed butter has similar fat content and texture when ground smooth. The flavor is more neutral\u2014it lacks sesame's distinctive nutty bitterness.</p><p>A good nut-free option that works in hummus and dressings.</p>"
       },
       {
         "name": "Cashew Butter",
@@ -2555,7 +2623,7 @@
         ],
         "why": "Similar smooth, rich texture. Milder flavor than tahini.",
         "notes": "Works well in hummus and dressings. Contains tree nuts.",
-        "science": "Cashews are lower in fat than sesame seeds (44% vs 50%) but create a similar smooth, creamy texture when ground. Both contain phospholipids that help stabilize emulsions, making them work similarly in hummus and dressings. Cashew butter is milder and sweeter, lacking tahini's slight bitterness."
+        "science": "<p>Cashews create a smooth, creamy butter when ground. They're lower in fat than sesame seeds (44% vs 50%) but emulsify similarly.</p><p>The flavor is much milder and sweeter than tahini's distinctive taste. Works well when you want the texture without strong sesame flavor.</p><p>Contains tree nuts, unlike tahini (sesame is a seed).</p>"
       },
       {
         "name": "Peanut Butter (smooth, unsweetened)",
@@ -2565,7 +2633,8 @@
           "cooking"
         ],
         "why": "Similar consistency. Different, more assertive flavor.",
-        "notes": "Will taste like peanut butter, not sesame. Works in some Asian sauces."
+        "notes": "Will taste like peanut butter, not sesame. Works in some Asian sauces.",
+        "science": "<p>Peanut butter has similar consistency to tahini but a very different, more assertive flavor. The fat content is comparable (about 50%).</p><p>In Asian sauces where sesame and peanut are often used together, peanut butter can work. For traditional Middle Eastern dishes, the flavor difference is significant.</p>"
       },
       {
         "name": "Greek Yogurt (for creaminess)",
@@ -2575,7 +2644,8 @@
           "cooking"
         ],
         "why": "Provides creamy texture without nut/seed flavor.",
-        "notes": "Missing nutty flavor entirely. Use when you need creaminess, not tahini taste."
+        "notes": "Missing nutty flavor entirely. Use when you need creaminess, not tahini taste.",
+        "science": "<p>Greek yogurt provides creaminess and body in dressings and sauces, but without any nutty or seed-based flavor.</p><p>Use this only when tahini's function is purely textural\u2014providing smooth, creamy consistency. All the characteristic sesame flavor will be absent.</p><p>Good for lightening calorie content.</p>"
       }
     ]
   },
@@ -2885,7 +2955,7 @@
         ],
         "why": "Seaweed-based gelling agent. Vegan alternative to animal gelatin.",
         "notes": "Sets firmer and at room temperature (gelatin needs refrigeration). Must be boiled to activate. Doesn't melt in mouth the same way.",
-        "science": "Gelatin is derived from animal collagen\u2014proteins that form triple helix structures and create a thermoreversible gel (melts when heated, re-sets when cooled). Agar comes from seaweed and contains agarose polysaccharides that form a different gel structure. Agar sets at 85-95\u00b0F and melts at 185\u00b0F, while gelatin sets at 59\u00b0F and melts at 95\u00b0F. This means agar desserts hold up at room temperature but don't melt in your mouth the same way."
+        "science": "<p>Gelatin is derived from animal collagen\u2014proteins that form triple helix structures, creating a thermoreversible gel that melts when heated and re-sets when cooled. This is why gelatin desserts melt in your mouth.</p><p>Agar comes from seaweed and contains agarose polysaccharides. It forms a different gel structure that's heat-stable: sets at 85-95\u00b0F and doesn't melt until 185\u00b0F.</p><p>Agar desserts hold up at room temperature but don't have gelatin's melt-in-mouth quality. Agar must be boiled to activate.</p>"
       },
       {
         "name": "Carrageenan",
@@ -2895,7 +2965,8 @@
           "cooking"
         ],
         "why": "Another seaweed-derived gelling agent. Used commercially in dairy products.",
-        "notes": "Creates softer gel than agar. Vegan option. Less commonly available."
+        "notes": "Creates softer gel than agar. Vegan option. Less commonly available.",
+        "science": "<p>Carrageenan is another seaweed-derived gelling agent, used commercially in dairy products and plant milks. It creates softer gels than agar.</p><p>The gel is vegan and sets at room temperature. It's less commonly available to home cooks but works well when found.</p>"
       },
       {
         "name": "Pectin",
@@ -2905,7 +2976,8 @@
           "cooking"
         ],
         "why": "Plant-based gelling agent from fruit. Requires acid and sugar to set.",
-        "notes": "Only works with acidic, sugary preparations (jams, jellies). Not for savory applications."
+        "notes": "Only works with acidic, sugary preparations (jams, jellies). Not for savory applications.",
+        "science": "<p>Pectin is a plant-based gelling agent from fruit (especially apples and citrus). Unlike gelatin, it requires acid and sugar to gel properly.</p><p>This makes it suitable only for sweet, acidic preparations like jams and jellies. It won't work for savory gelatin applications.</p>"
       },
       {
         "name": "Cornstarch (for thickening, not gelling)",
@@ -2915,7 +2987,8 @@
           "cooking"
         ],
         "why": "Thickens but doesn't create true gel. Works when you need thickness not jiggle.",
-        "notes": "Not a true gel - more like thick sauce. Use for puddings where solid gel isn't needed."
+        "notes": "Not a true gel - more like thick sauce. Use for puddings where solid gel isn't needed.",
+        "science": "<p>Cornstarch thickens by starch gelatinization, creating viscosity rather than a true gel. The result doesn't hold its shape like gelatin.</p><p>Use cornstarch for puddings and pie fillings where you want thickness but not a set gel. It can't make panna cotta or marshmallows.</p>"
       }
     ]
   },
@@ -3262,7 +3335,7 @@
         ],
         "why": "Both are aged Italian hard cheeses with intense umami. Pecorino is sheep's milk.",
         "notes": "Pecorino is saltier and sharper. Use slightly less or reduce salt in recipe.",
-        "science": "Both Parmesan and Pecorino develop intense umami through extended aging. During aging, proteins break down into free amino acids, including glutamate\u2014the compound responsible for umami taste. Parmesan (cow's milk, aged 12-36 months) has about 1.2g glutamate per 100g. Pecorino (sheep's milk, aged 8-12 months) is saltier and sharper due to different fatty acid profiles in sheep's milk."
+        "science": "<p>Both Parmesan and Pecorino develop intense umami through extended aging. Proteins break down into free amino acids, including glutamate\u2014the molecule responsible for umami taste.</p><p>Parmesan (cow's milk, aged 12-36 months) has about 1.2g glutamate per 100g. Pecorino (sheep's milk, aged 8-12 months) is saltier with different fatty acids.</p><p>Sheep's milk fats give Pecorino a sharper, more pungent flavor. Use slightly less and reduce added salt.</p>"
       },
       {
         "name": "Grana Padano",
@@ -3272,7 +3345,8 @@
           "cooking"
         ],
         "why": "Same style cheese, just aged less and from a different region. Very similar.",
-        "notes": "Milder and less complex than true Parmigiano-Reggiano. More affordable."
+        "notes": "Milder and less complex than true Parmigiano-Reggiano. More affordable.",
+        "science": "<p>Grana Padano is essentially Parmesan's cousin\u2014same style of hard Italian cheese made from cow's milk. The difference is aging time (9-20 months vs 12-36) and region.</p><p>Less aging means fewer amino acids from protein breakdown, resulting in milder, less complex flavor. It's also more affordable.</p><p>The texture and melting properties are very similar.</p>"
       },
       {
         "name": "Asiago (aged)",
@@ -3282,7 +3356,8 @@
           "cooking"
         ],
         "why": "Aged Asiago has similar hard texture and nutty, sharp flavor.",
-        "notes": "Must be aged Asiago (stravecchio), not fresh. Similar umami quality."
+        "notes": "Must be aged Asiago (stravecchio), not fresh. Similar umami quality.",
+        "science": "<p>Aged Asiago (stravecchio) is a hard, granular cheese that develops similar nutty, sharp flavors through protein breakdown during aging.</p><p>It has comparable umami from glutamate development, though the specific flavor profile differs from Parmesan.</p><p>Make sure to use aged Asiago, not fresh Asiago, which is soft and mild.</p>"
       },
       {
         "name": "Nutritional Yeast (vegan)",
@@ -3292,7 +3367,8 @@
           "cooking"
         ],
         "why": "Nutritional yeast has natural glutamates (umami) and cheesy flavor.",
-        "notes": "Won't melt like cheese. Good for sprinkling on pasta, popcorn. Add to sauces."
+        "notes": "Won't melt like cheese. Good for sprinkling on pasta, popcorn. Add to sauces.",
+        "science": "<p>Nutritional yeast (deactivated Saccharomyces cerevisiae) contains naturally occurring glutamic acid, providing its \"cheesy\" taste.</p><p>The yeast is grown on molasses, harvested, and heated to deactivate. While it provides umami, it lacks the aged cheese compounds\u2014tyrosine crystals, lipase-produced fatty acids\u2014that give Parmesan depth.</p><p>Won't melt like cheese. Good for sprinkling.</p>"
       },
       {
         "name": "Cotija (Mexican)",
@@ -3302,7 +3378,8 @@
           "cooking"
         ],
         "why": "Aged, salty, crumbly cheese with umami. 'Mexican Parmesan.'",
-        "notes": "Different flavor profile - less nutty, more tangy. Works for sprinkling."
+        "notes": "Different flavor profile - less nutty, more tangy. Works for sprinkling.",
+        "science": "<p>Cotija is an aged Mexican cheese sometimes called \"Mexican Parmesan\" for its salty, crumbly character. It develops umami through aging.</p><p>The flavor profile differs\u2014more tangy and less nutty than Parmesan. It's traditionally used as a finishing cheese, crumbled over dishes.</p><p>Good for tacos, elote, and grain bowls.</p>"
       }
     ]
   },
@@ -3708,7 +3785,7 @@
         ],
         "why": "Same mustard base, just with visible seeds. Similar heat level.",
         "notes": "Texture is different - grainy vs smooth. Flavor is very similar.",
-        "science": "Both Dijon and whole grain mustard are made from brown/black mustard seeds, which contain sinigrin. When seeds are crushed and mixed with liquid, the enzyme myrosinase converts sinigrin into allyl isothiocyanate\u2014the compound that gives mustard its heat. Dijon is ground smooth, while whole grain retains visible seeds, but the chemistry and heat level are similar."
+        "science": "<p>Both Dijon and whole grain mustard use brown or black mustard seeds containing sinigrin. When seeds are crushed and mixed with liquid, the enzyme myrosinase converts sinigrin to allyl isothiocyanate\u2014the compound creating mustard's heat.</p><p>Dijon is ground completely smooth; whole grain keeps visible seeds. The chemistry and heat level are essentially identical.</p><p>The texture differs significantly\u2014whole grain adds visual interest and crunch.</p>"
       },
       {
         "name": "Yellow Mustard",
@@ -3719,7 +3796,7 @@
         ],
         "why": "Yellow mustard is milder and sweeter. Horseradish adds Dijon's bite.",
         "notes": "More tangy and less complex. Works for dressings and sandwiches.",
-        "science": "Yellow mustard uses white/yellow mustard seeds, which contain sinalbin instead of sinigrin. Sinalbin produces a milder, more tongue-tingling heat rather than the sinus-clearing heat of brown mustard. It's also mixed with turmeric (for color) and more vinegar. Adding horseradish provides some of the nasal heat missing from yellow mustard."
+        "science": "<p>Yellow mustard uses white/yellow mustard seeds containing sinalbin, a different compound that produces milder, more tongue-tingling heat than brown mustard's sinus-clearing burn.</p><p>It also contains more vinegar and added turmeric (for yellow color). The flavor is tangier and milder overall.</p><p>Adding horseradish brings some of the nasal heat that yellow mustard lacks.</p>"
       },
       {
         "name": "Spicy Brown Mustard",
@@ -3729,7 +3806,8 @@
           "cooking"
         ],
         "why": "Similar heat level and coarse texture. American deli style.",
-        "notes": "Slightly different flavor profile but good substitute."
+        "notes": "Slightly different flavor profile but good substitute.",
+        "science": "<p>Spicy brown mustard uses a blend of brown and yellow mustard seeds, creating heat between yellow and Dijon.</p><p>The texture is coarser than Dijon with visible seed fragments. Popular in American deli cuisine, it provides good pungency.</p>"
       },
       {
         "name": "Wasabi or Horseradish",
@@ -3739,7 +3817,8 @@
           "cooking"
         ],
         "why": "Provides similar sharp, sinus-clearing heat.",
-        "notes": "Only for the heat element - missing mustard flavor. Use in small amounts."
+        "notes": "Only for the heat element - missing mustard flavor. Use in small amounts.",
+        "science": "<p>Wasabi and horseradish create their heat through the same chemistry as mustard\u2014glucosinolates converted to isothiocyanates by enzymes when cells are crushed.</p><p>The specific compounds differ, but the sinus-clearing sensation is similar. These provide heat only\u2014none of mustard's complexity.</p><p>Use sparingly\u2014these are much more concentrated.</p>"
       },
       {
         "name": "Mayonnaise (for emulsification only)",
@@ -3749,7 +3828,8 @@
           "cooking"
         ],
         "why": "Both emulsify dressings. Mayo lacks mustard flavor.",
-        "notes": "Won't have mustard taste but will create creamy dressing. Add vinegar for tang."
+        "notes": "Won't have mustard taste but will create creamy dressing. Add vinegar for tang.",
+        "science": "<p>Mustard is an excellent emulsifier because of mucilage compounds that help oil and water mix. Mayonnaise is already emulsified and can serve this function in dressings.</p><p>You lose all mustard flavor but maintain creamy consistency. Add vinegar for acidity.</p>"
       }
     ]
   },
@@ -3776,7 +3856,7 @@
         ],
         "why": "Red wine vinegar provides acidity, honey adds the sweetness balsamic has.",
         "notes": "Missing the aged complexity but provides similar sweet-tart balance.",
-        "science": "True balsamic vinegar is grape must (pressed grape juice) that's cooked down and aged in wooden barrels for years or decades. This concentrates sugars and develops complex flavor compounds through oxidation and wood extraction. Red wine vinegar provides the grape base and acidity, while honey adds the missing sweetness and some complexity."
+        "science": "<p>True balsamic vinegar is grape must (pressed juice) cooked down and aged in wooden barrels for years, developing complex flavors through oxidation and wood extraction.</p><p>Red wine vinegar provides a grape-based acid, while honey adds the missing sweetness. This approximates the sweet-tart balance but lacks aged complexity.</p><p>Works well in dressings where balsamic isn't the star ingredient.</p>"
       },
       {
         "name": "Sherry Vinegar",
@@ -3787,7 +3867,7 @@
         ],
         "why": "Also an aged, complex vinegar with similar depth.",
         "notes": "Different flavor profile - nuttier. Less sweet than balsamic.",
-        "science": "Sherry vinegar is made from sherry wine using the solera aging system, where vinegars of different ages are blended. This creates complex nutty, woody flavors from extended oxidation. While different from balsamic, it has comparable depth. Both are 'aged' vinegars with more complexity than simple wine vinegars."
+        "science": "<p>Sherry vinegar is made from sherry wine using the solera system, where vinegars of different ages blend together. Extended oxidation creates nutty, complex flavors.</p><p>It has comparable depth to balsamic, though the specific flavor profile is more Spanish than Italian. Less sweet than balsamic.</p><p>An excellent substitute for those who appreciate aged vinegars.</p>"
       },
       {
         "name": "Apple Cider Vinegar + Molasses",
@@ -3797,7 +3877,8 @@
           "cooking"
         ],
         "why": "Creates dark color and sweet-tart balance.",
-        "notes": "Different flavor but works in dressings and marinades."
+        "notes": "Different flavor but works in dressings and marinades.",
+        "science": "<p>This combination creates the dark color and sweet-tart balance of balsamic. ACV provides fruity acidity; molasses adds color and caramelized sweetness.</p><p>The flavor is quite different\u2014more fruity-earthy than balsamic's grape depth. Works in marinades and dressings.</p>"
       },
       {
         "name": "Chinese Black Vinegar",
@@ -3807,7 +3888,8 @@
           "cooking"
         ],
         "why": "Similar dark color and complex, slightly sweet flavor.",
-        "notes": "Different taste - more malty. Good for fusion cooking."
+        "notes": "Different taste - more malty. Good for fusion cooking.",
+        "science": "<p>Chinese black vinegar (Chinkiang) is made from glutinous rice and wheat, aged to develop malty, complex flavors. It's less sweet than balsamic with more savory depth.</p><p>The dark color and complexity make it an interesting substitute. Flavor leans more Asian than Italian.</p><p>Try it in fusion dishes where either would work.</p>"
       }
     ]
   },
@@ -3975,7 +4057,7 @@
         ],
         "why": "Concentrated dehydrated garlic. Milder, less sharp than fresh.",
         "notes": "Won't brown like fresh garlic. Good for dry rubs, some sauces.",
-        "science": "When garlic is crushed, the enzyme alliinase converts alliin into allicin\u2014the compound responsible for fresh garlic's pungent smell and sharp taste. Drying garlic denatures this enzyme, so garlic powder produces much less allicin. The flavor is milder and more mellow. Heat also destroys alliinase, which is why roasted garlic is sweet and mild."
+        "science": "<p>When garlic is crushed, the enzyme alliinase converts alliin into allicin\u2014the compound responsible for fresh garlic's pungent smell and sharp taste. Allicin is what you smell when you mince garlic.</p><p>Drying garlic denatures this enzyme, so garlic powder produces much less allicin. The flavor is milder and more mellow, without the raw bite.</p><p>Heat also destroys alliinase, which is why cooked garlic is sweet and mild.</p>"
       },
       {
         "name": "Granulated Garlic",
@@ -3985,7 +4067,8 @@
           "cooking"
         ],
         "why": "Coarser than powder. Similar conversion.",
-        "notes": "Better texture for rubs and coatings than fine powder."
+        "notes": "Better texture for rubs and coatings than fine powder.",
+        "science": "<p>Granulated garlic is the same as garlic powder but with larger particles. The flavor is identical\u2014both are dehydrated garlic with denatured enzymes.</p><p>The coarser texture makes it better for dry rubs where you want to feel the garlic granules. It's also less likely to clump.</p>"
       },
       {
         "name": "Jarred Minced Garlic",
@@ -3995,7 +4078,8 @@
           "cooking"
         ],
         "why": "Pre-minced fresh garlic in oil or water.",
-        "notes": "Milder than fresh. Convenient but less aromatic. Keep refrigerated."
+        "notes": "Milder than fresh. Convenient but less aromatic. Keep refrigerated.",
+        "science": "<p>Jarred garlic is fresh garlic preserved in water, oil, or citric acid. Some allicin-producing capacity remains, but it diminishes over time.</p><p>The preserving liquid often dilutes the flavor, requiring more. Citric acid can add slight sourness. The convenience is significant but flavor is notably milder.</p>"
       },
       {
         "name": "Garlic Paste",
@@ -4005,7 +4089,8 @@
           "cooking"
         ],
         "why": "Concentrated garlic in paste form.",
-        "notes": "Very smooth - good for dressings. Check for added salt."
+        "notes": "Very smooth - good for dressings. Check for added salt.",
+        "science": "<p>Garlic paste is finely ground fresh garlic, sometimes with oil and preservatives. It retains more allicin potential than dried garlic.</p><p>The smooth texture blends invisibly into sauces and dressings. Check labels for added salt, which affects how much you need.</p>"
       },
       {
         "name": "Roasted Garlic",
@@ -4016,7 +4101,7 @@
         ],
         "why": "Roasting mellows garlic significantly. Need more for same impact.",
         "notes": "Sweet and mellow, not pungent. Different flavor profile - use when that's desired.",
-        "science": "Roasting garlic at 400\u00b0F for 40+ minutes causes Maillard reactions and caramelization of sugars, converting harsh allicin into dozens of mellow, sweet, complex flavor compounds. The texture becomes soft and spreadable. You need more roasted garlic because the aggressive pungent compounds have been transformed."
+        "science": "<p>Roasting garlic at 400\u00b0F for 40+ minutes causes Maillard reactions and caramelization, transforming harsh allicin into dozens of mellow, sweet, complex flavor compounds.</p><p>The texture becomes soft and spreadable, the taste sweet and nutty. You need 2-3 times as much because the aggressive pungent compounds have been transformed.</p><p>Roasted garlic is almost a different ingredient\u2014use it when you want that specific sweet character.</p>"
       }
     ]
   },
@@ -4043,7 +4128,8 @@
           "baking"
         ],
         "why": "Concentrated and dried. Good for baking, less so for stir-fries.",
-        "notes": "Better for baked goods. Missing the brightness of fresh for Asian cooking."
+        "notes": "Better for baked goods. Missing the brightness of fresh for Asian cooking.",
+        "science": "<p>Fresh ginger contains gingerols\u2014the compounds responsible for its spicy-hot flavor. When dried, gingerols convert to shogaols, which are actually more pungent but have different flavor notes.</p><p>Ground ginger works well in baking where its warming spice integrates with other flavors. It lacks the bright, fresh zing that fresh ginger provides in stir-fries.</p><p>Use 1/4 teaspoon ground per tablespoon fresh.</p>"
       },
       {
         "name": "Ginger Paste",
@@ -4053,7 +4139,8 @@
           "cooking"
         ],
         "why": "Pureed fresh ginger in convenient form.",
-        "notes": "Very close to fresh. Great for curries and stir-fries. Keep refrigerated."
+        "notes": "Very close to fresh. Great for curries and stir-fries. Keep refrigerated.",
+        "science": "<p>Ginger paste is fresh ginger pureed, sometimes with preservatives. It retains the gingerols and bright flavor of fresh ginger.</p><p>The smooth texture blends easily into marinades and curries. It's one of the most convenient substitutes with minimal flavor compromise.</p><p>Keep refrigerated after opening.</p>"
       },
       {
         "name": "Crystallized Ginger (for baking)",
@@ -4063,7 +4150,8 @@
           "baking"
         ],
         "why": "Candied ginger has strong ginger flavor.",
-        "notes": "Very sweet - reduce other sugars. Rinse off sugar coating if desired."
+        "notes": "Very sweet - reduce other sugars. Rinse off sugar coating if desired.",
+        "science": "<p>Crystallized ginger is fresh ginger cooked in sugar syrup and dried. The gingerols remain but are moderated by intense sweetness.</p><p>Mincing and rinsing removes some sugar coating. It works in baked goods where ginger is a prominent flavor, adding chewy bits.</p><p>Reduce other sugars in the recipe significantly.</p>"
       },
       {
         "name": "Galangal",
@@ -4073,7 +4161,8 @@
           "cooking"
         ],
         "why": "Related root with similar spicy quality. Thai ginger.",
-        "notes": "Different flavor - more piney/citrusy. Authentic for Thai food, not a direct swap."
+        "notes": "Different flavor - more piney/citrusy. Authentic for Thai food, not a direct swap.",
+        "science": "<p>Galangal is a related rhizome used extensively in Thai and Indonesian cooking. It contains different essential oils, giving it a piney, citrusy flavor distinct from ginger.</p><p>While both provide aromatic heat, they're not interchangeable flavor-wise. Use galangal when a recipe calls for it specifically, or for Thai dishes where it's traditional.</p>"
       }
     ]
   },
@@ -4100,7 +4189,7 @@
         ],
         "why": "Combines heat, fermented flavor, and sweetness that define gochujang.",
         "notes": "Not exact but captures the flavor profile. Adjust ratios to taste.",
-        "science": "Gochujang's unique flavor comes from fermenting gochugaru (Korean red pepper flakes) with meju (fermented soybean blocks), glutinous rice, and salt. The fermentation produces complex umami compounds. This substitute approximates the flavor profile: sriracha provides chili heat and some garlic, miso adds fermented soybean depth, and honey contributes sweetness."
+        "science": "<p>Gochujang's unique flavor comes from fermenting gochugaru (Korean chili flakes) with meju (fermented soybean blocks), glutinous rice, and salt for months or years.</p><p>This substitute approximates the flavor profile: sriracha provides chili heat and garlic, miso contributes fermented soybean depth, and honey adds characteristic sweetness.</p><p>The fermented complexity won't be identical, but the flavor balance is close.</p>"
       },
       {
         "name": "Sambal Oelek + Soy Sauce + Sugar",
@@ -4110,7 +4199,8 @@
           "cooking"
         ],
         "why": "Sambal provides chili heat, soy and sugar add depth and sweetness.",
-        "notes": "Missing the fermented complexity. Works in a pinch."
+        "notes": "Missing the fermented complexity. Works in a pinch.",
+        "science": "<p>Sambal oelek provides pure chili heat with some garlic. Soy sauce adds fermented soybean umami (miso's liquid cousin). Sugar contributes sweetness.</p><p>This lacks the specific Korean chili flavor (gochugaru has a distinctive fruity sweetness) and the complex fermentation of true gochujang.</p><p>Works in a pinch for Korean-inspired dishes.</p>"
       },
       {
         "name": "Thai Chili Paste (nam prik pao)",
@@ -4120,7 +4210,8 @@
           "cooking"
         ],
         "why": "Also a sweet-spicy fermented chili paste.",
-        "notes": "Different flavor profile (Thai vs Korean) but similar function."
+        "notes": "Different flavor profile (Thai vs Korean) but similar function.",
+        "science": "<p>Thai chili paste is another fermented sweet-spicy condiment made from dried chilies, garlic, shrimp paste, and palm sugar.</p><p>The flavor profile is Thai rather than Korean\u2014more fishy, tamarind-tangy, and with different chili varieties. The texture and use are similar.</p><p>Creates fusion rather than authentic Korean flavor.</p>"
       },
       {
         "name": "Tomato Paste + Cayenne + Soy + Honey",
@@ -4131,7 +4222,7 @@
         ],
         "why": "Creates a paste with similar color, heat, and sweet-savory balance.",
         "notes": "Emergency substitute. Missing fermented depth but provides the general effect.",
-        "science": "This pantry-based substitute aims to replicate gochujang's appearance and flavor balance rather than its fermented character. Tomato paste provides body and red color, cayenne adds heat, soy sauce contributes umami and salt, and honey adds characteristic sweetness. It won't have the fermented complexity but provides similar functionality."
+        "science": "<p>This pantry-staple substitute creates a paste with similar color and sweet-spicy-savory balance. Tomato paste provides body and red color.</p><p>It completely lacks fermented depth\u2014the most distinctive aspect of gochujang. Use when you need the general flavor profile and color, accepting it won't taste authentic.</p>"
       }
     ]
   },
@@ -4411,7 +4502,8 @@
           "baking"
         ],
         "why": "Nearly identical acidity level. Slightly different flavor.",
-        "notes": "Works perfectly. Lime is slightly more bitter. Both are citrus acids."
+        "notes": "Works perfectly. Lime is slightly more bitter. Both are citrus acids.",
+        "science": "<p>Lemon and lime juice have nearly identical acidity (pH 2.0-2.6) from citric acid. They're the closest substitutes for each other.</p><p>Lime has additional flavor compounds that make it slightly more bitter and less floral than lemon. In most cooking applications, they're interchangeable.</p><p>For lemon-forward dishes (like lemon bars), the flavor difference becomes noticeable.</p>"
       },
       {
         "name": "White Wine Vinegar",
@@ -4421,7 +4513,8 @@
           "cooking"
         ],
         "why": "Provides acidity without citrus flavor.",
-        "notes": "Use less - vinegar is more acidic. No citrus notes."
+        "notes": "Use less - vinegar is more acidic. No citrus notes.",
+        "science": "<p>Vinegar's acetic acid provides sourness like citric acid. White wine vinegar is relatively mild with some fruity complexity.</p><p>Use less vinegar since it's more acidic than lemon juice. You lose the citrus flavor entirely but maintain the acid function.</p><p>Good for dressings and marinades where acidity matters more than citrus taste.</p>"
       },
       {
         "name": "Apple Cider Vinegar",
@@ -4432,7 +4525,8 @@
           "baking"
         ],
         "why": "Mild vinegar that provides acidity.",
-        "notes": "Adds fruity note. Works in baking for leavening activation."
+        "notes": "Adds fruity note. Works in baking for leavening activation.",
+        "science": "<p>Apple cider vinegar has fruity notes that can partially compensate for missing citrus. The acidity is comparable when using slightly less.</p><p>ACV works particularly well in baking, where it can activate baking soda just like lemon juice. The apple notes are subtle in finished products.</p>"
       },
       {
         "name": "Orange Juice (less acidic)",
@@ -4442,7 +4536,8 @@
           "cooking"
         ],
         "why": "Another citrus juice, but sweeter and less acidic.",
-        "notes": "Adds sweetness. Use when you want citrus but less tartness."
+        "notes": "Adds sweetness. Use when you want citrus but less tartness.",
+        "science": "<p>Orange juice has lower acidity than lemon (pH around 3.5 vs 2.0). You need about twice as much for equivalent acid content.</p><p>The flavor is much sweeter and less tart. Use when you want citrus flavor without sharp acidity\u2014in dressings, glazes, or marinades.</p>"
       },
       {
         "name": "Cream of Tartar (for baking)",
@@ -4452,7 +4547,8 @@
           "baking"
         ],
         "why": "Both are acids that activate baking soda.",
-        "notes": "Only for leavening purposes - no citrus flavor."
+        "notes": "Only for leavening purposes - no citrus flavor.",
+        "science": "<p>Cream of tartar (potassium bitartrate) is a dry acid that dissolves when liquids are added. It provides the same acid function as lemon juice for activating baking soda.</p><p>No citrus flavor\u2014purely functional. Use 1/2 teaspoon cream of tartar per tablespoon lemon juice for leavening purposes.</p>"
       }
     ]
   },
