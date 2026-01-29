@@ -1,0 +1,4796 @@
+{
+  "buttermilk": {
+    "name": "Buttermilk",
+    "category": "dairy",
+    "aliases": [
+      "cultured buttermilk"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "acidity": "high (pH 4.4-4.8)",
+      "fat": "low (1-2%)",
+      "function": "tenderizes gluten, activates baking soda, adds tangy flavor"
+    },
+    "substitutions": [
+      {
+        "name": "Plain Yogurt + Milk",
+        "ratio": "3/4 cup plain yogurt + 1/4 cup milk = 1 cup buttermilk",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Yogurt has similar acidity, fat content, and cultured flavor. The milk thins it to the right consistency.",
+        "notes": "Use plain, unflavored yogurt. Greek yogurt works but use more milk (1/2 cup yogurt + 1/2 cup milk).",
+        "science": "Buttermilk and yogurt are both fermented dairy products containing lactic acid bacteria. This fermentation produces lactic acid, which lowers the pH to around 4.5. In baking, this acidity serves two critical functions: it reacts with baking soda (sodium bicarbonate) to produce CO2 for leavening, and it denatures gluten proteins, resulting in a more tender crumb. Yogurt's casein proteins also contribute to moisture retention during baking."
+      },
+      {
+        "name": "Sour Cream + Milk",
+        "ratio": "3/4 cup sour cream + 1/4 cup milk = 1 cup buttermilk",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Sour cream has the same cultured tang and similar acidity. Higher fat makes baked goods extra tender.",
+        "notes": "Results may be slightly richer due to higher fat content.",
+        "science": "Sour cream undergoes the same lactic acid fermentation as buttermilk, giving it comparable acidity (pH 4.5). The higher fat content (18-20% vs buttermilk's 1-2%) actually enhances tenderness because fat coats flour proteins, physically preventing gluten formation. This creates an even more tender result than buttermilk, though the texture will be slightly richer."
+      },
+      {
+        "name": "Milk + Lemon Juice",
+        "ratio": "1 cup milk + 1 tablespoon lemon juice, let sit 5-10 minutes",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "The acid curdles the milk, creating acidity. However, it lacks the complex cultured flavor.",
+        "notes": "NOT recommended for baking. The acidity is inconsistent and won't reliably activate baking soda. Fine for marinades or sauces.",
+        "science": "Adding citric acid (lemon juice) to milk causes the casein proteins to denature and coagulate, mimicking the curdled texture of buttermilk. However, this is purely a chemical reaction, not fermentation. Real buttermilk contains complex flavor compounds (diacetyl, acetaldehyde) produced by bacterial metabolism that this quick method cannot replicate. The acidity is also less consistent, making it unreliable for precise leavening reactions."
+      },
+      {
+        "name": "Milk + White Vinegar",
+        "ratio": "1 cup milk + 1 tablespoon white vinegar, let sit 5-10 minutes",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Creates acidity through curdling, similar to lemon juice method.",
+        "notes": "NOT recommended for baking. Use only in cooking where exact leavening isn't critical."
+      },
+      {
+        "name": "Kefir",
+        "ratio": "1 cup kefir = 1 cup buttermilk",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Kefir is also a cultured dairy product with similar acidity, thickness, and tangy flavor.",
+        "notes": "Excellent 1:1 substitute. Slightly thinner than buttermilk but same chemistry.",
+        "science": "Kefir is fermented using a symbiotic culture of bacteria AND yeast (SCOBY), producing an even more complex acid profile than buttermilk. It contains lactic acid, acetic acid, and small amounts of alcohol. The pH is virtually identical to buttermilk (4.4-4.6), and it provides the same gluten-tenderizing and leavening-activating functions."
+      }
+    ]
+  },
+  "eggs": {
+    "name": "Eggs (Whole)",
+    "category": "eggs",
+    "aliases": [
+      "whole eggs",
+      "chicken eggs"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "function": "binding, leavening, moisture, richness, emulsification"
+    },
+    "substitutions": [
+      {
+        "name": "Flax Egg",
+        "ratio": "1 tablespoon ground flaxseed + 3 tablespoons water, rest 5 min = 1 egg",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Flaxseed becomes gelatinous when mixed with water, providing binding similar to eggs.",
+        "notes": "Best for dense, moist baked goods (muffins, brownies). Not suitable for recipes needing lift or where egg flavor matters.",
+        "science": "Ground flaxseed contains mucilage, a type of soluble fiber that becomes gel-like when mixed with water. This gel mimics the binding properties of egg proteins. However, eggs provide leavening through air incorporation and protein coagulation during baking\u2014functions flax cannot replicate. That's why flax eggs work in dense, moist recipes (muffins, brownies) but fail in recipes requiring lift (souffl\u00e9s, angel food cake)."
+      },
+      {
+        "name": "Chia Egg",
+        "ratio": "1 tablespoon chia seeds + 3 tablespoons water, rest 5 min = 1 egg",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Chia seeds form a gel similar to flax, providing binding properties.",
+        "notes": "May leave visible specks. Best for darker baked goods like chocolate recipes."
+      },
+      {
+        "name": "Mashed Banana",
+        "ratio": "1/4 cup mashed ripe banana = 1 egg",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides moisture and binding. Natural sugars add sweetness.",
+        "notes": "Will add banana flavor. Best for quick breads, muffins, pancakes. Reduce sugar in recipe slightly.",
+        "science": "Bananas contain pectin and starches that provide binding and moisture. The natural sugars (fructose, glucose) add sweetness and promote Maillard browning. However, bananas cannot provide the protein structure or emulsification that eggs offer. The high moisture content also means results will be denser. Works best when egg's primary role is moisture and binding, not structure."
+      },
+      {
+        "name": "Unsweetened Applesauce",
+        "ratio": "1/4 cup applesauce = 1 egg",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides moisture and some binding. Pectin helps with structure.",
+        "notes": "Milder flavor than banana. Good for cakes and muffins. Results may be slightly denser."
+      },
+      {
+        "name": "Silken Tofu",
+        "ratio": "1/4 cup blended silken tofu = 1 egg",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "High protein content provides structure and binding similar to eggs.",
+        "notes": "Blend until completely smooth. Neutral flavor works in most recipes."
+      },
+      {
+        "name": "Commercial Egg Replacer",
+        "ratio": "Follow package directions (usually 1.5 tsp powder + 2-3 tbsp water = 1 egg)",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Specifically formulated to mimic egg properties in baking.",
+        "notes": "Brands like Bob's Red Mill or JUST Egg work well. Most reliable for light, fluffy results.",
+        "science": "Products like Bob's Red Mill contain potato starch, tapioca flour, and leavening agents specifically formulated to replicate multiple egg functions: binding (from starches), leavening (from added baking powder), and moisture (when hydrated). This multi-functional approach makes them the most reliable substitute for general baking."
+      },
+      {
+        "name": "Aquafaba",
+        "ratio": "3 tablespoons aquafaba = 1 egg (or 2 tbsp = 1 egg white)",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "The liquid from canned chickpeas contains proteins that mimic egg whites. Can even be whipped to stiff peaks.",
+        "notes": "Best egg substitute discovered. Works for meringues, macarons, and anything needing whipped eggs.",
+        "science": "The liquid from canned chickpeas contains proteins (albumins), saponins, and carbohydrates that closely mimic egg white composition. Saponins are natural surfactants that stabilize air bubbles, while the proteins can denature and set when heated. This is why aquafaba can be whipped to stiff peaks and used in meringues\u2014it's not just mimicking eggs, it's using similar chemistry."
+      }
+    ]
+  },
+  "egg_whites": {
+    "name": "Egg Whites",
+    "category": "eggs",
+    "aliases": [
+      "egg white",
+      "albumen"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "protein": "10-11%",
+      "function": "leavening when whipped, binding, creates structure, clarifying stocks"
+    },
+    "substitutions": [
+      {
+        "name": "Aquafaba",
+        "ratio": "2 tablespoons aquafaba = 1 egg white",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Chickpea liquid contains saponins and proteins that whip exactly like egg whites, creating stable foam.",
+        "notes": "Can make meringues, macarons, marshmallows. Whip with cream of tartar for stability. Use liquid from unsalted chickpeas.",
+        "science": "Aquafaba's remarkable ability to mimic egg whites stems from its composition. During cooking, chickpeas release albumin-type proteins and saponins into the water. Saponins are amphiphilic molecules (both water-loving and water-fearing) that act as natural surfactants, stabilizing the air-water interface in foams. The proteins can denature and coagulate when heated, providing structure. Research shows aquafaba can reach nearly identical foam stability to egg whites."
+      },
+      {
+        "name": "Meringue Powder",
+        "ratio": "2 teaspoons meringue powder + 2 tablespoons water = 1 egg white",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Dried egg whites with stabilizers. Reconstitutes to functional egg white.",
+        "notes": "Shelf-stable and consistent. Great for royal icing and meringue.",
+        "science": "Meringue powder is dehydrated egg whites with added stabilizers (cream of tartar, cornstarch) and sometimes sugar. When reconstituted, the proteins (ovalbumin, ovotransferrin) regain their ability to unfold and trap air. The added stabilizers help compensate for any protein damage during dehydration, making it more foolproof than fresh egg whites."
+      },
+      {
+        "name": "Agar Agar + Water (whipped)",
+        "ratio": "1 tablespoon agar powder + 1 tablespoon water, chill, then whip with 1 tbsp water",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Agar creates a gel that can be whipped into foam. Provides structure without eggs.",
+        "notes": "Technique is tricky. Results are less stable than real egg whites. For vegan mousses."
+      }
+    ]
+  },
+  "egg_yolks": {
+    "name": "Egg Yolks",
+    "category": "eggs",
+    "aliases": [
+      "egg yolk",
+      "yolk"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "fat": "26-27%",
+      "function": "emulsification, richness, color, thickening custards, tenderizing"
+    },
+    "substitutions": [
+      {
+        "name": "Silken Tofu (blended)",
+        "ratio": "1/4 cup blended silken tofu = 2 egg yolks",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Provides similar richness and binding. Neutral flavor allows it to blend in.",
+        "notes": "Blend until completely smooth. Add pinch of turmeric for yellow color if desired."
+      },
+      {
+        "name": "Mayonnaise",
+        "ratio": "1 tablespoon mayonnaise = 1 egg yolk",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Mayo IS egg yolk + oil, already emulsified. Provides same fat and emulsification.",
+        "notes": "Adds moisture and tenderness. Great for cakes. Use unflavored mayo.",
+        "science": "Mayonnaise is already an emulsion of egg yolk, oil, and acid\u2014essentially pre-emulsified egg yolk with added fat. The lecithin in egg yolks acts as an emulsifier, with hydrophilic heads attracted to water and hydrophobic tails attracted to fat. This is exactly what egg yolks do in batters, making mayo an ideal substitute for moisture and emulsification."
+      },
+      {
+        "name": "Nut Butter",
+        "ratio": "1 tablespoon nut butter = 1 egg yolk",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides fat and binding. Creates richness similar to yolks.",
+        "notes": "Will add flavor. Best in cookies, brownies, or recipes where nut flavor complements."
+      },
+      {
+        "name": "Mashed Avocado",
+        "ratio": "2 tablespoons mashed avocado = 1 egg yolk",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "High fat content mimics yolk's richness. Creates tender baked goods.",
+        "notes": "May add slight green tint and mild flavor. Best in chocolate recipes."
+      },
+      {
+        "name": "Soy Lecithin",
+        "ratio": "1 teaspoon soy lecithin = 1 egg yolk (for emulsification only)",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Lecithin is the emulsifying compound in egg yolks. Provides same emulsification power.",
+        "notes": "Only for emulsification (dressings, sauces). Doesn't provide richness or thickening for custards.",
+        "science": "Lecithin is the primary emulsifying compound in egg yolks. Soy lecithin is extracted from soybeans and provides identical emulsification chemistry. The molecule has a phosphate head (hydrophilic) and fatty acid tails (hydrophobic), allowing it to stabilize oil-water mixtures. Use only when emulsification is needed\u2014it won't provide the color, flavor, or thickening of whole yolks."
+      }
+    ]
+  },
+  "butter": {
+    "name": "Butter",
+    "category": "fats",
+    "aliases": [
+      "unsalted butter",
+      "salted butter"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "fat": "80-82%",
+      "water": "16-18%",
+      "function": "tenderizes, adds richness, creates flaky layers, browning"
+    },
+    "substitutions": [
+      {
+        "name": "Coconut Oil",
+        "ratio": "1 cup coconut oil = 1 cup butter",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar fat content and solid-at-room-temperature property. Creates good flaky texture.",
+        "notes": "Use refined coconut oil for neutral flavor, or virgin for subtle coconut taste. Works especially well in pie crusts and cookies.",
+        "science": "Butter is approximately 80% fat, 16-18% water, and 2-4% milk solids. Coconut oil is 100% fat with a similar melting point (76\u00b0F vs butter's 90-95\u00b0F) and saturated fat structure that keeps it solid at room temperature. This solid-to-liquid transition is crucial for flaky pastries\u2014fat must be cold and solid to create layers. The higher fat content means slightly more tender results."
+      },
+      {
+        "name": "Vegetable Oil",
+        "ratio": "3/4 cup oil = 1 cup butter (for moisture); 7/8 cup for 1:1 fat content",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Provides fat for tenderness and moisture. Use less because oil is 100% fat vs butter's 80%.",
+        "notes": "Cannot create flaky layers (pie crust, croissants). Best for cakes, muffins, quick breads. Results are more moist and dense.",
+        "science": "Oil is 100% liquid fat with no water content, fundamentally changing baking chemistry. Butter's water creates steam for lift and its milk solids enable Maillard browning. Oil provides tenderness through fat coating flour proteins, but cannot create flaky layers (no solid-to-liquid phase change) or contribute to browning. Use 3/4 cup oil per cup butter to account for butter's water content."
+      },
+      {
+        "name": "Greek Yogurt",
+        "ratio": "1/2 cup Greek yogurt = 1 cup butter",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides moisture and tenderness with much less fat. Protein adds structure.",
+        "notes": "Significantly reduces fat and calories. Best for cakes and muffins. Not for cookies or pastries."
+      },
+      {
+        "name": "Applesauce",
+        "ratio": "1/2 cup applesauce = 1 cup butter",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides moisture. Pectin helps with structure.",
+        "notes": "Major texture change - use only when reducing fat is priority. Best combined with some oil (1/4 cup applesauce + 1/4 cup oil)."
+      },
+      {
+        "name": "Avocado",
+        "ratio": "1 cup mashed avocado = 1 cup butter",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar fat content with healthy fats. Creamy texture works well in baking.",
+        "notes": "May add slight green tint. Best for chocolate recipes where color is masked. Very rich results.",
+        "science": "Avocados are roughly 77% fat, primarily monounsaturated oleic acid\u2014similar to olive oil. This high fat content provides the tenderizing function of butter. The fruit also contains fiber and emulsifying compounds that help retain moisture. The green color comes from chlorophyll, which remains stable during baking but is masked in chocolate recipes."
+      },
+      {
+        "name": "Vegan Butter",
+        "ratio": "1 cup vegan butter = 1 cup butter",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Formulated to mimic butter's fat content and water content exactly.",
+        "notes": "Brands like Miyoko's or Earth Balance work well. Some contain palm oil. Check if solid vs spreadable."
+      }
+    ]
+  },
+  "shortening": {
+    "name": "Shortening",
+    "category": "fats",
+    "aliases": [
+      "vegetable shortening",
+      "Crisco"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "fat": "100%",
+      "function": "creates tender, flaky texture, no water content, high smoke point"
+    },
+    "substitutions": [
+      {
+        "name": "Coconut Oil (solid)",
+        "ratio": "1 cup solid coconut oil = 1 cup shortening",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar 100% fat content and solid texture at room temperature. Creates flaky pastry.",
+        "notes": "Use refined for neutral flavor. Keep very cold for pie crusts. Melts faster than shortening."
+      },
+      {
+        "name": "Butter",
+        "ratio": "1 cup + 2 tablespoons butter = 1 cup shortening",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Butter is 80% fat vs shortening's 100%, so use slightly more. Adds flavor but contains water.",
+        "notes": "Results less flaky, more tender. Butter adds better flavor. Keep very cold for pastry."
+      },
+      {
+        "name": "Lard",
+        "ratio": "1 cup lard = 1 cup shortening",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Same 100% fat, solid texture. Traditional before vegetable shortening existed.",
+        "notes": "Makes incredibly flaky pie crusts. Slight savory flavor. Not vegetarian."
+      },
+      {
+        "name": "Vegan Butter (solid block style)",
+        "ratio": "1 cup + 2 tablespoons vegan butter = 1 cup shortening",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar fat properties to regular butter. Use slightly more to account for water content.",
+        "notes": "Must use block-style, not spreadable. Keep cold for pastry work."
+      }
+    ]
+  },
+  "lard": {
+    "name": "Lard",
+    "category": "fats",
+    "aliases": [
+      "pork fat",
+      "rendered pork fat"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "fat": "100%",
+      "function": "extremely flaky pastry, high smoke point, savory depth"
+    },
+    "substitutions": [
+      {
+        "name": "Shortening",
+        "ratio": "1 cup shortening = 1 cup lard",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Same 100% fat, solid texture. Vegetarian alternative.",
+        "notes": "Less flavorful but same flakiness. Good for those avoiding pork."
+      },
+      {
+        "name": "Butter",
+        "ratio": "1 cup butter + 2 tablespoons = 1 cup lard",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides richness, though with water content. Creates tender rather than flaky.",
+        "notes": "Different texture - more tender, less flaky. Better flavor in some applications."
+      },
+      {
+        "name": "Coconut Oil",
+        "ratio": "1 cup coconut oil = 1 cup lard",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "100% fat, solid at room temp. Creates good flakiness.",
+        "notes": "Use refined for neutral flavor. Works for savory and sweet. Vegan option."
+      },
+      {
+        "name": "Bacon Fat",
+        "ratio": "1 cup bacon fat = 1 cup lard",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Also rendered pork fat. Same properties with smoky flavor.",
+        "notes": "Adds smoky, savory depth. Best for savory applications. Not for sweet pastries."
+      }
+    ]
+  },
+  "baking_soda": {
+    "name": "Baking Soda",
+    "category": "leavening",
+    "aliases": [
+      "bicarbonate of soda",
+      "sodium bicarbonate"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "function": "leavening (requires acid to activate), browning, tenderizing"
+    },
+    "substitutions": [
+      {
+        "name": "Baking Powder",
+        "ratio": "1 teaspoon baking powder = 1/4 teaspoon baking soda",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Baking powder contains baking soda plus acid. You need 4x as much because it's diluted.",
+        "notes": "Only works if recipe has no other acid (buttermilk, yogurt, lemon). If recipe has acid, the extra acid in baking powder may cause metallic taste.",
+        "science": "Baking soda is pure sodium bicarbonate (NaHCO3). Baking powder is sodium bicarbonate PLUS a dry acid (usually cream of tartar or sodium aluminum sulfate) and cornstarch. Since the acid is pre-included and diluted, you need 4x the amount to get equivalent leavening power. Important: if your recipe already contains acid (buttermilk, yogurt, vinegar), the extra acid in baking powder may over-acidify your batter, creating a metallic taste."
+      },
+      {
+        "name": "Self-Rising Flour (replace all-purpose)",
+        "ratio": "Replace all-purpose flour with self-rising flour, omit baking soda and salt",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Self-rising flour contains baking powder and salt already.",
+        "notes": "Only works if you're also using all-purpose flour in the recipe. Ratio of leavening may not be exact."
+      },
+      {
+        "name": "Potassium Bicarbonate",
+        "ratio": "1 teaspoon potassium bicarbonate = 1 teaspoon baking soda",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Same chemical reaction, just with potassium instead of sodium. Identical leavening power.",
+        "notes": "Sodium-free alternative for those on restricted diets. Slightly different aftertaste."
+      }
+    ]
+  },
+  "baking_powder": {
+    "name": "Baking Powder",
+    "category": "leavening",
+    "aliases": [
+      "double-acting baking powder"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "function": "leavening (self-contained acid + base system)"
+    },
+    "substitutions": [
+      {
+        "name": "Baking Soda + Cream of Tartar",
+        "ratio": "1/4 teaspoon baking soda + 1/2 teaspoon cream of tartar = 1 teaspoon baking powder",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "This IS what baking powder is - baking soda plus an acid (cream of tartar). Same chemistry.",
+        "notes": "This is single-acting (reacts immediately). Work quickly and get batter in oven fast.",
+        "science": "This recreates baking powder from first principles. Cream of tartar (potassium bitartrate) is a dry acid that reacts with baking soda when liquid is added: NaHCO3 + KHC4H4O6 \u2192 CO2 + H2O + KNaC4H4O6. The CO2 creates bubbles for leavening. Commercial baking powder is 'double-acting'\u2014it reacts twice (when wet, then when heated). This homemade version is single-acting, so work quickly once mixed."
+      },
+      {
+        "name": "Baking Soda + Lemon Juice",
+        "ratio": "1/4 teaspoon baking soda + 1/2 teaspoon lemon juice = 1 teaspoon baking powder",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Lemon juice provides the acid to activate the baking soda.",
+        "notes": "May add slight lemon flavor. Single-acting, so work quickly.",
+        "science": "Citric acid in lemon juice reacts with sodium bicarbonate: 3NaHCO3 + C6H8O7 \u2192 3CO2 + 3H2O + Na3C6H5O7. This produces carbon dioxide for leavening. The reaction begins immediately upon contact, so you lose some leavening power before baking begins. Get your batter in the oven fast."
+      },
+      {
+        "name": "Baking Soda + Vinegar",
+        "ratio": "1/4 teaspoon baking soda + 1/2 teaspoon white vinegar = 1 teaspoon baking powder",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Vinegar provides acid. The reaction is the classic 'volcano' effect.",
+        "notes": "Use white vinegar for neutral flavor. Apple cider vinegar adds slight taste. Work quickly!"
+      },
+      {
+        "name": "Baking Soda + Yogurt or Buttermilk",
+        "ratio": "1/4 teaspoon baking soda + 1/2 cup yogurt or buttermilk (replace some liquid) = 1 teaspoon baking powder",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Cultured dairy provides lactic acid to activate baking soda.",
+        "notes": "Reduce other liquid in recipe by 1/2 cup. Adds tangy flavor and tenderness."
+      },
+      {
+        "name": "Self-Rising Flour (replace all-purpose)",
+        "ratio": "Replace all-purpose flour with self-rising flour, omit baking powder and salt",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Self-rising flour = all-purpose flour + baking powder + salt.",
+        "notes": "1 cup self-rising flour contains about 1.5 teaspoons baking powder and 1/4 teaspoon salt."
+      }
+    ]
+  },
+  "cream_of_tartar": {
+    "name": "Cream of Tartar",
+    "category": "leavening",
+    "aliases": [
+      "potassium bitartrate",
+      "tartaric acid"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "function": "stabilizes egg whites, activates baking soda, prevents sugar crystallization"
+    },
+    "substitutions": [
+      {
+        "name": "Lemon Juice",
+        "ratio": "1 teaspoon lemon juice = 1/2 teaspoon cream of tartar",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Both are acids. Lemon juice can stabilize egg whites and activate baking soda similarly.",
+        "notes": "Use for meringues and baking soda activation. May add slight lemon flavor."
+      },
+      {
+        "name": "White Vinegar",
+        "ratio": "1 teaspoon white vinegar = 1/2 teaspoon cream of tartar",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Acetic acid provides similar acidic function.",
+        "notes": "Good for stabilizing egg whites. Neutral flavor when used in small amounts."
+      },
+      {
+        "name": "Baking Powder (replace baking soda + cream of tartar)",
+        "ratio": "1 teaspoon baking powder = 1/4 tsp baking soda + 1/2 tsp cream of tartar",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "If recipe calls for both, baking powder combines them already.",
+        "notes": "Only use this substitution if recipe calls for BOTH baking soda and cream of tartar together."
+      }
+    ]
+  },
+  "yeast": {
+    "name": "Active Dry Yeast",
+    "category": "leavening",
+    "aliases": [
+      "yeast",
+      "dry yeast",
+      "baker's yeast"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "function": "biological leavening through fermentation, develops flavor, creates bread texture"
+    },
+    "substitutions": [
+      {
+        "name": "Instant Yeast",
+        "ratio": "Use same amount, skip proofing step",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Same organism, just processed differently. Can be mixed directly into flour.",
+        "notes": "No need to dissolve in warm water first. Slightly faster rise time.",
+        "science": "Both active dry and instant yeast are Saccharomyces cerevisiae. The difference is processing: active dry yeast is dried at higher temperatures, killing outer cells and creating a protective dead cell layer. This layer must dissolve in warm water before inner living cells can activate. Instant yeast is dried more gently, leaving more cells alive and accessible, so it can be mixed directly with flour."
+      },
+      {
+        "name": "Fresh Yeast (Cake Yeast)",
+        "ratio": "Use 2-3x the amount of fresh yeast (1 packet dry = 2/3 oz fresh)",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Same organism in fresh form. More perishable but works identically.",
+        "notes": "Crumble and dissolve in liquid. Must be refrigerated. Check expiration date."
+      },
+      {
+        "name": "Sourdough Starter",
+        "ratio": "1 cup active starter = 1 packet yeast (reduce flour and liquid by 1/2 cup each)",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Wild yeast and bacteria. Provides leavening plus complex flavor.",
+        "notes": "Much longer rise time (6-12 hours). Adds tangy flavor. Adjust flour/liquid in recipe.",
+        "science": "Sourdough starter is a symbiotic culture of wild yeasts AND lactic acid bacteria. The yeasts (often Saccharomyces and Candida species) provide leavening, while bacteria (Lactobacillus) produce lactic and acetic acids that give sourdough its tang. This fermentation is slower but produces more complex flavor compounds through extended enzymatic activity."
+      },
+      {
+        "name": "Baking Powder (for quick breads only)",
+        "ratio": "1 teaspoon baking powder per cup of flour",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Chemical leavening can substitute in some recipes, but won't develop yeast flavor or texture.",
+        "notes": "NOT for bread - only for things like pizza dough in a pinch. No rise time needed but texture is different."
+      }
+    ]
+  },
+  "heavy_cream": {
+    "name": "Heavy Cream",
+    "category": "dairy",
+    "aliases": [
+      "heavy whipping cream",
+      "double cream"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "fat": "36-40%",
+      "function": "richness, whipping, thickening sauces, tenderizing baked goods"
+    },
+    "substitutions": [
+      {
+        "name": "Coconut Cream",
+        "ratio": "1 cup coconut cream = 1 cup heavy cream",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar fat content and thickness. Can even be whipped when very cold.",
+        "notes": "Adds coconut flavor. Refrigerate can overnight, use only the solid cream on top. Great for dairy-free.",
+        "science": "Heavy cream's whipping ability comes from its fat globules (36-40%) surrounded by protein membranes. When whipped, air is incorporated and fat globules cluster around air bubbles. Coconut cream has similar fat content (24%+) and can form comparable structures when very cold. The fat must be solid to trap air\u2014that's why refrigerating overnight is essential."
+      },
+      {
+        "name": "Milk + Butter",
+        "ratio": "3/4 cup milk + 1/4 cup melted butter = 1 cup heavy cream",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Adds fat back to low-fat milk to approximate cream's richness.",
+        "notes": "Cannot be whipped. Good for sauces, soups, baking. May separate if boiled - add at end of cooking.",
+        "science": "This combination attempts to reconstruct cream's fat content by adding butter (80% fat) to low-fat milk (3.25% fat). However, the emulsion is unstable because the fat isn't properly homogenized with the milk proteins. It works for adding richness to sauces but will break (separate into fat and liquid) if boiled or whipped."
+      },
+      {
+        "name": "Greek Yogurt + Milk",
+        "ratio": "1/2 cup Greek yogurt + 1/2 cup milk = 1 cup heavy cream",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides thickness and tang. Lower fat but good body.",
+        "notes": "Cannot be whipped. Add at end of cooking to prevent curdling. Adds tangy flavor."
+      },
+      {
+        "name": "Evaporated Milk",
+        "ratio": "1 cup evaporated milk = 1 cup heavy cream",
+        "reliability": "good",
+        "context": [
+          "cooking",
+          "baking"
+        ],
+        "why": "Concentrated milk with similar consistency. About 6-8% fat.",
+        "notes": "Cannot be whipped unless very cold (and even then, not as well). Slightly caramelized flavor.",
+        "science": "Evaporated milk is regular milk with 60% of its water removed through vacuum evaporation. This concentrates the proteins, fat, and sugars, giving it body similar to cream despite lower fat (6-8% vs 36%). The heating process also causes slight caramelization of lactose, adding a subtle cooked flavor."
+      },
+      {
+        "name": "Silken Tofu + Soy Milk",
+        "ratio": "1/2 cup blended silken tofu + 1/2 cup soy milk = 1 cup cream",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Creates creamy consistency for sauces. Dairy-free option.",
+        "notes": "Cannot be whipped. Blend until very smooth. Neutral flavor."
+      },
+      {
+        "name": "Cashew Cream",
+        "ratio": "1 cup cashew cream = 1 cup heavy cream",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Blended cashews create rich, creamy texture similar to cream.",
+        "notes": "Soak 1 cup raw cashews 4+ hours, blend with 1/2-3/4 cup water until smooth. Cannot whip."
+      }
+    ]
+  },
+  "half_and_half": {
+    "name": "Half-and-Half",
+    "category": "dairy",
+    "aliases": [
+      "half and half",
+      "coffee cream"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "fat": "10-12%",
+      "function": "adds richness without heaviness of cream, for coffee and sauces"
+    },
+    "substitutions": [
+      {
+        "name": "Milk + Heavy Cream",
+        "ratio": "1/2 cup whole milk + 1/2 cup heavy cream = 1 cup half-and-half",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "This IS what half-and-half is - half milk, half cream. Identical result.",
+        "notes": "Perfect substitute. Can adjust ratio for lighter or richer result."
+      },
+      {
+        "name": "Milk + Butter",
+        "ratio": "1 cup milk + 1.5 tablespoons melted butter = 1 cup half-and-half",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Butter adds fat to bring milk's richness up to half-and-half level.",
+        "notes": "May separate if heated too high. Best for baking and sauces that aren't boiled."
+      },
+      {
+        "name": "Evaporated Milk (diluted)",
+        "ratio": "1/2 cup evaporated milk + 1/2 cup water = 1 cup half-and-half",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Evaporated milk has similar fat content. Diluting gets right consistency.",
+        "notes": "Adds slightly caramelized flavor. Good for coffee and sauces."
+      },
+      {
+        "name": "Oat Creamer",
+        "ratio": "1 cup oat creamer = 1 cup half-and-half",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Formulated to mimic half-and-half's fat content and mouthfeel.",
+        "notes": "Dairy-free option. Brands like Oatly Barista work well. May separate when heated."
+      }
+    ]
+  },
+  "evaporated_milk": {
+    "name": "Evaporated Milk",
+    "category": "dairy",
+    "aliases": [
+      "unsweetened condensed milk"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "fat": "6-8%",
+      "function": "concentrated milk flavor, creamy texture, doesn't require refrigeration"
+    },
+    "substitutions": [
+      {
+        "name": "Heavy Cream (for richness)",
+        "ratio": "3/4 cup heavy cream + 1/4 cup water = 1 cup evaporated milk",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Provides similar richness when diluted. Higher fat than evaporated milk.",
+        "notes": "Results will be richer. Good for pumpkin pie and creamy sauces."
+      },
+      {
+        "name": "Homemade: Simmer Regular Milk",
+        "ratio": "2.25 cups whole milk simmered down to 1 cup = evaporated milk",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "This IS how evaporated milk is made - milk with 60% of water removed.",
+        "notes": "Simmer milk uncovered for 25-30 min, stirring, until reduced by more than half."
+      },
+      {
+        "name": "Half-and-Half",
+        "ratio": "1 cup half-and-half = 1 cup evaporated milk",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar fat content and consistency.",
+        "notes": "Slightly thinner. Works well in most recipes. Not shelf-stable like canned."
+      },
+      {
+        "name": "Coconut Milk (full fat)",
+        "ratio": "1 cup full-fat coconut milk = 1 cup evaporated milk",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar creamy consistency and fat content. Dairy-free option.",
+        "notes": "Adds coconut flavor. Works well in curries, pumpkin pie, and sweet recipes."
+      }
+    ]
+  },
+  "sweetened_condensed_milk": {
+    "name": "Sweetened Condensed Milk",
+    "category": "dairy",
+    "aliases": [
+      "condensed milk"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "sugar": "40-45%",
+      "function": "extreme sweetness, thick sticky texture, essential for fudge and key lime pie"
+    },
+    "substitutions": [
+      {
+        "name": "Homemade: Milk + Sugar (simmered)",
+        "ratio": "1.5 cups whole milk + 3/4 cup sugar, simmer 40 min until thick = ~1 cup condensed milk",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "This IS how condensed milk is made - milk cooked with sugar until reduced and thick.",
+        "notes": "Stir frequently to prevent scorching. Cool before using. Result should coat a spoon thickly."
+      },
+      {
+        "name": "Evaporated Milk + Sugar",
+        "ratio": "1 cup evaporated milk + 1.25 cups sugar, heat until dissolved = ~1.5 cups condensed milk",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Evaporated milk is already concentrated. Adding sugar creates similar product.",
+        "notes": "Heat and stir until sugar fully dissolves and mixture thickens. Let cool."
+      },
+      {
+        "name": "Coconut Condensed Milk",
+        "ratio": "1 can (14 oz) coconut condensed milk = 1 can regular condensed milk",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Same texture and sweetness level. Vegan alternative.",
+        "notes": "Adds coconut flavor. Available in most grocery stores. Great for dairy-free desserts."
+      },
+      {
+        "name": "Cream + Sugar + Butter",
+        "ratio": "1 cup heavy cream + 1 cup sugar + 3 tbsp butter, simmer until thick",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Creates similar thick, sweet consistency through different method.",
+        "notes": "More like a caramel sauce. Works for some recipes but different texture."
+      }
+    ]
+  },
+  "coconut_milk_canned": {
+    "name": "Coconut Milk (Canned/Full Fat)",
+    "category": "dairy",
+    "aliases": [
+      "full fat coconut milk",
+      "thick coconut milk"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "fat": "17-24%",
+      "function": "rich creamy base for curries, soups, desserts, dairy-free cooking"
+    },
+    "substitutions": [
+      {
+        "name": "Coconut Cream + Water",
+        "ratio": "1/2 cup coconut cream + 1/2 cup water = 1 cup coconut milk",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Coconut cream is just concentrated coconut milk. Diluting recreates full-fat coconut milk.",
+        "notes": "Adjust ratio for thicker or thinner consistency as needed."
+      },
+      {
+        "name": "Heavy Cream (for richness, different flavor)",
+        "ratio": "1 cup heavy cream = 1 cup coconut milk",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar fat content and creamy texture. Different flavor profile.",
+        "notes": "Won't have coconut flavor. Works when you need the fat/creaminess but not the taste."
+      },
+      {
+        "name": "Cashew Cream",
+        "ratio": "1 cup cashew cream = 1 cup coconut milk",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar creamy, rich texture. Neutral flavor.",
+        "notes": "Blend 1 cup soaked cashews with 1 cup water. Dairy-free and coconut-free."
+      },
+      {
+        "name": "Greek Yogurt + Water",
+        "ratio": "1/2 cup Greek yogurt + 1/2 cup water = 1 cup coconut milk (for curries)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides creaminess and body similar to coconut milk.",
+        "notes": "Adds tangy flavor. Traditional in some Indian curries. Add at end to prevent curdling."
+      }
+    ]
+  },
+  "milk": {
+    "name": "Milk (Whole)",
+    "category": "dairy",
+    "aliases": [
+      "whole milk",
+      "regular milk"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "fat": "3.25%",
+      "function": "moisture, tenderness, browning (lactose), flavor"
+    },
+    "substitutions": [
+      {
+        "name": "Oat Milk",
+        "ratio": "1 cup oat milk = 1 cup whole milk",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar consistency and neutral flavor. Contains some fat and natural sugars for browning.",
+        "notes": "Best plant milk for baking. Creamy texture closest to dairy milk.",
+        "science": "Oat milk is made by blending oats with water and straining. The result contains beta-glucans (soluble fiber) that give it a creamy mouthfeel similar to dairy. It also contains some protein and natural sugars that participate in Maillard browning during baking. The fat content varies by brand (usually 2-5%), closer to dairy milk than most alternatives."
+      },
+      {
+        "name": "Soy Milk",
+        "ratio": "1 cup soy milk = 1 cup whole milk",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Highest protein of plant milks, similar to dairy. Good browning.",
+        "notes": "Slight bean flavor in some brands. Unsweetened, unflavored works best.",
+        "science": "Soy milk has the highest protein content of plant milks (6-8g per cup vs cow's milk 8g), and the proteins can coagulate and contribute to structure similarly to casein. It also contains natural emulsifiers. The slight beany flavor comes from lipoxygenase enzymes acting on fatty acids\u2014heat treatment during production minimizes this."
+      },
+      {
+        "name": "Almond Milk",
+        "ratio": "1 cup almond milk = 1 cup whole milk",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Works as liquid replacement. Much lower in protein and fat.",
+        "notes": "Thinner than dairy milk. May result in slightly less tender baked goods. Subtle nutty flavor."
+      },
+      {
+        "name": "Coconut Milk (carton, not canned)",
+        "ratio": "1 cup coconut milk beverage = 1 cup whole milk",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar consistency to dairy milk. Contains some fat.",
+        "notes": "Adds subtle coconut flavor. Don't confuse with thick canned coconut milk."
+      },
+      {
+        "name": "Half-and-Half + Water",
+        "ratio": "1/2 cup half-and-half + 1/2 cup water = 1 cup whole milk",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Dilutes the higher fat of half-and-half to approximate whole milk.",
+        "notes": "Good option if you have half-and-half but no milk."
+      },
+      {
+        "name": "Powdered Milk (reconstituted)",
+        "ratio": "1/3 cup powdered milk + 1 cup water = 1 cup milk",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Dried milk reconstitutes to the same product. Shelf-stable option.",
+        "notes": "Follow package directions for ratio. Works well in baking where fresh milk taste isn't critical."
+      }
+    ]
+  },
+  "sour_cream": {
+    "name": "Sour Cream",
+    "category": "dairy",
+    "aliases": [
+      "cultured cream"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "fat": "18-20%",
+      "function": "tangy flavor, moisture, tenderizes baked goods, richness in sauces"
+    },
+    "substitutions": [
+      {
+        "name": "Greek Yogurt",
+        "ratio": "1 cup Greek yogurt = 1 cup sour cream",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Nearly identical taste and consistency. Same tangy, cultured flavor.",
+        "notes": "Full-fat Greek yogurt is closest. Lower fat works but slightly less rich."
+      },
+      {
+        "name": "Cottage Cheese (blended)",
+        "ratio": "1 cup cottage cheese, blended smooth = 1 cup sour cream",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "When blended, has similar consistency and tangy flavor.",
+        "notes": "Must blend until completely smooth. Add 1-2 tablespoons milk if too thick."
+      },
+      {
+        "name": "Cream Cheese + Milk",
+        "ratio": "6 oz cream cheese + 2 tablespoons milk, blended = 1 cup sour cream",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar richness and tang when thinned with milk.",
+        "notes": "Slightly denser. Best for dips and sauces, not ideal for baking."
+      },
+      {
+        "name": "Coconut Cream + Lemon",
+        "ratio": "1 cup coconut cream + 1 tablespoon lemon juice = 1 cup sour cream",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Coconut cream provides richness, lemon adds tang. Dairy-free option.",
+        "notes": "Will have coconut undertone. Let sit 10 min to thicken and develop tang."
+      },
+      {
+        "name": "Mexican Crema",
+        "ratio": "1 cup Mexican crema = 1 cup sour cream",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Very similar cultured cream product. Slightly thinner and milder.",
+        "notes": "Great for tacos and Mexican dishes. Pourable consistency."
+      }
+    ]
+  },
+  "cream_cheese": {
+    "name": "Cream Cheese",
+    "category": "dairy",
+    "aliases": [
+      "Philadelphia cream cheese",
+      "brick cream cheese"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "fat": "33%",
+      "function": "richness, tangy flavor, creamy texture, stabilizes frostings and cheesecakes"
+    },
+    "substitutions": [
+      {
+        "name": "Mascarpone",
+        "ratio": "1 cup mascarpone = 1 cup cream cheese",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar richness and consistency. Mascarpone is slightly sweeter and less tangy.",
+        "notes": "Italian cream cheese essentially. Perfect for cheesecakes and frostings.",
+        "science": "Both cream cheese and mascarpone are fresh, high-fat cheeses made by acidifying cream. Cream cheese uses lactic acid bacterial cultures for tangy flavor, while mascarpone uses citric or tartaric acid for a milder taste. The fat content is similar (33% vs 40%), and both provide the dense, spreadable texture needed for cheesecakes and frostings."
+      },
+      {
+        "name": "Greek Yogurt (strained overnight)",
+        "ratio": "1 cup strained Greek yogurt = 1 cup cream cheese",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "When strained, achieves similar thick consistency. Similar tang.",
+        "notes": "Strain through cheesecloth 8+ hours. Lower fat, more protein. Works for dips and spreads.",
+        "science": "Greek yogurt already has much of its whey removed, and further straining concentrates the proteins and fat while removing more liquid. The result is a thick, spreadable consistency approaching cream cheese. The tanginess comes from the same lactic acid produced in cream cheese, making the flavor profile similar though the fat content is lower."
+      },
+      {
+        "name": "Ricotta (blended)",
+        "ratio": "1 cup ricotta, blended smooth = 1 cup cream cheese",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides creamy cheese texture. Slightly grainy but works in baking.",
+        "notes": "Blend until completely smooth. Best in baked applications, not raw spreads."
+      },
+      {
+        "name": "Cottage Cheese (blended)",
+        "ratio": "1 cup cottage cheese, blended very smooth = 1 cup cream cheese",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "When blended smooth, provides similar texture with less fat.",
+        "notes": "Must blend thoroughly. Lower fat, higher protein. Best for dips and cooking."
+      },
+      {
+        "name": "Cashew Cream Cheese",
+        "ratio": "1 cup cashew cream cheese = 1 cup dairy cream cheese",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Vegan option with similar spreadable texture.",
+        "notes": "Homemade: blend soaked cashews with lemon juice and salt. Or use store-bought (Miyoko's, Kite Hill)."
+      }
+    ]
+  },
+  "yogurt": {
+    "name": "Yogurt (Plain)",
+    "category": "dairy",
+    "aliases": [
+      "plain yogurt",
+      "regular yogurt"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "fat": "3-5% (whole milk yogurt)",
+      "function": "tangy flavor, tenderness in baking, marinades (tenderizes meat), probiotics"
+    },
+    "substitutions": [
+      {
+        "name": "Sour Cream",
+        "ratio": "1 cup sour cream = 1 cup yogurt",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Both are cultured dairy with similar acidity and tang. Sour cream is richer.",
+        "notes": "Results will be slightly richer. Works perfectly in baking and sauces."
+      },
+      {
+        "name": "Buttermilk",
+        "ratio": "3/4 cup buttermilk = 1 cup yogurt (reduce other liquids)",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar cultured tang and acidity. Thinner consistency.",
+        "notes": "Buttermilk is thinner - reduce other liquids in recipe or use less."
+      },
+      {
+        "name": "Cottage Cheese (blended)",
+        "ratio": "1 cup blended cottage cheese = 1 cup yogurt",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "When blended smooth, similar consistency and mild tangy flavor.",
+        "notes": "Blend until completely smooth. Add splash of milk if needed for consistency."
+      },
+      {
+        "name": "Coconut Yogurt",
+        "ratio": "1 cup coconut yogurt = 1 cup dairy yogurt",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Same cultured, tangy properties. Dairy-free alternative.",
+        "notes": "Adds subtle coconut flavor. Works well in baking and smoothies."
+      },
+      {
+        "name": "Silken Tofu + Lemon Juice",
+        "ratio": "1 cup blended silken tofu + 1 tablespoon lemon juice = 1 cup yogurt",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Tofu provides creamy texture, lemon adds tang. Vegan option.",
+        "notes": "Blend until completely smooth. Good for dressings and smoothies."
+      }
+    ]
+  },
+  "all_purpose_flour": {
+    "name": "All-Purpose Flour",
+    "category": "flour",
+    "aliases": [
+      "AP flour",
+      "plain flour",
+      "white flour"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "protein": "10-12%",
+      "function": "structure, binding, thickening, base for most baked goods"
+    },
+    "substitutions": [
+      {
+        "name": "Bread Flour",
+        "ratio": "1 cup bread flour = 1 cup all-purpose flour",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Higher protein (12-14%) makes slightly chewier texture.",
+        "notes": "Results will be slightly chewier and more elastic. Great for pizza dough. Avoid for tender cakes.",
+        "science": "Flour protein content determines gluten development potential. All-purpose flour has 10-12% protein, while bread flour has 12-14%. This extra protein creates more gluten, resulting in chewier texture and better structure for bread. Using bread flour in cookies or cakes will make them slightly tougher and chewier."
+      },
+      {
+        "name": "Cake Flour",
+        "ratio": "1 cup + 2 tablespoons cake flour = 1 cup all-purpose flour",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Lower protein (7-9%), so use slightly more. Results are more tender.",
+        "notes": "Results will be more delicate and tender. Not for bread or pizza.",
+        "science": "Cake flour is milled from soft wheat with only 7-9% protein and is often bleached. Bleaching oxidizes the flour proteins, further weakening their gluten-forming ability and allowing them to hold more sugar and fat. This creates the tender, fine crumb characteristic of cakes. You need more cake flour because it's less dense."
+      },
+      {
+        "name": "Whole Wheat Flour",
+        "ratio": "Replace up to 50% (1/2 cup whole wheat + 1/2 cup AP = 1 cup AP)",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Higher fiber and protein. 100% substitution makes dense, heavy results.",
+        "notes": "Replace only half for best results. Products will be denser and nuttier. May need more liquid."
+      },
+      {
+        "name": "Gluten-Free Flour Blend",
+        "ratio": "1 cup GF blend = 1 cup all-purpose flour",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Blends are formulated to mimic AP flour behavior. Usually contain rice flour, tapioca, and xanthan gum.",
+        "notes": "Use blends with xanthan gum already added (Bob's Red Mill 1-to-1, King Arthur Measure for Measure). Results may be slightly different texture.",
+        "science": "Good GF blends combine rice flour (for neutral flavor and structure), tapioca or potato starch (for binding and chewiness), and xanthan gum (to mimic gluten's elasticity). Without gluten, there's no protein network to trap gas and create structure, so these blends use starches and gums to approximate those functions."
+      },
+      {
+        "name": "Almond Flour (partial)",
+        "ratio": "Replace up to 25% (1/4 cup almond + 3/4 cup AP = 1 cup AP)",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Adds moisture and richness but no gluten. Can't fully replace.",
+        "notes": "100% almond flour requires completely different recipe. Partial substitution adds nutty flavor and moisture."
+      }
+    ]
+  },
+  "cake_flour": {
+    "name": "Cake Flour",
+    "category": "flour",
+    "aliases": [
+      "soft flour",
+      "pastry flour"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "protein": "7-9%",
+      "function": "creates tender, fine crumb in cakes and delicate baked goods"
+    },
+    "substitutions": [
+      {
+        "name": "All-Purpose Flour + Cornstarch",
+        "ratio": "1 cup minus 2 tablespoons AP flour + 2 tablespoons cornstarch = 1 cup cake flour",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Cornstarch dilutes protein and interferes with gluten formation, mimicking low-protein cake flour.",
+        "notes": "Sift together several times for even distribution. Works very well for cakes."
+      },
+      {
+        "name": "All-Purpose Flour (straight substitution)",
+        "ratio": "1 cup AP flour = 1 cup cake flour",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Will work but produces slightly different texture due to higher protein.",
+        "notes": "Results will be slightly denser and less tender. Mix less to reduce gluten development."
+      }
+    ]
+  },
+  "bread_flour": {
+    "name": "Bread Flour",
+    "category": "flour",
+    "aliases": [
+      "strong flour",
+      "high-gluten flour"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "protein": "12-14%",
+      "function": "creates chewy texture, strong gluten network for bread structure"
+    },
+    "substitutions": [
+      {
+        "name": "All-Purpose Flour + Vital Wheat Gluten",
+        "ratio": "1 cup AP flour + 1 teaspoon vital wheat gluten = 1 cup bread flour",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Vital wheat gluten is pure protein. Adding it increases protein content to match bread flour.",
+        "notes": "Best substitute for bread. Creates the chewy texture and good rise."
+      },
+      {
+        "name": "All-Purpose Flour (straight substitution)",
+        "ratio": "1 cup AP flour = 1 cup bread flour",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "AP flour can make bread, just with slightly less chew and rise.",
+        "notes": "Results will be acceptable but less chewy. Fine for home bread baking."
+      }
+    ]
+  },
+  "self_rising_flour": {
+    "name": "Self-Rising Flour",
+    "category": "flour",
+    "aliases": [
+      "self-raising flour"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "function": "flour with leavening and salt already added, for quick breads and biscuits"
+    },
+    "substitutions": [
+      {
+        "name": "All-Purpose Flour + Baking Powder + Salt",
+        "ratio": "1 cup AP flour + 1.5 teaspoons baking powder + 1/4 teaspoon salt = 1 cup self-rising flour",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "This IS what self-rising flour is - just AP flour with leavening and salt pre-mixed.",
+        "notes": "Perfect substitute. Whisk together well before using."
+      },
+      {
+        "name": "Cake Flour + Baking Powder + Salt",
+        "ratio": "1 cup cake flour + 1.5 teaspoons baking powder + 1/4 teaspoon salt = 1 cup self-rising flour",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "For more tender results like Southern-style biscuits.",
+        "notes": "Results will be more tender and delicate. Traditional for fluffy biscuits."
+      }
+    ]
+  },
+  "cornstarch": {
+    "name": "Cornstarch",
+    "category": "thickeners",
+    "aliases": [
+      "corn starch",
+      "maize starch"
+    ],
+    "context": [
+      "cooking",
+      "baking"
+    ],
+    "properties": {
+      "function": "thickening sauces, gives glossy finish, lightens baked goods"
+    },
+    "substitutions": [
+      {
+        "name": "All-Purpose Flour",
+        "ratio": "2 tablespoons flour = 1 tablespoon cornstarch",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Flour thickens well but needs twice as much. Contains protein so it's not as pure a starch.",
+        "notes": "Must cook 2-3 minutes to remove raw flour taste. Results are opaque, not glossy. Make a slurry first.",
+        "science": "Cornstarch is pure starch (amylose and amylopectin), while flour contains starch plus 10-12% protein (gluten). Starch thickens by absorbing water and swelling when heated\u2014a process called gelatinization. Flour's proteins create cloudiness and can make sauces taste 'floury' if undercooked. You need 2x flour because only half of it is starch."
+      },
+      {
+        "name": "Arrowroot Powder",
+        "ratio": "1 tablespoon arrowroot = 1 tablespoon cornstarch",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Nearly identical thickening power. Also a pure starch.",
+        "notes": "Creates glossy, clear sauces like cornstarch. Doesn't hold up to prolonged cooking or reheating.",
+        "science": "Arrowroot is a pure starch extracted from the Maranta arundinacea plant. It gelatinizes at a lower temperature than cornstarch and creates an exceptionally clear, glossy gel. However, its starch structure breaks down more easily with prolonged heat or when cooled and reheated, causing sauces to thin out."
+      },
+      {
+        "name": "Tapioca Starch",
+        "ratio": "2 tablespoons tapioca starch = 1 tablespoon cornstarch",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Another pure starch thickener. Creates slightly chewy, glossy texture.",
+        "notes": "Can become stringy if overcooked. Great for fruit pies.",
+        "science": "Tapioca starch (from cassava root) has a unique ratio of amylose to amylopectin that creates a slightly chewy, stretchy texture\u2014perfect for fruit pie fillings where you want the filling to hold together when sliced. It becomes stringy if overcooked because the amylopectin chains begin to break down."
+      },
+      {
+        "name": "Potato Starch",
+        "ratio": "1 tablespoon potato starch = 1 tablespoon cornstarch",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar thickening power to cornstarch. Pure starch with neutral flavor.",
+        "notes": "Breaks down at high heat or with prolonged cooking. Add at end."
+      },
+      {
+        "name": "Rice Flour",
+        "ratio": "2 tablespoons rice flour = 1 tablespoon cornstarch",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides thickening, though not as strong as pure starch.",
+        "notes": "Creates slightly grainy texture. Best for gravies where smoothness isn't critical."
+      }
+    ]
+  },
+  "cocoa_powder": {
+    "name": "Cocoa Powder (Unsweetened)",
+    "category": "chocolate",
+    "aliases": [
+      "natural cocoa",
+      "dutch process cocoa"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "function": "chocolate flavor, affects leavening chemistry (natural is acidic, Dutch is neutral)"
+    },
+    "substitutions": [
+      {
+        "name": "Unsweetened Baking Chocolate",
+        "ratio": "1 oz unsweetened chocolate (melted) = 3 tablespoons cocoa + 1 tablespoon fat",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Baking chocolate is cocoa solids + cocoa butter. Need to reduce fat in recipe.",
+        "notes": "Reduce butter/oil in recipe by 1 tablespoon per ounce of chocolate used. Richer flavor."
+      },
+      {
+        "name": "Dutch Process \u2194 Natural Cocoa Swap",
+        "ratio": "Use same amount but adjust leavening",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Natural cocoa is acidic (works with baking soda). Dutch is neutral (needs baking powder).",
+        "notes": "Swapping natural for Dutch: replace baking soda with baking powder (3x amount). Swapping Dutch for natural: replace baking powder with baking soda (1/3 amount)."
+      },
+      {
+        "name": "Carob Powder",
+        "ratio": "1 tablespoon carob = 1 tablespoon cocoa",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar appearance and can provide brown color. Naturally sweet.",
+        "notes": "VERY different flavor - earthy and sweet, not chocolatey. Reduce sugar. Not a true chocolate substitute."
+      },
+      {
+        "name": "Hot Cocoa Mix (in a pinch)",
+        "ratio": "3 tablespoons hot cocoa mix - 1 tablespoon sugar = ~2 tablespoons cocoa",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Contains cocoa powder plus sugar and milk powder.",
+        "notes": "Reduce sugar in recipe significantly. Results will be sweeter and less intense."
+      }
+    ]
+  },
+  "unsweetened_chocolate": {
+    "name": "Unsweetened Baking Chocolate",
+    "category": "chocolate",
+    "aliases": [
+      "baking chocolate",
+      "bitter chocolate"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "cocoa_solids": "99%+",
+      "function": "pure chocolate flavor, richness, no added sugar"
+    },
+    "substitutions": [
+      {
+        "name": "Cocoa Powder + Fat",
+        "ratio": "3 tablespoons cocoa powder + 1 tablespoon butter/oil = 1 oz unsweetened chocolate",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Unsweetened chocolate is just cocoa solids and cocoa butter. This recreates it.",
+        "notes": "Use neutral oil or butter depending on recipe. Melt butter first if using."
+      },
+      {
+        "name": "Semisweet Chocolate",
+        "ratio": "1 oz semisweet = 1 oz unsweetened (reduce sugar by 1 tablespoon)",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Semisweet contains sugar. Reducing recipe sugar compensates.",
+        "notes": "Result will be slightly less intense. Works for brownies and cakes."
+      }
+    ]
+  },
+  "semisweet_chocolate": {
+    "name": "Semisweet Chocolate",
+    "category": "chocolate",
+    "aliases": [
+      "dark chocolate",
+      "bittersweet chocolate",
+      "chocolate chips"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "cocoa_solids": "35-60%",
+      "function": "balanced chocolate flavor with sweetness"
+    },
+    "substitutions": [
+      {
+        "name": "Unsweetened Chocolate + Sugar",
+        "ratio": "1 oz unsweetened chocolate + 1 tablespoon sugar = 1 oz semisweet",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Semisweet is unsweetened chocolate with sugar added. This recreates the formula.",
+        "notes": "Melt chocolate, stir in sugar until dissolved. Adjust sugar to taste."
+      },
+      {
+        "name": "Cocoa Powder + Sugar + Fat",
+        "ratio": "1 tablespoon cocoa + 1 tablespoon sugar + 2 teaspoons butter = ~1/2 oz semisweet",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Builds chocolate from components. Works when you're out of chocolate.",
+        "notes": "Melt butter, mix in cocoa and sugar. Won't have exact texture of solid chocolate."
+      },
+      {
+        "name": "Milk Chocolate",
+        "ratio": "1 cup milk chocolate = 1 cup semisweet",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Both are sweetened chocolates. Milk chocolate is sweeter and milder.",
+        "notes": "Results will be sweeter and less intensely chocolate. May want to reduce sugar slightly."
+      }
+    ]
+  },
+  "white_sugar": {
+    "name": "White Sugar (Granulated)",
+    "category": "sweeteners",
+    "aliases": [
+      "granulated sugar",
+      "table sugar",
+      "cane sugar"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "function": "sweetness, tenderizing, browning, feeds yeast, adds crispness to cookies"
+    },
+    "substitutions": [
+      {
+        "name": "Brown Sugar",
+        "ratio": "1 cup packed brown sugar = 1 cup white sugar",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Brown sugar is white sugar + molasses. Adds moisture and chewiness.",
+        "notes": "Results will be more moist and chewy with caramel notes. May spread more when baking."
+      },
+      {
+        "name": "Coconut Sugar",
+        "ratio": "1 cup coconut sugar = 1 cup white sugar",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar sweetness level. Lower glycemic index.",
+        "notes": "Adds caramel/brown sugar flavor. Won't cream as smoothly. Slightly less sweet."
+      },
+      {
+        "name": "Honey",
+        "ratio": "3/4 cup honey = 1 cup sugar (reduce liquid by 1/4 cup, add 1/4 tsp baking soda)",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Honey is sweeter than sugar. Liquid form requires recipe adjustment.",
+        "notes": "Reduce other liquids and oven temp by 25\u00b0F to prevent over-browning. Adds honey flavor."
+      },
+      {
+        "name": "Maple Syrup",
+        "ratio": "3/4 cup maple syrup = 1 cup sugar (reduce liquid by 3 tablespoons)",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar sweetness to honey. Requires liquid adjustment.",
+        "notes": "Reduce other liquids. Adds maple flavor. Lower oven temp slightly."
+      },
+      {
+        "name": "Stevia (for sweetness only)",
+        "ratio": "1 teaspoon stevia extract = 1 cup sugar (sweetness only)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides sweetness without calories or carbs.",
+        "notes": "Does NOT provide bulk, browning, or texture. Only use in recipes where sugar's only role is sweetness (drinks, sauces). Not for baking."
+      }
+    ]
+  },
+  "powdered_sugar": {
+    "name": "Powdered Sugar",
+    "category": "sweeteners",
+    "aliases": [
+      "confectioner's sugar",
+      "icing sugar",
+      "10x sugar"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "function": "smooth frostings, dissolves instantly, dusting, no graininess"
+    },
+    "substitutions": [
+      {
+        "name": "Homemade: Granulated Sugar (blended)",
+        "ratio": "1 cup granulated sugar + 1 tablespoon cornstarch, blended = 1 cup powdered sugar",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Powdered sugar is just finely ground sugar with anti-caking agent (usually cornstarch).",
+        "notes": "Blend in high-powered blender or food processor for 1-2 minutes until powdery. Sift before using."
+      },
+      {
+        "name": "Coconut Sugar (blended)",
+        "ratio": "1 cup coconut sugar, blended fine = 1 cup powdered sugar",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Can be ground fine, though won't be as white or dissolve as smoothly.",
+        "notes": "Results will be tan colored with caramel flavor. Works for rustic frostings."
+      }
+    ]
+  },
+  "brown_sugar": {
+    "name": "Brown Sugar",
+    "category": "sweeteners",
+    "aliases": [
+      "light brown sugar",
+      "dark brown sugar"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "function": "sweetness, moisture, chewy texture, caramel/molasses flavor"
+    },
+    "substitutions": [
+      {
+        "name": "White Sugar + Molasses",
+        "ratio": "1 cup white sugar + 1 tablespoon molasses = 1 cup light brown sugar; use 2 tablespoons molasses for dark brown",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "This IS what brown sugar is - white sugar with molasses added back.",
+        "notes": "Mix thoroughly. This is the perfect substitute - same chemistry.",
+        "science": "Brown sugar literally IS white sugar with molasses added back. During sugar refining, molasses (the syrup remaining after sugar crystallization) is removed to create white sugar. Adding it back recreates brown sugar exactly. Molasses contains minerals (calcium, iron, potassium), moisture, and flavor compounds (melanoidins from Maillard reactions) that give brown sugar its character."
+      },
+      {
+        "name": "Coconut Sugar",
+        "ratio": "1 cup coconut sugar = 1 cup brown sugar",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar caramel flavor and color. Contains some moisture.",
+        "notes": "Slightly less sweet, grainier texture. Won't cream as smoothly with butter.",
+        "science": "Coconut sugar is made by evaporating sap from coconut palm flower buds. It contains sucrose (like cane sugar) but also retains some nutrients and inulin fiber from the sap. The caramel flavor comes from Maillard browning during production. It's less processed than refined sugars but behaves similarly in most recipes."
+      },
+      {
+        "name": "Maple Sugar",
+        "ratio": "1 cup maple sugar = 1 cup brown sugar",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides similar moisture and caramel-like depth.",
+        "notes": "Adds maple flavor. Expensive but delicious in cookies."
+      },
+      {
+        "name": "White Sugar (in a pinch)",
+        "ratio": "1 cup white sugar = 1 cup brown sugar",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides sweetness, though missing moisture and flavor.",
+        "notes": "Cookies will be crisper and less chewy. Flavor will be less complex."
+      }
+    ]
+  },
+  "molasses": {
+    "name": "Molasses",
+    "category": "sweeteners",
+    "aliases": [
+      "blackstrap molasses",
+      "light molasses",
+      "dark molasses"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "function": "deep caramel flavor, moisture, acidity, minerals, essential for gingerbread"
+    },
+    "substitutions": [
+      {
+        "name": "Dark Corn Syrup",
+        "ratio": "1 cup dark corn syrup = 1 cup molasses",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar consistency and some caramel flavor. Less complex than molasses.",
+        "notes": "Milder flavor. Works in recipes where molasses isn't the star flavor."
+      },
+      {
+        "name": "Honey + Brown Sugar",
+        "ratio": "3/4 cup honey + 1/4 cup packed brown sugar = 1 cup molasses",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides thickness and some depth. Not the same flavor profile.",
+        "notes": "Mix well. Results will be sweeter and less bitter. Different flavor."
+      },
+      {
+        "name": "Maple Syrup",
+        "ratio": "1 cup maple syrup = 1 cup molasses",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar thick liquid consistency. Different flavor profile.",
+        "notes": "Very different flavor - maple instead of caramel/bitter. Works in some recipes."
+      },
+      {
+        "name": "Date Syrup",
+        "ratio": "1 cup date syrup = 1 cup molasses",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar thick, dark consistency with complex sweetness.",
+        "notes": "Different flavor but good depth. Works well in gingerbread and dark cakes."
+      }
+    ]
+  },
+  "honey": {
+    "name": "Honey",
+    "category": "sweeteners",
+    "aliases": [
+      "raw honey",
+      "liquid honey"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "function": "sweetness, moisture retention, browning, antibacterial properties"
+    },
+    "substitutions": [
+      {
+        "name": "Maple Syrup",
+        "ratio": "1 cup maple syrup = 1 cup honey",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar consistency, sweetness, and moisture-retaining properties.",
+        "notes": "Adds distinct maple flavor. Works beautifully in most applications.",
+        "science": "Both honey and maple syrup are supersaturated sugar solutions with complex flavor compounds. Honey is primarily fructose and glucose from plant nectar, processed by bee enzymes. Maple syrup is sucrose from tree sap, concentrated by boiling. Both contain antioxidants, have hygroscopic properties (attract and retain moisture), and promote Maillard browning in baking."
+      },
+      {
+        "name": "Agave Nectar",
+        "ratio": "2/3 cup agave = 1 cup honey (agave is sweeter)",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar liquid consistency. Agave is actually sweeter than honey.",
+        "notes": "Neutral flavor, thinner than honey. Vegan alternative.",
+        "science": "Agave nectar is about 90% fructose (compared to honey's 40% fructose, 30% glucose). Fructose is 1.5x sweeter than sucrose, which is why you need less agave. Its high fructose content also means it has a lower glycemic index. The neutral flavor and thin consistency differ from honey but the hygroscopic properties (moisture retention) are similar."
+      },
+      {
+        "name": "Corn Syrup",
+        "ratio": "1 1/4 cups corn syrup = 1 cup honey (corn syrup is less sweet)",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar liquid texture and moisture properties.",
+        "notes": "No distinct flavor like honey. Use light corn syrup for neutral taste."
+      },
+      {
+        "name": "Molasses + Sugar",
+        "ratio": "3/4 cup sugar + 1/4 cup molasses = 1 cup honey",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides sweetness plus some depth and moisture.",
+        "notes": "Adds strong molasses flavor - good in gingerbread, not for delicate recipes."
+      },
+      {
+        "name": "Brown Rice Syrup",
+        "ratio": "1 1/4 cups brown rice syrup = 1 cup honey",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar sticky consistency. Less sweet than honey.",
+        "notes": "Mild, slightly nutty flavor. Good vegan option."
+      }
+    ]
+  },
+  "maple_syrup": {
+    "name": "Maple Syrup",
+    "category": "sweeteners",
+    "aliases": [
+      "pure maple syrup",
+      "real maple syrup"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "function": "distinctive maple flavor, liquid sweetness, pairs with breakfast foods"
+    },
+    "substitutions": [
+      {
+        "name": "Honey",
+        "ratio": "1 cup honey = 1 cup maple syrup",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar sweetness and consistency. Different flavor.",
+        "notes": "Won't have maple flavor, but provides same sweetness and moisture."
+      },
+      {
+        "name": "Maple-Flavored Pancake Syrup",
+        "ratio": "1 cup pancake syrup = 1 cup maple syrup",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Designed to taste like maple syrup, though artificial.",
+        "notes": "Fine for pancakes and waffles. Not recommended for baking where real maple flavor is important."
+      },
+      {
+        "name": "Brown Sugar Syrup (homemade)",
+        "ratio": "1 cup brown sugar + 1/4 cup water, heated until dissolved = ~1 cup maple-like syrup",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Brown sugar has similar caramel notes. Creates pourable syrup.",
+        "notes": "Heat sugar and water until dissolved and slightly thickened. Different from maple but good depth."
+      },
+      {
+        "name": "Agave Nectar",
+        "ratio": "1 cup agave = 1 cup maple syrup",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar liquid consistency. Neutral flavor.",
+        "notes": "Missing maple flavor but works as liquid sweetener. Slightly sweeter."
+      }
+    ]
+  },
+  "vanilla_extract": {
+    "name": "Vanilla Extract",
+    "category": "flavorings",
+    "aliases": [
+      "pure vanilla extract",
+      "vanilla"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "function": "enhances other flavors, adds warmth and complexity, signature baking aroma"
+    },
+    "substitutions": [
+      {
+        "name": "Vanilla Bean",
+        "ratio": "1 inch vanilla bean (seeds scraped) = 1 teaspoon vanilla extract",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "The source of vanilla extract - pure vanilla flavor with visible specks.",
+        "notes": "More expensive but more aromatic. Save the pod to make vanilla sugar."
+      },
+      {
+        "name": "Vanilla Paste",
+        "ratio": "1 teaspoon vanilla paste = 1 teaspoon vanilla extract",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Concentrated vanilla with bean specks. Same flavor, thicker consistency.",
+        "notes": "Slightly more intense. Beautiful specks in custards and ice cream."
+      },
+      {
+        "name": "Maple Syrup",
+        "ratio": "1 teaspoon maple syrup = 1 teaspoon vanilla extract",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Adds similar warmth and depth, though different flavor profile.",
+        "notes": "Works when vanilla complements (pancakes, oatmeal cookies). Not for vanilla-forward recipes."
+      },
+      {
+        "name": "Almond Extract",
+        "ratio": "1/2 teaspoon almond extract = 1 teaspoon vanilla extract",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides aromatic depth, though distinctly different flavor.",
+        "notes": "Use half as much - almond extract is very strong. Good in cookies, cakes."
+      },
+      {
+        "name": "Bourbon or Rum",
+        "ratio": "2 teaspoons bourbon or dark rum = 1 teaspoon vanilla extract",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Vanilla extract is alcohol-based and shares some flavor compounds with aged spirits.",
+        "notes": "Adds warmth and complexity. Good in adult desserts. Alcohol cooks off."
+      }
+    ]
+  },
+  "soy_sauce": {
+    "name": "Soy Sauce",
+    "category": "asian",
+    "aliases": [
+      "shoyu",
+      "dark soy sauce",
+      "light soy sauce"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "umami, saltiness, color, fermented depth, essential Asian seasoning"
+    },
+    "substitutions": [
+      {
+        "name": "Tamari",
+        "ratio": "1 tablespoon tamari = 1 tablespoon soy sauce",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Japanese soy sauce, usually gluten-free. Same umami and saltiness.",
+        "notes": "Slightly thicker and less salty. Check label for gluten-free if needed.",
+        "science": "Both soy sauce and tamari are fermented soybean products, but traditional tamari contains little to no wheat (soy sauce is typically 50% wheat). The brewing process uses Aspergillus molds to break down soy proteins into amino acids (including glutamate for umami). Tamari's soy-only formulation creates a slightly thicker texture and more soybean-forward flavor."
+      },
+      {
+        "name": "Coconut Aminos",
+        "ratio": "1 tablespoon coconut aminos = 1 tablespoon soy sauce (add pinch of salt)",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Soy-free alternative with similar umami. Made from coconut sap.",
+        "notes": "Less salty and slightly sweeter than soy sauce. Add salt to taste. Soy-free and gluten-free.",
+        "science": "Coconut aminos are made by fermenting coconut tree sap with salt. The fermentation produces amino acids and develops umami flavor, though less intensely than soy fermentation. It's naturally lower in sodium (73% less than soy sauce) and has a slightly sweeter taste. The reduced sodium means you may need to add salt to match soy sauce's seasoning power."
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "ratio": "1 tablespoon Worcestershire = 1 tablespoon soy sauce",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides umami and fermented depth, though different flavor profile.",
+        "notes": "More vinegary and complex. Works in Western dishes, less authentic for Asian food."
+      },
+      {
+        "name": "Liquid Aminos",
+        "ratio": "1 tablespoon liquid aminos = 1 tablespoon soy sauce",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Made from soybeans but unfermented. Similar salty, umami flavor.",
+        "notes": "Gluten-free. Slightly milder and less complex than fermented soy sauce."
+      },
+      {
+        "name": "Fish Sauce (diluted)",
+        "ratio": "1/2 tablespoon fish sauce + 1/2 tablespoon water = 1 tablespoon soy sauce",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides intense umami and salt. Very different flavor but similar function.",
+        "notes": "Not vegetarian. Adds fishy depth. Use when soy sauce unavailable in Thai/Vietnamese cooking."
+      }
+    ]
+  },
+  "mirin": {
+    "name": "Mirin",
+    "category": "asian",
+    "aliases": [
+      "sweet rice wine",
+      "Japanese rice wine"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "adds sweetness, umami, glossy finish, tenderizes proteins, reduces fishy odors"
+    },
+    "substitutions": [
+      {
+        "name": "Sake + Sugar",
+        "ratio": "1 tablespoon sake + 1/2 teaspoon sugar = 1 tablespoon mirin",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Mirin is essentially sweet sake. This recreates both components.",
+        "notes": "Best substitute. Sake provides the rice wine base, sugar adds sweetness.",
+        "science": "Mirin is made by fermenting sweet rice with koji (Aspergillus oryzae mold) and shochu (distilled spirit). This creates a complex mixture of sugars, amino acids, and organic acids. Sake provides the rice-based alcohol and umami (from koji's enzymatic action), while sugar adds the sweetness. Together they approximate mirin's 40-50% sugar content and 14% alcohol."
+      },
+      {
+        "name": "Dry Sherry + Sugar",
+        "ratio": "1 tablespoon dry sherry + 1/2 teaspoon sugar = 1 tablespoon mirin",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Sherry has similar depth and slight sweetness. Common Western substitute.",
+        "notes": "Flavor is different but works well in most Asian recipes.",
+        "science": "Dry sherry undergoes a unique aging process under flor yeast, which produces acetaldehyde and gives sherry its distinctive nutty flavor. This complexity somewhat mimics mirin's fermented depth. The addition of sugar compensates for sherry's dryness. While not identical, the combination provides similar cooking functionality."
+      },
+      {
+        "name": "Rice Vinegar + Sugar",
+        "ratio": "1 tablespoon rice vinegar + 1 teaspoon sugar = 1 tablespoon mirin (reduce other acids)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides some of the flavor complexity, but more acidic than mirin.",
+        "notes": "Use only if no alcohol options available. Reduce any other vinegar or acid in the recipe."
+      },
+      {
+        "name": "White Wine + Sugar",
+        "ratio": "1 tablespoon white wine + 1/2 teaspoon sugar = 1 tablespoon mirin",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides alcohol and sweetness, though different flavor profile.",
+        "notes": "Acceptable substitute. Won't have the same umami depth."
+      }
+    ]
+  },
+  "miso": {
+    "name": "Miso Paste",
+    "category": "asian",
+    "aliases": [
+      "miso",
+      "soybean paste",
+      "white miso",
+      "red miso"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "adds deep umami, saltiness, fermented complexity"
+    },
+    "substitutions": [
+      {
+        "name": "Soy Sauce + Tahini",
+        "ratio": "1 tablespoon soy sauce + 1 tablespoon tahini = 2 tablespoons miso",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Soy sauce provides umami and salt, tahini adds the paste-like body and slight bitterness.",
+        "notes": "Won't have fermented complexity but provides similar savory depth."
+      },
+      {
+        "name": "Soy Sauce (alone)",
+        "ratio": "1/2 tablespoon soy sauce = 1 tablespoon miso (adjust salt in recipe)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both are fermented soy products with umami. Soy sauce is thinner and saltier.",
+        "notes": "Reduces overall salt in recipe. Misses the paste texture and fermented depth."
+      },
+      {
+        "name": "Fish Sauce (for umami)",
+        "ratio": "1 teaspoon fish sauce = 1 tablespoon miso (adjust salt)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides intense umami, though from a different source.",
+        "notes": "Not vegetarian. Very different flavor but hits the umami note. Use sparingly - very concentrated."
+      },
+      {
+        "name": "Vegetable Bouillon Paste",
+        "ratio": "1 tablespoon vegetable bouillon paste = 1 tablespoon miso",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides savory, salty paste with some umami from vegetables/yeast.",
+        "notes": "Missing the fermented quality. Better than nothing for soup bases."
+      }
+    ]
+  },
+  "fish_sauce": {
+    "name": "Fish Sauce",
+    "category": "asian",
+    "aliases": [
+      "nam pla",
+      "nuoc mam"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "intense umami, salt, depth without fishy taste when used properly"
+    },
+    "substitutions": [
+      {
+        "name": "Soy Sauce + Worcestershire",
+        "ratio": "1 tablespoon soy sauce + 1 teaspoon Worcestershire = 1 tablespoon fish sauce",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Soy provides umami and salt, Worcestershire adds the fermented anchovy depth (it contains anchovies).",
+        "notes": "Good all-purpose substitute. Worcestershire adds some of the fermented fish element.",
+        "science": "Fish sauce is produced by fermenting fish with salt for 12-24 months, during which proteins break down into free amino acids (especially glutamate) and other flavor compounds. Worcestershire sauce also contains fermented anchovies, along with tamarind, vinegar, and molasses. Combining it with soy sauce (another fermented, glutamate-rich product) approximates fish sauce's umami profile."
+      },
+      {
+        "name": "Soy Sauce + Lime Juice",
+        "ratio": "1 tablespoon soy sauce + small squeeze of lime = 1 tablespoon fish sauce",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Soy provides salt and umami, lime adds brightness that fish sauce contributes.",
+        "notes": "Missing the depth but works for Thai salads and stir-fries."
+      },
+      {
+        "name": "Coconut Aminos + Seaweed",
+        "ratio": "1 tablespoon coconut aminos + pinch of crumbled nori = 1 tablespoon fish sauce",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Coconut aminos for savory base, seaweed adds ocean/umami notes.",
+        "notes": "Good vegetarian option. Less salty than soy-based substitutes."
+      },
+      {
+        "name": "Anchovy Paste",
+        "ratio": "1/2 teaspoon anchovy paste + 1 tablespoon water = 1 tablespoon fish sauce",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Made from the same fish, just in paste form. Same umami profile.",
+        "notes": "Very close substitute. Might have slightly different texture in dressings.",
+        "science": "Anchovy paste is made from the same fish used in fish sauce (typically anchovies), just processed differently\u2014ground and salted rather than fermented in liquid. It contains similar levels of glutamate and nucleotides (inosinate) that create umami. Diluting with water creates a texture and salinity closer to fish sauce."
+      }
+    ]
+  },
+  "oyster_sauce": {
+    "name": "Oyster Sauce",
+    "category": "asian",
+    "aliases": [
+      "oyster flavored sauce"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "savory-sweet umami, glossy finish, essential for stir-fries"
+    },
+    "substitutions": [
+      {
+        "name": "Hoisin Sauce + Soy Sauce",
+        "ratio": "1 tablespoon hoisin + 1/2 tablespoon soy sauce = 1.5 tablespoons oyster sauce",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Hoisin provides thick, sweet-savory base. Soy adds salt depth.",
+        "notes": "Different flavor profile - more Chinese BBQ taste. Works well in stir-fries."
+      },
+      {
+        "name": "Soy Sauce + Sugar",
+        "ratio": "1 tablespoon soy sauce + 1/2 teaspoon sugar + 1/2 teaspoon cornstarch slurry = 1 tablespoon oyster sauce",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Approximates the salty-sweet profile. Cornstarch adds thickness.",
+        "notes": "Missing oyster umami depth but provides similar seasoning function."
+      },
+      {
+        "name": "Mushroom Sauce (vegetarian oyster sauce)",
+        "ratio": "1 tablespoon mushroom sauce = 1 tablespoon oyster sauce",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Specifically designed as vegetarian alternative. Made from mushrooms for similar umami.",
+        "notes": "Available in Asian markets. Excellent vegetarian substitute with similar flavor profile."
+      },
+      {
+        "name": "Worcestershire + Soy + Sugar",
+        "ratio": "1 tsp Worcestershire + 1 tbsp soy sauce + 1/2 tsp sugar = ~1.5 tbsp oyster sauce",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Combines fermented depth with soy and sweetness.",
+        "notes": "Western pantry solution. Worcestershire has anchovies, not vegetarian."
+      }
+    ]
+  },
+  "hoisin_sauce": {
+    "name": "Hoisin Sauce",
+    "category": "asian",
+    "aliases": [
+      "Chinese BBQ sauce",
+      "Peking sauce"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "sweet-salty-savory, thick glaze, essential for Peking duck and moo shu"
+    },
+    "substitutions": [
+      {
+        "name": "Homemade Hoisin",
+        "ratio": "4 tbsp soy sauce + 2 tbsp peanut butter + 1 tbsp honey + 2 tsp rice vinegar + 1 tsp sesame oil + pinch five-spice",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Combines the key flavor elements: soy, sweetness, nuttiness, and spices.",
+        "notes": "Blend until smooth. Adjust sweetness to taste. Very close to commercial hoisin."
+      },
+      {
+        "name": "Oyster Sauce + Honey",
+        "ratio": "2 tablespoons oyster sauce + 1 tablespoon honey + dash of soy sauce = ~3 tablespoons hoisin",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Oyster sauce provides similar thick, umami base. Honey adds sweetness.",
+        "notes": "Missing the spice complexity but similar texture and umami-sweet balance."
+      },
+      {
+        "name": "Barbecue Sauce + Soy Sauce",
+        "ratio": "2 tablespoons BBQ sauce + 1 tablespoon soy sauce + 1 tsp molasses = ~3 tablespoons hoisin",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "BBQ sauce has similar sweet-savory profile. Soy adds depth.",
+        "notes": "Different flavor (more Western) but works in a pinch for marinades."
+      }
+    ]
+  },
+  "worcestershire_sauce": {
+    "name": "Worcestershire Sauce",
+    "category": "condiments",
+    "aliases": [
+      "Worcester sauce"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "complex fermented umami, anchovy-based depth, essential for Bloody Marys and steak"
+    },
+    "substitutions": [
+      {
+        "name": "Soy Sauce + Apple Cider Vinegar",
+        "ratio": "1 tablespoon soy sauce + 1 teaspoon apple cider vinegar + pinch sugar = 1 tablespoon Worcestershire",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Approximates the soy-vinegar-sweet balance of Worcestershire.",
+        "notes": "Missing fermented anchovy depth but provides similar seasoning function."
+      },
+      {
+        "name": "Coconut Aminos + Vinegar",
+        "ratio": "1 tablespoon coconut aminos + 1 teaspoon balsamic vinegar = 1 tablespoon Worcestershire",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides umami and tang. Vegetarian option.",
+        "notes": "Different flavor profile but similar function. Good for vegan cooking."
+      },
+      {
+        "name": "Tamarind Paste + Soy Sauce",
+        "ratio": "1/2 tsp tamarind paste + 1 tbsp soy sauce + splash vinegar = 1 tbsp Worcestershire",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Tamarind adds the tangy-sweet depth that's key to Worcestershire.",
+        "notes": "Closer to authentic flavor. Tamarind provides similar fermented complexity."
+      }
+    ]
+  },
+  "tahini": {
+    "name": "Tahini",
+    "category": "condiments",
+    "aliases": [
+      "sesame paste",
+      "sesame seed butter"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "nutty richness, base for hummus and halva, Middle Eastern essential"
+    },
+    "substitutions": [
+      {
+        "name": "Sunflower Seed Butter",
+        "ratio": "1 cup sunflower seed butter = 1 cup tahini",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar consistency and neutral-nutty flavor. Nut-free alternative.",
+        "notes": "Very similar texture. Slightly different flavor but works well. Seed allergy-friendly.",
+        "science": "Tahini is ground sesame seeds, which are about 50% fat and rich in lignans (sesamin, sesamolin). Sunflower seed butter has similar fat content and a neutral flavor profile. Both are seed-based, so the protein structures and emulsification properties are comparable. The main difference is sesame's distinctive nutty, slightly bitter flavor."
+      },
+      {
+        "name": "Cashew Butter",
+        "ratio": "1 cup cashew butter = 1 cup tahini",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar smooth, rich texture. Milder flavor than tahini.",
+        "notes": "Works well in hummus and dressings. Contains tree nuts.",
+        "science": "Cashews are lower in fat than sesame seeds (44% vs 50%) but create a similar smooth, creamy texture when ground. Both contain phospholipids that help stabilize emulsions, making them work similarly in hummus and dressings. Cashew butter is milder and sweeter, lacking tahini's slight bitterness."
+      },
+      {
+        "name": "Peanut Butter (smooth, unsweetened)",
+        "ratio": "1 cup natural peanut butter = 1 cup tahini",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar consistency. Different, more assertive flavor.",
+        "notes": "Will taste like peanut butter, not sesame. Works in some Asian sauces."
+      },
+      {
+        "name": "Greek Yogurt (for creaminess)",
+        "ratio": "1/2 cup Greek yogurt = 1/4 cup tahini (for dressings/sauces)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides creamy texture without nut/seed flavor.",
+        "notes": "Missing nutty flavor entirely. Use when you need creaminess, not tahini taste."
+      }
+    ]
+  },
+  "sesame_oil": {
+    "name": "Sesame Oil (Toasted)",
+    "category": "fats",
+    "aliases": [
+      "dark sesame oil",
+      "Asian sesame oil"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "intense nutty flavor, finishing oil, essential for Asian cuisines"
+    },
+    "substitutions": [
+      {
+        "name": "Tahini + Neutral Oil",
+        "ratio": "1/2 teaspoon tahini + 1.5 teaspoons neutral oil = 2 teaspoons sesame oil",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Tahini is ground sesame seeds. Provides sesame flavor in oil form.",
+        "notes": "Won't be as intensely flavored. Use for dressings and drizzling."
+      },
+      {
+        "name": "Perilla Oil",
+        "ratio": "1 teaspoon perilla oil = 1 teaspoon sesame oil",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Korean oil with similar nutty, aromatic quality.",
+        "notes": "Different flavor - more herbal/minty. Traditional in Korean cuisine."
+      },
+      {
+        "name": "Walnut Oil",
+        "ratio": "1 teaspoon walnut oil = 1 teaspoon sesame oil",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Another nutty finishing oil with strong flavor.",
+        "notes": "Different flavor profile but provides similar nutty richness. Don't heat."
+      },
+      {
+        "name": "Peanut Oil",
+        "ratio": "1 teaspoon peanut oil = 1 teaspoon sesame oil (for cooking, not flavor)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Works for cooking but won't provide sesame flavor.",
+        "notes": "Only for cooking, not as finishing oil. Missing distinctive sesame taste."
+      }
+    ]
+  },
+  "sake": {
+    "name": "Sake",
+    "category": "alcohol",
+    "aliases": [
+      "cooking sake",
+      "Japanese rice wine",
+      "nihonshu"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "tenderizes proteins, removes fishy odors, adds umami depth, enhances flavors"
+    },
+    "substitutions": [
+      {
+        "name": "Dry Sherry",
+        "ratio": "1 tablespoon dry sherry = 1 tablespoon sake",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar alcohol content and flavor profile - slightly nutty and dry.",
+        "notes": "The most commonly recommended sake substitute in Western cooking."
+      },
+      {
+        "name": "Dry White Wine",
+        "ratio": "1 tablespoon dry white wine = 1 tablespoon sake",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides the alcohol for tenderizing and deglazing.",
+        "notes": "Flavor is different - more acidic. Use dry varieties like Sauvignon Blanc."
+      },
+      {
+        "name": "Rice Vinegar + Water",
+        "ratio": "1 tablespoon rice vinegar + 1/2 tablespoon water = 1.5 tablespoons sake (non-alcoholic)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides some of the rice-based flavor notes without alcohol.",
+        "notes": "More acidic than sake. Reduce other acids in recipe. Missing tenderizing effect."
+      },
+      {
+        "name": "Chicken or Vegetable Broth",
+        "ratio": "1 tablespoon broth + pinch of sugar = 1 tablespoon sake (non-alcoholic)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides liquid and some savory depth without alcohol.",
+        "notes": "Won't have same flavor but works for moisture in recipes."
+      }
+    ]
+  },
+  "rice_vinegar": {
+    "name": "Rice Vinegar",
+    "category": "acids",
+    "aliases": [
+      "rice wine vinegar",
+      "seasoned rice vinegar"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "mild acidity, subtle sweetness, essential for sushi rice and Asian dressings"
+    },
+    "substitutions": [
+      {
+        "name": "Apple Cider Vinegar (diluted)",
+        "ratio": "1 tablespoon apple cider vinegar + 1/4 teaspoon sugar + 1/2 tablespoon water = 1.5 tablespoons rice vinegar",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Apple cider vinegar is mild like rice vinegar. Diluting and sweetening gets it closer.",
+        "notes": "Has a fruitier taste. Good for dressings and marinades."
+      },
+      {
+        "name": "White Wine Vinegar (diluted)",
+        "ratio": "1 tablespoon white wine vinegar + 1/4 teaspoon sugar + 1 teaspoon water = 1.5 tablespoons rice vinegar",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar mild acidity when diluted. Sugar balances the sharpness.",
+        "notes": "Slightly more acidic flavor but works well in most recipes."
+      },
+      {
+        "name": "Lemon or Lime Juice",
+        "ratio": "1/2 tablespoon citrus juice + 1/2 tablespoon water = 1 tablespoon rice vinegar",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides acidity with a fresh, bright note.",
+        "notes": "Different flavor profile - more citrusy. Fine for quick pickles and dressings."
+      },
+      {
+        "name": "Champagne Vinegar",
+        "ratio": "1 tablespoon champagne vinegar = 1 tablespoon rice vinegar",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Very similar mild, slightly sweet acidity profile.",
+        "notes": "More expensive but closest in delicacy to rice vinegar."
+      }
+    ]
+  },
+  "red_wine": {
+    "name": "Red Wine (for cooking)",
+    "category": "alcohol",
+    "aliases": [
+      "cooking wine",
+      "dry red wine"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "deglazing, depth of flavor, acidity, tannins for richness"
+    },
+    "substitutions": [
+      {
+        "name": "Beef or Vegetable Broth + Vinegar",
+        "ratio": "1 cup broth + 1 tablespoon red wine vinegar = 1 cup red wine",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Broth provides depth, vinegar adds acidity. Non-alcoholic option.",
+        "notes": "Missing wine's complexity but provides similar cooking function."
+      },
+      {
+        "name": "Grape Juice + Vinegar",
+        "ratio": "3/4 cup grape juice + 2 tablespoons red wine vinegar = 1 cup red wine",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Grape juice is from the same fruit. Vinegar adds acidity.",
+        "notes": "Sweeter than wine - may need to reduce other sugars. Good for deglazing."
+      },
+      {
+        "name": "Pomegranate Juice",
+        "ratio": "1 cup pomegranate juice = 1 cup red wine",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar color and tannin-like depth. Good acidity.",
+        "notes": "Sweeter and fruitier than wine. Works well in Middle Eastern-inspired dishes."
+      },
+      {
+        "name": "Cranberry Juice",
+        "ratio": "1 cup cranberry juice = 1 cup red wine",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides color, acidity, and slight tannin quality.",
+        "notes": "More tart than wine. Good for poultry and pork dishes."
+      }
+    ]
+  },
+  "white_wine": {
+    "name": "White Wine (for cooking)",
+    "category": "alcohol",
+    "aliases": [
+      "cooking wine",
+      "dry white wine"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "deglazing, brightening sauces, acidity without color"
+    },
+    "substitutions": [
+      {
+        "name": "Chicken or Vegetable Broth + Lemon",
+        "ratio": "1 cup broth + 1 tablespoon lemon juice = 1 cup white wine",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Broth provides savory depth, lemon adds acidity. Non-alcoholic.",
+        "notes": "Good for deglazing and pan sauces. Missing wine's complexity."
+      },
+      {
+        "name": "White Wine Vinegar + Water",
+        "ratio": "1/4 cup white wine vinegar + 3/4 cup water = 1 cup white wine",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "White wine vinegar is literally oxidized white wine. Diluting reduces harshness.",
+        "notes": "More acidic than wine. Good for quick cooking, not long braises."
+      },
+      {
+        "name": "Apple Juice + Vinegar",
+        "ratio": "3/4 cup apple juice + 2 tablespoons white wine vinegar = 1 cup white wine",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Apple provides subtle fruit notes, vinegar adds acidity.",
+        "notes": "Sweeter than wine. Works for pork and chicken dishes."
+      },
+      {
+        "name": "Dry Vermouth",
+        "ratio": "1 cup dry vermouth = 1 cup white wine",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Vermouth is fortified wine with herbs. Excellent for cooking.",
+        "notes": "Keeps longer than wine once opened. Adds herbal complexity."
+      }
+    ]
+  },
+  "gelatin": {
+    "name": "Gelatin",
+    "category": "thickeners",
+    "aliases": [
+      "unflavored gelatin",
+      "Knox gelatin"
+    ],
+    "context": [
+      "cooking",
+      "baking"
+    ],
+    "properties": {
+      "function": "gelling agent, stabilizer for mousses, essential for panna cotta and jellies"
+    },
+    "substitutions": [
+      {
+        "name": "Agar Agar",
+        "ratio": "1 teaspoon agar powder = 1 teaspoon gelatin (or 1 tablespoon agar flakes)",
+        "reliability": "good",
+        "context": [
+          "cooking",
+          "baking"
+        ],
+        "why": "Seaweed-based gelling agent. Vegan alternative to animal gelatin.",
+        "notes": "Sets firmer and at room temperature (gelatin needs refrigeration). Must be boiled to activate. Doesn't melt in mouth the same way.",
+        "science": "Gelatin is derived from animal collagen\u2014proteins that form triple helix structures and create a thermoreversible gel (melts when heated, re-sets when cooled). Agar comes from seaweed and contains agarose polysaccharides that form a different gel structure. Agar sets at 85-95\u00b0F and melts at 185\u00b0F, while gelatin sets at 59\u00b0F and melts at 95\u00b0F. This means agar desserts hold up at room temperature but don't melt in your mouth the same way."
+      },
+      {
+        "name": "Carrageenan",
+        "ratio": "1 teaspoon carrageenan = 1 teaspoon gelatin",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Another seaweed-derived gelling agent. Used commercially in dairy products.",
+        "notes": "Creates softer gel than agar. Vegan option. Less commonly available."
+      },
+      {
+        "name": "Pectin",
+        "ratio": "Varies by product - follow package directions",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Plant-based gelling agent from fruit. Requires acid and sugar to set.",
+        "notes": "Only works with acidic, sugary preparations (jams, jellies). Not for savory applications."
+      },
+      {
+        "name": "Cornstarch (for thickening, not gelling)",
+        "ratio": "2 tablespoons cornstarch = 1 tablespoon gelatin",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Thickens but doesn't create true gel. Works when you need thickness not jiggle.",
+        "notes": "Not a true gel - more like thick sauce. Use for puddings where solid gel isn't needed."
+      }
+    ]
+  },
+  "pectin": {
+    "name": "Pectin",
+    "category": "thickeners",
+    "aliases": [
+      "fruit pectin",
+      "Sure-Jell"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "gelling agent for jams and jellies, requires acid and sugar to set"
+    },
+    "substitutions": [
+      {
+        "name": "High-Pectin Fruit (apple, citrus)",
+        "ratio": "Add 1 grated apple or lemon zest + juice per 4 cups low-pectin fruit",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Some fruits are naturally high in pectin. Adding them helps low-pectin fruits gel.",
+        "notes": "Old-fashioned method. Green apples and citrus pith are highest in pectin. Requires longer cooking."
+      },
+      {
+        "name": "Chia Seeds",
+        "ratio": "1 tablespoon chia seeds per cup of fruit, let sit 30 min",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Chia seeds create gel-like consistency. Creates 'chia jam' without cooking.",
+        "notes": "Different texture - visible seeds. Quick method. Less sweet since no cooking down."
+      },
+      {
+        "name": "Gelatin (for refrigerator jam)",
+        "ratio": "1 teaspoon gelatin per cup of fruit",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Creates gel, but requires refrigeration (won't be shelf-stable).",
+        "notes": "Not for traditional canning - only refrigerator jam. Sets firmly when cold. Not vegan."
+      },
+      {
+        "name": "Cornstarch (for fruit sauces)",
+        "ratio": "1 tablespoon cornstarch per cup of fruit",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Thickens fruit but creates sauce, not true jam.",
+        "notes": "Good for pie fillings and fruit sauces. Not for preserving or true jam texture."
+      }
+    ]
+  },
+  "xanthan_gum": {
+    "name": "Xanthan Gum",
+    "category": "thickeners",
+    "aliases": [
+      "xanthan"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "function": "gluten substitute in GF baking, thickener, emulsifier, creates elasticity"
+    },
+    "substitutions": [
+      {
+        "name": "Psyllium Husk Powder",
+        "ratio": "2 teaspoons psyllium husk = 1 teaspoon xanthan gum",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Creates similar binding and elasticity in gluten-free baking.",
+        "notes": "May need more liquid in recipe. Creates good texture in GF breads."
+      },
+      {
+        "name": "Chia Seeds (ground) + Water",
+        "ratio": "1 tablespoon ground chia + 2 tablespoons water = 1 teaspoon xanthan gum",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Chia gel provides binding similar to xanthan gum.",
+        "notes": "Let sit until gelled. May add visible specks. Good for GF baking."
+      },
+      {
+        "name": "Flax Meal + Water",
+        "ratio": "1 tablespoon flax meal + 2 tablespoons water = 1 teaspoon xanthan gum",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Flax gel provides binding for gluten-free baking.",
+        "notes": "Adds slight nutty flavor. Good for hearty GF breads."
+      },
+      {
+        "name": "Guar Gum",
+        "ratio": "1.5 teaspoons guar gum = 1 teaspoon xanthan gum",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Another plant-based gum with similar thickening properties.",
+        "notes": "Works slightly differently - may need to adjust. Good for cold applications. Less elastic."
+      },
+      {
+        "name": "Cornstarch (for thickening only)",
+        "ratio": "1 tablespoon cornstarch = 1/4 teaspoon xanthan gum (for sauces)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both thicken, but cornstarch doesn't provide elasticity or binding.",
+        "notes": "Only for thickening sauces, not for GF baking structure."
+      }
+    ]
+  },
+  "guar_gum": {
+    "name": "Guar Gum",
+    "category": "thickeners",
+    "aliases": [
+      "guaran"
+    ],
+    "context": [
+      "cooking",
+      "baking"
+    ],
+    "properties": {
+      "function": "thickening, stabilizing, works in cold applications, gluten-free baking"
+    },
+    "substitutions": [
+      {
+        "name": "Xanthan Gum",
+        "ratio": "3/4 teaspoon xanthan gum = 1 teaspoon guar gum",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Similar gum with thickening properties. Xanthan is stronger.",
+        "notes": "Xanthan provides more elasticity. Good swap for GF baking."
+      },
+      {
+        "name": "Cornstarch (for thickening)",
+        "ratio": "3 tablespoons cornstarch = 1 teaspoon guar gum",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both thicken liquids, though cornstarch requires heat.",
+        "notes": "Cornstarch must be heated. Use for sauces, not cold applications."
+      },
+      {
+        "name": "Arrowroot",
+        "ratio": "3 tablespoons arrowroot = 1 teaspoon guar gum",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Natural thickener with neutral flavor.",
+        "notes": "Requires heating. Good for sauces and gravies."
+      }
+    ]
+  },
+  "almond_flour": {
+    "name": "Almond Flour",
+    "category": "flour",
+    "aliases": [
+      "almond meal",
+      "ground almonds"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "protein": "21%",
+      "function": "gluten-free flour, adds moisture and richness, nutty flavor"
+    },
+    "substitutions": [
+      {
+        "name": "Oat Flour",
+        "ratio": "1 cup oat flour = 1 cup almond flour",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar texture when ground fine. Lower fat, more neutral flavor.",
+        "notes": "Not nut-free if cross-contamination is a concern. Slightly drier results."
+      },
+      {
+        "name": "Sunflower Seed Flour",
+        "ratio": "1 cup sunflower seed flour = 1 cup almond flour",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar fat content and texture. Nut-free alternative.",
+        "notes": "May turn green in baked goods due to chlorophyll reacting with baking soda - add 1 tsp lemon juice to prevent."
+      },
+      {
+        "name": "Coconut Flour (use less)",
+        "ratio": "1/4 cup coconut flour = 1 cup almond flour (add 1 extra egg)",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Coconut flour is VERY absorbent. Requires major recipe adjustment.",
+        "notes": "Very different texture. Add extra eggs and liquid. Results will be denser and more coconut-flavored."
+      },
+      {
+        "name": "Cashew Flour",
+        "ratio": "1 cup cashew flour = 1 cup almond flour",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Very similar fat content, texture, and behavior. Another tree nut.",
+        "notes": "Milder, slightly sweeter flavor than almond. Works 1:1 in most recipes."
+      },
+      {
+        "name": "All-Purpose Flour (non-GF)",
+        "ratio": "1 cup AP flour = 1 cup almond flour (reduce fat, add liquid)",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Different properties entirely - has gluten, less fat, less protein.",
+        "notes": "NOT gluten-free. Reduce butter/oil by 2 tbsp, may need less liquid. Texture will be very different."
+      }
+    ]
+  },
+  "coconut_flour": {
+    "name": "Coconut Flour",
+    "category": "flour",
+    "aliases": [
+      "coconut powder"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "fiber": "39%",
+      "function": "highly absorbent gluten-free flour, requires extra eggs and liquid"
+    },
+    "substitutions": [
+      {
+        "name": "Almond Flour",
+        "ratio": "1 cup almond flour = 1/4 cup coconut flour (remove 1 egg)",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Almond flour is much less absorbent. Need 4x as much and fewer eggs.",
+        "notes": "Reduce eggs by 1 for every 1/4 cup coconut flour replaced. Different texture - less dense."
+      },
+      {
+        "name": "Cassava Flour",
+        "ratio": "1 cup cassava flour = 1/4 cup coconut flour",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Both are grain-free. Cassava is less absorbent and more neutral.",
+        "notes": "Adjust liquid - cassava needs much less. Good for those avoiding nuts."
+      }
+    ]
+  },
+  "oat_flour": {
+    "name": "Oat Flour",
+    "category": "flour",
+    "aliases": [
+      "ground oats"
+    ],
+    "context": [
+      "baking"
+    ],
+    "properties": {
+      "protein": "13%",
+      "function": "tender crumb, slightly sweet flavor, can be made at home"
+    },
+    "substitutions": [
+      {
+        "name": "Homemade: Blend Rolled Oats",
+        "ratio": "1 1/4 cups rolled oats blended = 1 cup oat flour",
+        "reliability": "excellent",
+        "context": [
+          "baking"
+        ],
+        "why": "Oat flour IS just ground oats. Blend until powdery.",
+        "notes": "Use certified GF oats if needed. Blend 30-60 seconds until fine powder."
+      },
+      {
+        "name": "All-Purpose Flour",
+        "ratio": "1 cup AP flour = 1 cup oat flour",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar protein content. AP flour has gluten, oat flour doesn't.",
+        "notes": "NOT gluten-free. Results will be less tender with more structure."
+      },
+      {
+        "name": "Whole Wheat Flour",
+        "ratio": "1 cup whole wheat flour = 1 cup oat flour",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar whole-grain heartiness. Whole wheat has gluten.",
+        "notes": "Denser results. May need slightly more liquid. NOT gluten-free."
+      }
+    ]
+  },
+  "parmesan": {
+    "name": "Parmesan Cheese",
+    "category": "cheese",
+    "aliases": [
+      "Parmigiano-Reggiano",
+      "parm"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "aging": "12-36 months",
+      "function": "intense umami, salty, nutty flavor, melts into sauces"
+    },
+    "substitutions": [
+      {
+        "name": "Pecorino Romano",
+        "ratio": "1 cup Pecorino = 1 cup Parmesan",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both are aged Italian hard cheeses with intense umami. Pecorino is sheep's milk.",
+        "notes": "Pecorino is saltier and sharper. Use slightly less or reduce salt in recipe.",
+        "science": "Both Parmesan and Pecorino develop intense umami through extended aging. During aging, proteins break down into free amino acids, including glutamate\u2014the compound responsible for umami taste. Parmesan (cow's milk, aged 12-36 months) has about 1.2g glutamate per 100g. Pecorino (sheep's milk, aged 8-12 months) is saltier and sharper due to different fatty acid profiles in sheep's milk."
+      },
+      {
+        "name": "Grana Padano",
+        "ratio": "1 cup Grana Padano = 1 cup Parmesan",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Same style cheese, just aged less and from a different region. Very similar.",
+        "notes": "Milder and less complex than true Parmigiano-Reggiano. More affordable."
+      },
+      {
+        "name": "Asiago (aged)",
+        "ratio": "1 cup aged Asiago = 1 cup Parmesan",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Aged Asiago has similar hard texture and nutty, sharp flavor.",
+        "notes": "Must be aged Asiago (stravecchio), not fresh. Similar umami quality."
+      },
+      {
+        "name": "Nutritional Yeast (vegan)",
+        "ratio": "3 tablespoons nutritional yeast + pinch salt = 1/4 cup grated Parmesan",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Nutritional yeast has natural glutamates (umami) and cheesy flavor.",
+        "notes": "Won't melt like cheese. Good for sprinkling on pasta, popcorn. Add to sauces."
+      },
+      {
+        "name": "Cotija (Mexican)",
+        "ratio": "1 cup Cotija = 1 cup Parmesan",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Aged, salty, crumbly cheese with umami. 'Mexican Parmesan.'",
+        "notes": "Different flavor profile - less nutty, more tangy. Works for sprinkling."
+      }
+    ]
+  },
+  "ricotta": {
+    "name": "Ricotta Cheese",
+    "category": "cheese",
+    "aliases": [
+      "ricotta"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "fat": "10-13%",
+      "function": "creamy texture, mild flavor, essential for lasagna and cannoli"
+    },
+    "substitutions": [
+      {
+        "name": "Cottage Cheese (blended)",
+        "ratio": "1 cup blended cottage cheese = 1 cup ricotta",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Very similar texture when blended smooth. Same mild, milky flavor.",
+        "notes": "Blend until completely smooth for ricotta-like texture. Slightly tangier."
+      },
+      {
+        "name": "Cream Cheese + Yogurt",
+        "ratio": "3/4 cup cream cheese + 1/4 cup plain yogurt, blended = 1 cup ricotta",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Creates similar creamy texture. Richer than ricotta.",
+        "notes": "Blend until smooth. Results will be denser and richer."
+      },
+      {
+        "name": "Mascarpone",
+        "ratio": "1 cup mascarpone = 1 cup ricotta (for sweet dishes)",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Similar Italian fresh cheese. Much richer and creamier.",
+        "notes": "Higher fat - better for desserts than savory. Works in cannoli, cheesecakes."
+      },
+      {
+        "name": "Silken Tofu (blended)",
+        "ratio": "1 cup blended silken tofu + 1 tbsp lemon juice = 1 cup ricotta",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar texture when blended. Vegan option.",
+        "notes": "Add salt and lemon for flavor. Works well in lasagna and stuffed shells."
+      },
+      {
+        "name": "Greek Yogurt (drained)",
+        "ratio": "1 cup strained Greek yogurt = 1 cup ricotta",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar creamy texture. More tangy than ricotta.",
+        "notes": "Strain through cheesecloth for thicker texture. Works for dips and lighter dishes."
+      }
+    ]
+  },
+  "feta": {
+    "name": "Feta Cheese",
+    "category": "cheese",
+    "aliases": [
+      "Greek feta"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "fat": "21%",
+      "function": "tangy, salty, crumbly cheese for salads and Mediterranean dishes"
+    },
+    "substitutions": [
+      {
+        "name": "Goat Cheese (ch\u00e8vre)",
+        "ratio": "1 cup crumbled goat cheese = 1 cup feta",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar tangy flavor profile. Both are common in Mediterranean cooking.",
+        "notes": "Goat cheese is creamier and less salty. Add pinch of salt if needed."
+      },
+      {
+        "name": "Cotija",
+        "ratio": "1 cup crumbled Cotija = 1 cup feta",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar salty, crumbly texture. Mexican cheese with comparable function.",
+        "notes": "Less tangy than feta. Good for tacos, salads, grain bowls."
+      },
+      {
+        "name": "Ricotta Salata",
+        "ratio": "1 cup ricotta salata = 1 cup feta",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Pressed, salted ricotta with similar crumbly texture.",
+        "notes": "Milder and less tangy. Good for salads and pasta."
+      },
+      {
+        "name": "Halloumi (different texture)",
+        "ratio": "1 cup cubed halloumi = 1 cup feta",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Another brined Mediterranean cheese. Doesn't crumble - holds shape.",
+        "notes": "Won't crumble - cuts into cubes. Best grilled or pan-fried. Squeaky texture."
+      },
+      {
+        "name": "Firm Tofu + Lemon + Salt (vegan)",
+        "ratio": "1 cup cubed firm tofu marinated in lemon juice + salt + olive oil",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Tofu absorbs the tangy, salty brine flavors. Vegan feta.",
+        "notes": "Press tofu first. Marinate 30+ min. Add herbs like oregano for authenticity."
+      }
+    ]
+  },
+  "cheddar": {
+    "name": "Cheddar Cheese",
+    "category": "cheese",
+    "aliases": [
+      "sharp cheddar",
+      "mild cheddar"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "fat": "33%",
+      "function": "melts smoothly, sharp tangy flavor, versatile cooking cheese"
+    },
+    "substitutions": [
+      {
+        "name": "Colby",
+        "ratio": "1 cup Colby = 1 cup cheddar",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Very similar cheese - milder, moister version of cheddar.",
+        "notes": "Milder flavor. Melts slightly differently (more smoothly)."
+      },
+      {
+        "name": "Gruy\u00e8re",
+        "ratio": "1 cup Gruy\u00e8re = 1 cup cheddar",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both melt beautifully. Gruy\u00e8re is nuttier and more complex.",
+        "notes": "More expensive. Excellent for mac and cheese, fondue, gratins."
+      },
+      {
+        "name": "Gouda",
+        "ratio": "1 cup Gouda = 1 cup cheddar",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar melting properties. Slightly sweeter, less sharp.",
+        "notes": "Aged Gouda is closer to sharp cheddar. Young Gouda is milder."
+      },
+      {
+        "name": "Monterey Jack",
+        "ratio": "1 cup Monterey Jack = 1 cup cheddar",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar texture and melting. Much milder flavor.",
+        "notes": "Good for quesadillas, nachos. Pepper Jack adds heat."
+      },
+      {
+        "name": "American Cheese",
+        "ratio": "1 cup American = 1 cup cheddar (for melting only)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Designed for smooth melting. Much milder, processed.",
+        "notes": "Only for melting applications (grilled cheese, burgers). Less complex flavor."
+      }
+    ]
+  },
+  "chicken_broth": {
+    "name": "Chicken Broth",
+    "category": "broth",
+    "aliases": [
+      "chicken stock",
+      "chicken bouillon"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "adds savory depth, liquid base for soups, sauces, cooking grains"
+    },
+    "substitutions": [
+      {
+        "name": "Vegetable Broth",
+        "ratio": "1 cup vegetable broth = 1 cup chicken broth",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides savory liquid base. Vegetarian/vegan option.",
+        "notes": "Lighter flavor. Add a splash of soy sauce for more depth."
+      },
+      {
+        "name": "Beef Broth",
+        "ratio": "1 cup beef broth = 1 cup chicken broth",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both are meat broths with umami depth.",
+        "notes": "Stronger, darker flavor. Better for hearty dishes than delicate ones."
+      },
+      {
+        "name": "Bouillon Cube + Water",
+        "ratio": "1 bouillon cube + 1 cup water = 1 cup broth",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Concentrated broth in cube form. Same flavor profile.",
+        "notes": "Can be salty - taste before adding more salt. Good pantry staple."
+      },
+      {
+        "name": "Better Than Bouillon",
+        "ratio": "1 teaspoon paste + 1 cup water = 1 cup broth",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Concentrated broth paste. Very close to real broth.",
+        "notes": "Keeps in fridge for months. Adjust amount to taste. Excellent quality."
+      },
+      {
+        "name": "Water + Soy Sauce + Aromatics",
+        "ratio": "1 cup water + 1 tsp soy sauce + garlic/ginger = 1 cup light broth",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Creates simple savory liquid when no broth available.",
+        "notes": "Not as rich but works in a pinch. Add bay leaf or herbs if available."
+      }
+    ]
+  },
+  "vegetable_broth": {
+    "name": "Vegetable Broth",
+    "category": "broth",
+    "aliases": [
+      "vegetable stock",
+      "veggie broth"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "vegetarian/vegan savory base, lighter than meat broths"
+    },
+    "substitutions": [
+      {
+        "name": "Chicken Broth (not vegetarian)",
+        "ratio": "1 cup chicken broth = 1 cup vegetable broth",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "More savory depth. Not vegetarian.",
+        "notes": "Richer flavor. Use when vegetarian isn't required."
+      },
+      {
+        "name": "Mushroom Broth",
+        "ratio": "1 cup mushroom broth = 1 cup vegetable broth",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Deep umami from mushrooms. Vegetarian/vegan.",
+        "notes": "More intense flavor. Excellent for risotto, gravies, Asian dishes."
+      },
+      {
+        "name": "Water + Miso",
+        "ratio": "1 cup water + 1 tablespoon white miso = 1 cup broth",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Miso provides umami and fermented depth. Vegan.",
+        "notes": "Add miso at end of cooking (don't boil). Different but delicious flavor."
+      },
+      {
+        "name": "Homemade: Veggie Scraps",
+        "ratio": "Simmer onion, carrot, celery scraps in water 30-60 min",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Real vegetable broth from scraps. Zero waste, great flavor.",
+        "notes": "Save scraps in freezer until you have enough. Avoid brassicas (cabbage, broccoli) - they get bitter."
+      }
+    ]
+  },
+  "tomato_paste": {
+    "name": "Tomato Paste",
+    "category": "pantry",
+    "aliases": [
+      "tomato concentrate"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "concentration": "6x regular tomatoes",
+      "function": "concentrated umami, deepens sauces, adds body without liquid"
+    },
+    "substitutions": [
+      {
+        "name": "Tomato Sauce (reduced)",
+        "ratio": "3 tablespoons tomato sauce, simmered to reduce = 1 tablespoon tomato paste",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Tomato paste is just concentrated tomato sauce.",
+        "notes": "Simmer sauce until reduced by 2/3. Takes 10-15 minutes."
+      },
+      {
+        "name": "Canned Crushed Tomatoes (reduced)",
+        "ratio": "1/2 cup crushed tomatoes, simmered to reduce = 2 tablespoons paste",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Same tomato base, just needs concentration through cooking.",
+        "notes": "Strain seeds if desired. Simmer until thick."
+      },
+      {
+        "name": "Ketchup (in a pinch)",
+        "ratio": "1 tablespoon ketchup = 1 tablespoon tomato paste (reduce sugar/vinegar)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Contains tomato concentrate plus sugar and vinegar.",
+        "notes": "Will add sweetness. Reduce other sugars in recipe. Only for emergencies."
+      },
+      {
+        "name": "Sun-Dried Tomatoes (blended)",
+        "ratio": "2 tablespoons sun-dried tomatoes blended with 1 tbsp water = 1 tablespoon paste",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Concentrated tomato flavor in dried form.",
+        "notes": "Use oil-packed and drain, or rehydrate dried ones. More intense flavor."
+      }
+    ]
+  },
+  "dijon_mustard": {
+    "name": "Dijon Mustard",
+    "category": "condiments",
+    "aliases": [
+      "French mustard"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "smooth, sharp, emulsifies dressings, essential for vinaigrettes"
+    },
+    "substitutions": [
+      {
+        "name": "Whole Grain Mustard",
+        "ratio": "1 tablespoon whole grain = 1 tablespoon Dijon",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Same mustard base, just with visible seeds. Similar heat level.",
+        "notes": "Texture is different - grainy vs smooth. Flavor is very similar.",
+        "science": "Both Dijon and whole grain mustard are made from brown/black mustard seeds, which contain sinigrin. When seeds are crushed and mixed with liquid, the enzyme myrosinase converts sinigrin into allyl isothiocyanate\u2014the compound that gives mustard its heat. Dijon is ground smooth, while whole grain retains visible seeds, but the chemistry and heat level are similar."
+      },
+      {
+        "name": "Yellow Mustard",
+        "ratio": "1 tablespoon yellow mustard + pinch of horseradish = 1 tablespoon Dijon",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Yellow mustard is milder and sweeter. Horseradish adds Dijon's bite.",
+        "notes": "More tangy and less complex. Works for dressings and sandwiches.",
+        "science": "Yellow mustard uses white/yellow mustard seeds, which contain sinalbin instead of sinigrin. Sinalbin produces a milder, more tongue-tingling heat rather than the sinus-clearing heat of brown mustard. It's also mixed with turmeric (for color) and more vinegar. Adding horseradish provides some of the nasal heat missing from yellow mustard."
+      },
+      {
+        "name": "Spicy Brown Mustard",
+        "ratio": "1 tablespoon spicy brown = 1 tablespoon Dijon",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar heat level and coarse texture. American deli style.",
+        "notes": "Slightly different flavor profile but good substitute."
+      },
+      {
+        "name": "Wasabi or Horseradish",
+        "ratio": "1/2 teaspoon wasabi or horseradish = 1 tablespoon Dijon (for heat only)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides similar sharp, sinus-clearing heat.",
+        "notes": "Only for the heat element - missing mustard flavor. Use in small amounts."
+      },
+      {
+        "name": "Mayonnaise (for emulsification only)",
+        "ratio": "1 tablespoon mayo = 1 tablespoon Dijon (for dressings)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both emulsify dressings. Mayo lacks mustard flavor.",
+        "notes": "Won't have mustard taste but will create creamy dressing. Add vinegar for tang."
+      }
+    ]
+  },
+  "balsamic_vinegar": {
+    "name": "Balsamic Vinegar",
+    "category": "acids",
+    "aliases": [
+      "balsamic",
+      "aceto balsamico"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "sweet-tart complexity, aged grape flavor, dressings and reductions"
+    },
+    "substitutions": [
+      {
+        "name": "Red Wine Vinegar + Honey",
+        "ratio": "1 tablespoon red wine vinegar + 1/2 teaspoon honey = 1 tablespoon balsamic",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Red wine vinegar provides acidity, honey adds the sweetness balsamic has.",
+        "notes": "Missing the aged complexity but provides similar sweet-tart balance.",
+        "science": "True balsamic vinegar is grape must (pressed grape juice) that's cooked down and aged in wooden barrels for years or decades. This concentrates sugars and develops complex flavor compounds through oxidation and wood extraction. Red wine vinegar provides the grape base and acidity, while honey adds the missing sweetness and some complexity."
+      },
+      {
+        "name": "Sherry Vinegar",
+        "ratio": "1 tablespoon sherry vinegar = 1 tablespoon balsamic",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Also an aged, complex vinegar with similar depth.",
+        "notes": "Different flavor profile - nuttier. Less sweet than balsamic.",
+        "science": "Sherry vinegar is made from sherry wine using the solera aging system, where vinegars of different ages are blended. This creates complex nutty, woody flavors from extended oxidation. While different from balsamic, it has comparable depth. Both are 'aged' vinegars with more complexity than simple wine vinegars."
+      },
+      {
+        "name": "Apple Cider Vinegar + Molasses",
+        "ratio": "1 tablespoon ACV + 1/2 teaspoon molasses = 1 tablespoon balsamic",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Creates dark color and sweet-tart balance.",
+        "notes": "Different flavor but works in dressings and marinades."
+      },
+      {
+        "name": "Chinese Black Vinegar",
+        "ratio": "1 tablespoon black vinegar = 1 tablespoon balsamic",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar dark color and complex, slightly sweet flavor.",
+        "notes": "Different taste - more malty. Good for fusion cooking."
+      }
+    ]
+  },
+  "apple_cider_vinegar": {
+    "name": "Apple Cider Vinegar",
+    "category": "acids",
+    "aliases": [
+      "ACV",
+      "cider vinegar"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "fruity mild acidity, health uses, baking, dressings"
+    },
+    "substitutions": [
+      {
+        "name": "White Wine Vinegar",
+        "ratio": "1 tablespoon white wine vinegar = 1 tablespoon ACV",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar mild acidity level. Slightly less fruity.",
+        "notes": "Very good substitute. Clean, mild flavor."
+      },
+      {
+        "name": "Rice Vinegar",
+        "ratio": "1 tablespoon rice vinegar = 1 tablespoon ACV",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both are mild vinegars. Rice vinegar is slightly sweeter.",
+        "notes": "Excellent substitute, especially for Asian-fusion dishes."
+      },
+      {
+        "name": "Lemon Juice",
+        "ratio": "1 tablespoon lemon juice = 1 tablespoon ACV",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both are mild acids. Lemon is more citrusy.",
+        "notes": "Adds citrus flavor instead of apple. Good for dressings."
+      },
+      {
+        "name": "Champagne Vinegar",
+        "ratio": "1 tablespoon champagne vinegar = 1 tablespoon ACV",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Very similar mild, delicate acidity.",
+        "notes": "More expensive but excellent quality substitute."
+      }
+    ]
+  },
+  "fresh_herbs": {
+    "name": "Fresh Herbs",
+    "category": "herbs",
+    "aliases": [
+      "fresh basil",
+      "fresh thyme",
+      "fresh rosemary",
+      "fresh parsley"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "bright flavor, aromatic oils, garnishing, finishing dishes"
+    },
+    "substitutions": [
+      {
+        "name": "Dried Herbs",
+        "ratio": "1 teaspoon dried = 1 tablespoon fresh (3:1 ratio)",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Dried herbs are concentrated - water has evaporated, oils remain.",
+        "notes": "Add dried herbs early in cooking (they need time to rehydrate). Fresh herbs add at end."
+      },
+      {
+        "name": "Frozen Herbs",
+        "ratio": "1 tablespoon frozen = 1 tablespoon fresh",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Frozen herbs retain most of their fresh flavor.",
+        "notes": "Won't work for garnishing (texture changes). Great for cooking."
+      },
+      {
+        "name": "Herb Paste (in tubes)",
+        "ratio": "1 teaspoon paste = 1 tablespoon fresh",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Concentrated fresh herb flavor in convenient form.",
+        "notes": "Gourmet Garden and similar brands. Good flavor, long fridge life."
+      }
+    ]
+  },
+  "dried_herbs": {
+    "name": "Dried Herbs",
+    "category": "herbs",
+    "aliases": [
+      "dried basil",
+      "dried thyme",
+      "dried oregano"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "concentrated flavor, long shelf life, add early in cooking"
+    },
+    "substitutions": [
+      {
+        "name": "Fresh Herbs",
+        "ratio": "1 tablespoon fresh = 1 teaspoon dried (3:1 ratio)",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Fresh herbs have more volume but same essential oils when you use more.",
+        "notes": "Add fresh herbs at end of cooking. Much brighter flavor."
+      },
+      {
+        "name": "Different Dried Herb (similar flavor family)",
+        "ratio": "Substitute within flavor families",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Some herbs have similar flavor profiles.",
+        "notes": "Oregano \u2194 Marjoram. Thyme \u2194 Savory. Basil \u2194 Oregano (Italian). Cilantro \u2192 Parsley (no swap for cilantro flavor)."
+      }
+    ]
+  },
+  "fresh_garlic": {
+    "name": "Fresh Garlic",
+    "category": "aromatics",
+    "aliases": [
+      "garlic cloves",
+      "whole garlic"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "pungent aromatic base, essential for most cuisines"
+    },
+    "substitutions": [
+      {
+        "name": "Garlic Powder",
+        "ratio": "1/8 teaspoon garlic powder = 1 clove fresh garlic",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Concentrated dehydrated garlic. Milder, less sharp than fresh.",
+        "notes": "Won't brown like fresh garlic. Good for dry rubs, some sauces.",
+        "science": "When garlic is crushed, the enzyme alliinase converts alliin into allicin\u2014the compound responsible for fresh garlic's pungent smell and sharp taste. Drying garlic denatures this enzyme, so garlic powder produces much less allicin. The flavor is milder and more mellow. Heat also destroys alliinase, which is why roasted garlic is sweet and mild."
+      },
+      {
+        "name": "Granulated Garlic",
+        "ratio": "1/4 teaspoon granulated = 1 clove fresh",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Coarser than powder. Similar conversion.",
+        "notes": "Better texture for rubs and coatings than fine powder."
+      },
+      {
+        "name": "Jarred Minced Garlic",
+        "ratio": "1/2 teaspoon jarred = 1 clove fresh",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Pre-minced fresh garlic in oil or water.",
+        "notes": "Milder than fresh. Convenient but less aromatic. Keep refrigerated."
+      },
+      {
+        "name": "Garlic Paste",
+        "ratio": "1/2 teaspoon paste = 1 clove fresh",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Concentrated garlic in paste form.",
+        "notes": "Very smooth - good for dressings. Check for added salt."
+      },
+      {
+        "name": "Roasted Garlic",
+        "ratio": "2 cloves roasted = 1 clove fresh",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Roasting mellows garlic significantly. Need more for same impact.",
+        "notes": "Sweet and mellow, not pungent. Different flavor profile - use when that's desired.",
+        "science": "Roasting garlic at 400\u00b0F for 40+ minutes causes Maillard reactions and caramelization of sugars, converting harsh allicin into dozens of mellow, sweet, complex flavor compounds. The texture becomes soft and spreadable. You need more roasted garlic because the aggressive pungent compounds have been transformed."
+      }
+    ]
+  },
+  "fresh_ginger": {
+    "name": "Fresh Ginger",
+    "category": "aromatics",
+    "aliases": [
+      "ginger root",
+      "gingerroot"
+    ],
+    "context": [
+      "cooking",
+      "baking"
+    ],
+    "properties": {
+      "function": "spicy-sweet warmth, essential for Asian cuisine and baking"
+    },
+    "substitutions": [
+      {
+        "name": "Ground Ginger",
+        "ratio": "1/4 teaspoon ground = 1 tablespoon fresh grated",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Concentrated and dried. Good for baking, less so for stir-fries.",
+        "notes": "Better for baked goods. Missing the brightness of fresh for Asian cooking."
+      },
+      {
+        "name": "Ginger Paste",
+        "ratio": "1 tablespoon paste = 1 tablespoon fresh grated",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Pureed fresh ginger in convenient form.",
+        "notes": "Very close to fresh. Great for curries and stir-fries. Keep refrigerated."
+      },
+      {
+        "name": "Crystallized Ginger (for baking)",
+        "ratio": "3 tablespoons minced crystallized ginger = 1 tablespoon fresh (reduce sugar)",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Candied ginger has strong ginger flavor.",
+        "notes": "Very sweet - reduce other sugars. Rinse off sugar coating if desired."
+      },
+      {
+        "name": "Galangal",
+        "ratio": "1 tablespoon galangal = 1 tablespoon ginger",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Related root with similar spicy quality. Thai ginger.",
+        "notes": "Different flavor - more piney/citrusy. Authentic for Thai food, not a direct swap."
+      }
+    ]
+  },
+  "gochujang": {
+    "name": "Gochujang",
+    "category": "asian",
+    "aliases": [
+      "Korean red pepper paste",
+      "Korean chili paste"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "fermented sweet-spicy-umami paste, essential for Korean cooking"
+    },
+    "substitutions": [
+      {
+        "name": "Sriracha + Miso + Honey",
+        "ratio": "1 tbsp sriracha + 1 tsp white miso + 1 tsp honey = ~2 tbsp gochujang",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Combines heat, fermented flavor, and sweetness that define gochujang.",
+        "notes": "Not exact but captures the flavor profile. Adjust ratios to taste.",
+        "science": "Gochujang's unique flavor comes from fermenting gochugaru (Korean red pepper flakes) with meju (fermented soybean blocks), glutinous rice, and salt. The fermentation produces complex umami compounds. This substitute approximates the flavor profile: sriracha provides chili heat and some garlic, miso adds fermented soybean depth, and honey contributes sweetness."
+      },
+      {
+        "name": "Sambal Oelek + Soy Sauce + Sugar",
+        "ratio": "1 tbsp sambal + 1 tsp soy sauce + 1 tsp brown sugar = ~2 tbsp gochujang",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Sambal provides chili heat, soy and sugar add depth and sweetness.",
+        "notes": "Missing the fermented complexity. Works in a pinch."
+      },
+      {
+        "name": "Thai Chili Paste (nam prik pao)",
+        "ratio": "1 tablespoon Thai chili paste = 1 tablespoon gochujang",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Also a sweet-spicy fermented chili paste.",
+        "notes": "Different flavor profile (Thai vs Korean) but similar function."
+      },
+      {
+        "name": "Tomato Paste + Cayenne + Soy + Honey",
+        "ratio": "1 tbsp tomato paste + 1/4 tsp cayenne + 1 tsp soy sauce + 1 tsp honey",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Creates a paste with similar color, heat, and sweet-savory balance.",
+        "notes": "Emergency substitute. Missing fermented depth but provides the general effect.",
+        "science": "This pantry-based substitute aims to replicate gochujang's appearance and flavor balance rather than its fermented character. Tomato paste provides body and red color, cayenne adds heat, soy sauce contributes umami and salt, and honey adds characteristic sweetness. It won't have the fermented complexity but provides similar functionality."
+      }
+    ]
+  },
+  "shaoxing_wine": {
+    "name": "Shaoxing Wine",
+    "category": "asian",
+    "aliases": [
+      "Chinese cooking wine",
+      "Shaoxing rice wine"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "essential for Chinese cooking, adds depth, removes gamey flavors"
+    },
+    "substitutions": [
+      {
+        "name": "Dry Sherry",
+        "ratio": "1 tablespoon dry sherry = 1 tablespoon Shaoxing wine",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Very similar nutty, complex flavor. The classic Western substitute.",
+        "notes": "Best substitute available. Use dry (fino or amontillado), not sweet sherry."
+      },
+      {
+        "name": "Sake",
+        "ratio": "1 tablespoon sake = 1 tablespoon Shaoxing wine",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both are rice wines. Sake is cleaner, less complex.",
+        "notes": "Add tiny pinch of sugar to approximate Shaoxing's slight sweetness."
+      },
+      {
+        "name": "Mirin",
+        "ratio": "1 tablespoon mirin = 1 tablespoon Shaoxing (reduce other sugars)",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Another Asian rice wine. Much sweeter than Shaoxing.",
+        "notes": "Reduce or eliminate other sugars in recipe. Works for marinades."
+      },
+      {
+        "name": "Dry White Wine",
+        "ratio": "1 tablespoon dry white wine + pinch sugar = 1 tablespoon Shaoxing",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides alcohol for tenderizing, different flavor profile.",
+        "notes": "Missing the nutty depth. Works in a pinch for stir-fries."
+      },
+      {
+        "name": "Chicken Broth (non-alcoholic)",
+        "ratio": "1 tablespoon broth + 1/2 tsp rice vinegar = 1 tablespoon Shaoxing",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides liquid and some depth without alcohol.",
+        "notes": "Missing the alcohol's tenderizing effect and flavor. Emergency only."
+      }
+    ]
+  },
+  "sambal_oelek": {
+    "name": "Sambal Oelek",
+    "category": "asian",
+    "aliases": [
+      "sambal",
+      "chili paste"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "pure chili heat with garlic, Indonesian condiment"
+    },
+    "substitutions": [
+      {
+        "name": "Sriracha",
+        "ratio": "1 tablespoon sriracha = 1 tablespoon sambal oelek",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both are chili-garlic pastes. Sriracha is slightly sweeter and smoother.",
+        "notes": "Sriracha has more sugar and vinegar. Works well in most applications."
+      },
+      {
+        "name": "Gochugaru (Korean Chili Flakes) + Garlic",
+        "ratio": "1 tbsp gochugaru + 1 tsp minced garlic + splash vinegar = 1 tbsp sambal",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Creates similar chunky chili-garlic paste.",
+        "notes": "Gochugaru is milder - adjust amount for desired heat."
+      },
+      {
+        "name": "Crushed Red Pepper + Garlic + Vinegar",
+        "ratio": "1 tsp crushed red pepper + 1 tsp minced garlic + 1 tsp vinegar = ~1 tbsp sambal",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Creates basic chili-garlic paste from pantry staples.",
+        "notes": "Different texture (dry vs wet). Let sit to meld flavors."
+      },
+      {
+        "name": "Harissa",
+        "ratio": "1 tablespoon harissa = 1 tablespoon sambal oelek",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both are chili pastes with garlic and spices.",
+        "notes": "Different flavor profile (North African vs Indonesian). More cumin/coriander notes."
+      }
+    ]
+  },
+  "creme_fraiche": {
+    "name": "Cr\u00e8me Fra\u00eeche",
+    "category": "dairy",
+    "aliases": [
+      "creme fraiche",
+      "French sour cream"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "fat": "30-40%",
+      "function": "tangy, rich, won't curdle when heated, finishing sauces"
+    },
+    "substitutions": [
+      {
+        "name": "Sour Cream",
+        "ratio": "1 cup sour cream = 1 cup cr\u00e8me fra\u00eeche",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Very similar cultured cream. Sour cream is tangier and lower fat.",
+        "notes": "May curdle if boiled (cr\u00e8me fra\u00eeche won't). Add at end of cooking or temper first."
+      },
+      {
+        "name": "Heavy Cream + Buttermilk (homemade)",
+        "ratio": "1 cup heavy cream + 2 tbsp buttermilk, sit 24 hours at room temp",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "This IS how cr\u00e8me fra\u00eeche is made - cream cultured with bacteria.",
+        "notes": "Cover loosely, leave at room temp 12-24 hours until thick. Refrigerate after."
+      },
+      {
+        "name": "Greek Yogurt + Heavy Cream",
+        "ratio": "1/2 cup Greek yogurt + 1/2 cup heavy cream = 1 cup cr\u00e8me fra\u00eeche",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Combines tang of yogurt with richness of cream.",
+        "notes": "More tangy than true cr\u00e8me fra\u00eeche. Good for dolloping."
+      },
+      {
+        "name": "Mascarpone + Lemon Juice",
+        "ratio": "1 cup mascarpone + 1 tsp lemon juice = 1 cup cr\u00e8me fra\u00eeche",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Mascarpone has similar richness, lemon adds missing tang.",
+        "notes": "Very rich. Good for desserts and finishing sauces."
+      }
+    ]
+  },
+  "peanut_butter": {
+    "name": "Peanut Butter",
+    "category": "nut_butters",
+    "aliases": [
+      "peanut paste",
+      "PB"
+    ],
+    "context": [
+      "cooking",
+      "baking"
+    ],
+    "properties": {
+      "fat": "50%",
+      "function": "creamy/crunchy spread, Asian sauces, baking"
+    },
+    "substitutions": [
+      {
+        "name": "Almond Butter",
+        "ratio": "1 cup almond butter = 1 cup peanut butter",
+        "reliability": "excellent",
+        "context": [
+          "cooking",
+          "baking"
+        ],
+        "why": "Similar fat content and texture. Tree nut instead of legume.",
+        "notes": "Milder flavor. Good for those with peanut (not tree nut) allergies."
+      },
+      {
+        "name": "Cashew Butter",
+        "ratio": "1 cup cashew butter = 1 cup peanut butter",
+        "reliability": "excellent",
+        "context": [
+          "cooking",
+          "baking"
+        ],
+        "why": "Very similar creamy texture. Mild, sweet flavor.",
+        "notes": "Sweeter and milder than peanut butter. Excellent in Asian sauces."
+      },
+      {
+        "name": "Sunflower Seed Butter",
+        "ratio": "1 cup sunflower seed butter = 1 cup peanut butter",
+        "reliability": "excellent",
+        "context": [
+          "cooking",
+          "baking"
+        ],
+        "why": "Similar texture and fat content. Nut-free and peanut-free.",
+        "notes": "May turn green when baked due to chlorophyll reaction - add 1 tsp lemon juice to batter."
+      },
+      {
+        "name": "Tahini",
+        "ratio": "1 cup tahini = 1 cup peanut butter",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar consistency. Sesame flavor instead of peanut.",
+        "notes": "More bitter and savory. Works in Asian sauces, different in baking."
+      },
+      {
+        "name": "Soy Nut Butter",
+        "ratio": "1 cup soy nut butter = 1 cup peanut butter",
+        "reliability": "good",
+        "context": [
+          "cooking",
+          "baking"
+        ],
+        "why": "Made from roasted soybeans. Nut-free, similar texture.",
+        "notes": "Closest to peanut butter in flavor. Good for allergies (check soy allergy)."
+      }
+    ]
+  },
+  "lemon_juice": {
+    "name": "Lemon Juice",
+    "category": "acids",
+    "aliases": [
+      "fresh lemon juice",
+      "lemon"
+    ],
+    "context": [
+      "cooking",
+      "baking"
+    ],
+    "properties": {
+      "pH": "2.0-2.6",
+      "function": "bright acidity, balances flavors, prevents browning, activates baking soda"
+    },
+    "substitutions": [
+      {
+        "name": "Lime Juice",
+        "ratio": "1 tablespoon lime juice = 1 tablespoon lemon juice",
+        "reliability": "excellent",
+        "context": [
+          "cooking",
+          "baking"
+        ],
+        "why": "Nearly identical acidity level. Slightly different flavor.",
+        "notes": "Works perfectly. Lime is slightly more bitter. Both are citrus acids."
+      },
+      {
+        "name": "White Wine Vinegar",
+        "ratio": "1/2 tablespoon white wine vinegar = 1 tablespoon lemon juice",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides acidity without citrus flavor.",
+        "notes": "Use less - vinegar is more acidic. No citrus notes."
+      },
+      {
+        "name": "Apple Cider Vinegar",
+        "ratio": "1/2 tablespoon ACV = 1 tablespoon lemon juice",
+        "reliability": "good",
+        "context": [
+          "cooking",
+          "baking"
+        ],
+        "why": "Mild vinegar that provides acidity.",
+        "notes": "Adds fruity note. Works in baking for leavening activation."
+      },
+      {
+        "name": "Orange Juice (less acidic)",
+        "ratio": "2 tablespoons orange juice = 1 tablespoon lemon juice",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Another citrus juice, but sweeter and less acidic.",
+        "notes": "Adds sweetness. Use when you want citrus but less tartness."
+      },
+      {
+        "name": "Cream of Tartar (for baking)",
+        "ratio": "1/2 teaspoon cream of tartar = 1 tablespoon lemon juice",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Both are acids that activate baking soda.",
+        "notes": "Only for leavening purposes - no citrus flavor."
+      }
+    ]
+  },
+  "anchovy_paste": {
+    "name": "Anchovy Paste",
+    "category": "pantry",
+    "aliases": [
+      "anchovy",
+      "anchovies"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "intense umami, disappears into sauces, essential for Caesar dressing"
+    },
+    "substitutions": [
+      {
+        "name": "Fish Sauce",
+        "ratio": "1/2 teaspoon fish sauce = 1 teaspoon anchovy paste",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both are fermented fish products with intense umami.",
+        "notes": "Fish sauce is liquid and saltier. Provides same savory depth."
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "ratio": "1 teaspoon Worcestershire = 1 teaspoon anchovy paste",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Contains anchovies plus other fermented flavors.",
+        "notes": "More complex flavor with tamarind and molasses. Less fishy."
+      },
+      {
+        "name": "Miso Paste (vegetarian)",
+        "ratio": "1 tablespoon white miso = 1 teaspoon anchovy paste",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides fermented umami depth without fish.",
+        "notes": "Vegetarian option. Different flavor but similar savory function."
+      },
+      {
+        "name": "Soy Sauce + Tiny Pinch of Seaweed",
+        "ratio": "1 teaspoon soy sauce + pinch of nori flakes = 1 teaspoon anchovy paste",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Soy provides umami, seaweed adds ocean flavor.",
+        "notes": "Vegetarian. Won't taste the same but adds similar depth."
+      },
+      {
+        "name": "Capers (for brininess)",
+        "ratio": "1 tablespoon minced capers = 1 teaspoon anchovy paste",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides briny, savory notes without fish.",
+        "notes": "Different flavor - pickled vs fermented. Works for some applications."
+      }
+    ]
+  },
+  "capers": {
+    "name": "Capers",
+    "category": "pantry",
+    "aliases": [
+      "caper berries"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "briny, tangy bursts of flavor, Mediterranean dishes"
+    },
+    "substitutions": [
+      {
+        "name": "Green Olives (chopped)",
+        "ratio": "1 tablespoon chopped green olives = 1 tablespoon capers",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar briny, Mediterranean flavor profile.",
+        "notes": "Larger pieces - chop fine. Less tangy than capers."
+      },
+      {
+        "name": "Pickled Pepperoncini (chopped)",
+        "ratio": "1 tablespoon chopped pepperoncini = 1 tablespoon capers",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides similar briny, pickled bite.",
+        "notes": "Adds mild heat. Different flavor but similar function."
+      },
+      {
+        "name": "Dill Pickles (chopped fine)",
+        "ratio": "1 tablespoon minced dill pickle = 1 tablespoon capers",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Briny, pickled, tangy - similar flavor notes.",
+        "notes": "Dill flavor will come through. Works in tartar sauce, some salads."
+      },
+      {
+        "name": "Lemon Zest + Salt (for brightness)",
+        "ratio": "1 teaspoon lemon zest + pinch of salt = 1 tablespoon capers",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides similar bright, punchy accent.",
+        "notes": "Won't have briny flavor but adds similar brightness to dishes."
+      }
+    ]
+  },
+  "nutritional_yeast": {
+    "name": "Nutritional Yeast",
+    "category": "vegan",
+    "aliases": [
+      "nooch",
+      "savory yeast flakes"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "cheesy, nutty flavor for vegan dishes, B-vitamins"
+    },
+    "substitutions": [
+      {
+        "name": "Parmesan Cheese (not vegan)",
+        "ratio": "1/4 cup grated Parmesan = 3 tablespoons nutritional yeast",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both provide umami and cheesy flavor.",
+        "notes": "Not vegan. Provides similar savory, cheesy depth."
+      },
+      {
+        "name": "Miso Paste",
+        "ratio": "1 tablespoon white miso = 2 tablespoons nutritional yeast",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both provide fermented umami depth.",
+        "notes": "Different flavor - more savory than cheesy. Adds saltiness."
+      },
+      {
+        "name": "Soy Sauce + Garlic Powder",
+        "ratio": "1 tsp soy sauce + 1/2 tsp garlic powder = 1 tbsp nutritional yeast",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Creates savory umami flavor.",
+        "notes": "Missing the B-vitamins and cheesy quality. Emergency substitute."
+      },
+      {
+        "name": "Brewer's Yeast",
+        "ratio": "1 tablespoon brewer's yeast = 1 tablespoon nutritional yeast",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar product from brewing industry.",
+        "notes": "More bitter taste. Not as pleasant for most applications."
+      }
+    ]
+  },
+  "coconut_cream": {
+    "name": "Coconut Cream",
+    "category": "dairy",
+    "aliases": [
+      "cream of coconut"
+    ],
+    "context": [
+      "cooking",
+      "baking"
+    ],
+    "properties": {
+      "fat": "24%+",
+      "function": "thick, rich coconut product for curries, desserts, whipping"
+    },
+    "substitutions": [
+      {
+        "name": "Full-Fat Coconut Milk (chilled, solids only)",
+        "ratio": "Refrigerate can overnight, scoop solid cream = coconut cream",
+        "reliability": "excellent",
+        "context": [
+          "cooking",
+          "baking"
+        ],
+        "why": "Coconut cream IS the thick part of coconut milk that separates.",
+        "notes": "Chill can 24 hours. Scoop only the solid white cream, discard liquid."
+      },
+      {
+        "name": "Heavy Cream (not vegan)",
+        "ratio": "1 cup heavy cream = 1 cup coconut cream",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar fat content and richness.",
+        "notes": "Not vegan. Won't have coconut flavor. Works for texture/richness."
+      },
+      {
+        "name": "Cashew Cream",
+        "ratio": "1 cup thick cashew cream = 1 cup coconut cream",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar thick, rich texture. Vegan.",
+        "notes": "Blend soaked cashews with less water for thicker cream. Neutral flavor."
+      }
+    ]
+  },
+  "sriracha": {
+    "name": "Sriracha",
+    "category": "condiments",
+    "aliases": [
+      "rooster sauce",
+      "hot chili sauce"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "garlicky heat with sweetness, versatile Asian-American hot sauce"
+    },
+    "substitutions": [
+      {
+        "name": "Sambal Oelek + Sugar",
+        "ratio": "1 tbsp sambal oelek + 1/2 tsp sugar = 1 tbsp sriracha",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Sambal is similar chili-garlic base. Sugar adds sriracha's sweetness.",
+        "notes": "Very close substitute. Same brand often makes both."
+      },
+      {
+        "name": "Tabasco + Garlic + Sugar",
+        "ratio": "1 tbsp Tabasco + pinch garlic powder + pinch sugar = 1 tbsp sriracha",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Approximates the heat, garlic, and sweetness.",
+        "notes": "Much thinner consistency. Different heat profile (vinegar-forward)."
+      },
+      {
+        "name": "Gochujang (diluted)",
+        "ratio": "1 tbsp gochujang + 1 tsp water or vinegar = 1 tbsp sriracha",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Both are sweet-spicy Asian condiments.",
+        "notes": "Different flavor profile - more fermented. Works for marinades."
+      },
+      {
+        "name": "Cayenne + Garlic + Vinegar + Sugar",
+        "ratio": "1/2 tsp cayenne + 1/4 tsp garlic powder + 1 tsp vinegar + 1/2 tsp sugar",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Builds sriracha flavor from basic ingredients.",
+        "notes": "Mix together. Won't have same texture but captures the flavor."
+      }
+    ]
+  },
+  "black_pepper": {
+    "name": "Black Pepper",
+    "category": "spices",
+    "aliases": [
+      "pepper",
+      "peppercorns"
+    ],
+    "context": [
+      "cooking"
+    ],
+    "properties": {
+      "function": "pungent heat different from chili, universal seasoning"
+    },
+    "substitutions": [
+      {
+        "name": "White Pepper",
+        "ratio": "1 teaspoon white pepper = 1 teaspoon black pepper",
+        "reliability": "excellent",
+        "context": [
+          "cooking"
+        ],
+        "why": "Same plant, just processed differently. Similar heat.",
+        "notes": "Milder, more earthy. Used in light-colored dishes where black specks unwanted."
+      },
+      {
+        "name": "Pink Peppercorns",
+        "ratio": "1 teaspoon pink peppercorns = 1 teaspoon black pepper",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Similar pungent quality though technically different plant.",
+        "notes": "Milder, slightly sweet. More decorative than functional."
+      },
+      {
+        "name": "Ground Coriander",
+        "ratio": "1/2 teaspoon coriander = 1 teaspoon black pepper",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides some warmth and complexity.",
+        "notes": "Very different flavor - citrusy. Use when pepper is not essential."
+      },
+      {
+        "name": "Paprika (for color) + Cayenne (for heat)",
+        "ratio": "1/2 tsp paprika + tiny pinch cayenne = 1 tsp black pepper",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Provides both color and heat element.",
+        "notes": "Very different flavor. Only when black pepper unavailable."
+      }
+    ]
+  }
+}
