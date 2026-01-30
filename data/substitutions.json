@@ -844,7 +844,8 @@
           "cooking"
         ],
         "why": "This IS what half-and-half is - half milk, half cream. Identical result.",
-        "notes": "Perfect substitute. Can adjust ratio for lighter or richer result."
+        "notes": "Perfect substitute. Can adjust ratio for lighter or richer result.",
+        "science": "<p>Half-and-half is literally half milk, half cream (about 10-12% fat). Mixing equal parts achieves the same fat ratio and mouthfeel.</p>"
       },
       {
         "name": "Milk + Butter",
@@ -854,7 +855,8 @@
           "cooking"
         ],
         "why": "Butter adds fat to bring milk's richness up to half-and-half level.",
-        "notes": "May separate if heated too high. Best for baking and sauces that aren't boiled."
+        "notes": "May separate if heated too high. Best for baking and sauces that aren't boiled.",
+        "science": "<p>Butter adds the missing fat content back to milk. The milk solids in butter also contribute to the creamy richness characteristic of half-and-half.</p>"
       },
       {
         "name": "Evaporated Milk (diluted)",
@@ -864,7 +866,8 @@
           "cooking"
         ],
         "why": "Evaporated milk has similar fat content. Diluting gets right consistency.",
-        "notes": "Adds slightly caramelized flavor. Good for coffee and sauces."
+        "notes": "Adds slightly caramelized flavor. Good for coffee and sauces.",
+        "science": "<p>Evaporated milk has 60% of its water removed, concentrating proteins and sugars. Diluting it recreates a similar consistency and adds slight caramelized notes from the evaporation process.</p>"
       },
       {
         "name": "Oat Creamer",
@@ -874,7 +877,8 @@
           "cooking"
         ],
         "why": "Formulated to mimic half-and-half's fat content and mouthfeel.",
-        "notes": "Dairy-free option. Brands like Oatly Barista work well. May separate when heated."
+        "notes": "Dairy-free option. Brands like Oatly Barista work well. May separate when heated.",
+        "science": "<p>Oat creamers use beta-glucan, a soluble fiber in oats, to create a creamy texture. The natural sugars in oats provide subtle sweetness similar to lactose in dairy.</p>"
       }
     ]
   },
@@ -902,7 +906,8 @@
           "cooking"
         ],
         "why": "Provides similar richness when diluted. Higher fat than evaporated milk.",
-        "notes": "Results will be richer. Good for pumpkin pie and creamy sauces."
+        "notes": "Results will be richer. Good for pumpkin pie and creamy sauces.",
+        "science": "<p>Heavy cream matches evaporated milk's richness through fat content rather than protein concentration. It won't have the slight caramelized flavor from the evaporation process.</p>"
       },
       {
         "name": "Homemade: Simmer Regular Milk",
@@ -913,7 +918,8 @@
           "cooking"
         ],
         "why": "This IS how evaporated milk is made - milk with 60% of water removed.",
-        "notes": "Simmer milk uncovered for 25-30 min, stirring, until reduced by more than half."
+        "notes": "Simmer milk uncovered for 25-30 min, stirring, until reduced by more than half.",
+        "science": "<p>Simmering milk slowly evaporates water, concentrating proteins, lactose, and fat\u2014the exact process used commercially. The Maillard reaction during heating creates subtle caramel notes.</p>"
       },
       {
         "name": "Half-and-Half",
@@ -923,7 +929,8 @@
           "cooking"
         ],
         "why": "Similar fat content and consistency.",
-        "notes": "Slightly thinner. Works well in most recipes. Not shelf-stable like canned."
+        "notes": "Slightly thinner. Works well in most recipes. Not shelf-stable like canned.",
+        "science": "<p>Half-and-half provides similar richness through its fat content. It's thinner than evaporated milk but works when you need creamy body without the concentrated milk flavor.</p>"
       },
       {
         "name": "Coconut Milk (full fat)",
@@ -934,7 +941,8 @@
           "cooking"
         ],
         "why": "Similar creamy consistency and fat content. Dairy-free option.",
-        "notes": "Adds coconut flavor. Works well in curries, pumpkin pie, and sweet recipes."
+        "notes": "Adds coconut flavor. Works well in curries, pumpkin pie, and sweet recipes.",
+        "science": "<p>Full-fat coconut milk has similar viscosity and richness from coconut fat. The lauric acid in coconut creates a creamy mouthfeel comparable to dairy fat.</p>"
       }
     ]
   },
@@ -960,7 +968,8 @@
           "baking"
         ],
         "why": "This IS how condensed milk is made - milk cooked with sugar until reduced and thick.",
-        "notes": "Stir frequently to prevent scorching. Cool before using. Result should coat a spoon thickly."
+        "notes": "Stir frequently to prevent scorching. Cool before using. Result should coat a spoon thickly.",
+        "science": "<p>Simmering milk with sugar evaporates water while dissolving sugar into the concentrated milk proteins. The result mimics the thick, sweet consistency of commercial condensed milk.</p>"
       },
       {
         "name": "Evaporated Milk + Sugar",
@@ -970,7 +979,8 @@
           "baking"
         ],
         "why": "Evaporated milk is already concentrated. Adding sugar creates similar product.",
-        "notes": "Heat and stir until sugar fully dissolves and mixture thickens. Let cool."
+        "notes": "Heat and stir until sugar fully dissolves and mixture thickens. Let cool.",
+        "science": "<p>Evaporated milk is essentially unsweetened condensed milk. Adding sugar (about 1.25 cups per can) recreates the supersaturated sugar solution that gives condensed milk its distinctive texture.</p>"
       },
       {
         "name": "Coconut Condensed Milk",
@@ -980,7 +990,8 @@
           "baking"
         ],
         "why": "Same texture and sweetness level. Vegan alternative.",
-        "notes": "Adds coconut flavor. Available in most grocery stores. Great for dairy-free desserts."
+        "notes": "Adds coconut flavor. Available in most grocery stores. Great for dairy-free desserts.",
+        "science": "<p>Coconut condensed milk uses the same evaporation and sugar concentration process but with coconut milk. The result has similar viscosity and sweetness with tropical flavor notes.</p>"
       },
       {
         "name": "Cream + Sugar + Butter",
@@ -990,7 +1001,8 @@
           "baking"
         ],
         "why": "Creates similar thick, sweet consistency through different method.",
-        "notes": "More like a caramel sauce. Works for some recipes but different texture."
+        "notes": "More like a caramel sauce. Works for some recipes but different texture.",
+        "science": "<p>This combination mimics the fat content, sweetness, and thick consistency of condensed milk. The butter adds milk solids that contribute to the characteristic dairy flavor.</p>"
       }
     ]
   },
@@ -1017,7 +1029,8 @@
           "cooking"
         ],
         "why": "Coconut cream is just concentrated coconut milk. Diluting recreates full-fat coconut milk.",
-        "notes": "Adjust ratio for thicker or thinner consistency as needed."
+        "notes": "Adjust ratio for thicker or thinner consistency as needed.",
+        "science": "<p>Coconut cream is just the thick, fatty portion of coconut milk. Diluting it with water recreates the standard coconut milk fat ratio of about 17-20%.</p>"
       },
       {
         "name": "Heavy Cream (for richness, different flavor)",
@@ -1027,7 +1040,8 @@
           "cooking"
         ],
         "why": "Similar fat content and creamy texture. Different flavor profile.",
-        "notes": "Won't have coconut flavor. Works when you need the fat/creaminess but not the taste."
+        "notes": "Won't have coconut flavor. Works when you need the fat/creaminess but not the taste.",
+        "science": "<p>Heavy cream matches the fat content and richness of coconut milk. While the flavor differs, the fat molecules create similar emulsion properties in curries and soups.</p>"
       },
       {
         "name": "Cashew Cream",
@@ -1037,7 +1051,8 @@
           "cooking"
         ],
         "why": "Similar creamy, rich texture. Neutral flavor.",
-        "notes": "Blend 1 cup soaked cashews with 1 cup water. Dairy-free and coconut-free."
+        "notes": "Blend 1 cup soaked cashews with 1 cup water. Dairy-free and coconut-free.",
+        "science": "<p>Blended cashews create a neutral, creamy base with similar fat content to coconut milk. The natural oils in cashews emulsify smoothly, providing comparable richness.</p>"
       },
       {
         "name": "Greek Yogurt + Water",
@@ -1047,7 +1062,8 @@
           "cooking"
         ],
         "why": "Provides creaminess and body similar to coconut milk.",
-        "notes": "Adds tangy flavor. Traditional in some Indian curries. Add at end to prevent curdling."
+        "notes": "Adds tangy flavor. Traditional in some Indian curries. Add at end to prevent curdling.",
+        "science": "<p>Greek yogurt's protein structure creates thickness, while dilution achieves pourable consistency. The tanginess differs from coconut but provides similar body in recipes.</p>"
       }
     ]
   },
@@ -1412,7 +1428,8 @@
           "baking"
         ],
         "why": "Higher fiber and protein. 100% substitution makes dense, heavy results.",
-        "notes": "Replace only half for best results. Products will be denser and nuttier. May need more liquid."
+        "notes": "Replace only half for best results. Products will be denser and nuttier. May need more liquid.",
+        "science": "<p>Whole wheat flour contains the bran and germ, adding fiber and protein. The bran particles cut gluten strands, producing denser results\u2014use 75% whole wheat to 25% AP for better texture.</p>"
       },
       {
         "name": "Gluten-Free Flour Blend",
@@ -1433,7 +1450,8 @@
           "baking"
         ],
         "why": "Adds moisture and richness but no gluten. Can't fully replace.",
-        "notes": "100% almond flour requires completely different recipe. Partial substitution adds nutty flavor and moisture."
+        "notes": "100% almond flour requires completely different recipe. Partial substitution adds nutty flavor and moisture.",
+        "science": "<p>Almond flour is gluten-free and high in fat, creating tender but crumbly textures. Use it for 25% of AP flour to add moisture and richness while maintaining structure.</p>"
       }
     ]
   },
@@ -1460,7 +1478,8 @@
           "baking"
         ],
         "why": "Cornstarch dilutes protein and interferes with gluten formation, mimicking low-protein cake flour.",
-        "notes": "Sift together several times for even distribution. Works very well for cakes."
+        "notes": "Sift together several times for even distribution. Works very well for cakes.",
+        "science": "<p>Cornstarch dilutes the protein content, mimicking cake flour's 7-8% protein. The starch also interferes with gluten formation, producing the tender crumb cake flour is known for.</p>"
       },
       {
         "name": "All-Purpose Flour (straight substitution)",
@@ -1470,7 +1489,8 @@
           "baking"
         ],
         "why": "Will work but produces slightly different texture due to higher protein.",
-        "notes": "Results will be slightly denser and less tender. Mix less to reduce gluten development."
+        "notes": "Results will be slightly denser and less tender. Mix less to reduce gluten development.",
+        "science": "<p>All-purpose flour has higher protein (10-12%) than cake flour. Results will be slightly denser and chewier because more gluten develops during mixing.</p>"
       }
     ]
   },
@@ -1497,7 +1517,8 @@
           "baking"
         ],
         "why": "Vital wheat gluten is pure protein. Adding it increases protein content to match bread flour.",
-        "notes": "Best substitute for bread. Creates the chewy texture and good rise."
+        "notes": "Best substitute for bread. Creates the chewy texture and good rise.",
+        "science": "<p>Vital wheat gluten is pure gluten protein. Adding it to AP flour increases protein content to match bread flour's 12-14%, creating the strong gluten network needed for chewy bread.</p>"
       },
       {
         "name": "All-Purpose Flour (straight substitution)",
@@ -1507,7 +1528,8 @@
           "baking"
         ],
         "why": "AP flour can make bread, just with slightly less chew and rise.",
-        "notes": "Results will be acceptable but less chewy. Fine for home bread baking."
+        "notes": "Results will be acceptable but less chewy. Fine for home bread baking.",
+        "science": "<p>AP flour's lower protein means less gluten development. Bread will have a softer crumb and less chew, but still works for most recipes\u2014just expect a more tender texture.</p>"
       }
     ]
   },
@@ -1532,7 +1554,8 @@
           "baking"
         ],
         "why": "This IS what self-rising flour is - just AP flour with leavening and salt pre-mixed.",
-        "notes": "Perfect substitute. Whisk together well before using."
+        "notes": "Perfect substitute. Whisk together well before using.",
+        "science": "<p>Self-rising flour is simply AP flour with leavening pre-mixed. The standard ratio is 1 cup flour + 1.5 tsp baking powder + 0.25 tsp salt, providing consistent lift.</p>"
       },
       {
         "name": "Cake Flour + Baking Powder + Salt",
@@ -1542,7 +1565,8 @@
           "baking"
         ],
         "why": "For more tender results like Southern-style biscuits.",
-        "notes": "Results will be more tender and delicate. Traditional for fluffy biscuits."
+        "notes": "Results will be more tender and delicate. Traditional for fluffy biscuits.",
+        "science": "<p>Using cake flour creates an even more tender result than standard self-rising flour. The lower protein content plus leavening produces exceptionally light biscuits and quick breads.</p>"
       }
     ]
   },
@@ -1640,7 +1664,8 @@
           "baking"
         ],
         "why": "Baking chocolate is cocoa solids + cocoa butter. Need to reduce fat in recipe.",
-        "notes": "Reduce butter/oil in recipe by 1 tablespoon per ounce of chocolate used. Richer flavor."
+        "notes": "Reduce butter/oil in recipe by 1 tablespoon per ounce of chocolate used. Richer flavor.",
+        "science": "<p>Baking chocolate is cocoa solids plus cocoa butter. Using 3 tbsp cocoa plus 1 tbsp fat per ounce of chocolate accounts for the added cocoa butter in solid chocolate.</p>"
       },
       {
         "name": "Dutch Process \u2194 Natural Cocoa Swap",
@@ -1650,7 +1675,8 @@
           "baking"
         ],
         "why": "Natural cocoa is acidic (works with baking soda). Dutch is neutral (needs baking powder).",
-        "notes": "Swapping natural for Dutch: replace baking soda with baking powder (3x amount). Swapping Dutch for natural: replace baking powder with baking soda (1/3 amount)."
+        "notes": "Swapping natural for Dutch: replace baking soda with baking powder (3x amount). Swapping Dutch for natural: replace baking powder with baking soda (1/3 amount).",
+        "science": "<p>Dutch-process cocoa is alkalinized (pH 7-8), while natural cocoa is acidic (pH 5-6). When swapping, adjust leavening: use baking powder with Dutch, baking soda with natural to maintain proper rise.</p>"
       },
       {
         "name": "Carob Powder",
@@ -1660,7 +1686,8 @@
           "baking"
         ],
         "why": "Similar appearance and can provide brown color. Naturally sweet.",
-        "notes": "VERY different flavor - earthy and sweet, not chocolatey. Reduce sugar. Not a true chocolate substitute."
+        "notes": "VERY different flavor - earthy and sweet, not chocolatey. Reduce sugar. Not a true chocolate substitute.",
+        "science": "<p>Carob comes from a different plant and is naturally sweeter with no caffeine. It lacks cocoa's complex flavor compounds but provides similar color and mild chocolate-like taste.</p>"
       },
       {
         "name": "Hot Cocoa Mix (in a pinch)",
@@ -1670,7 +1697,8 @@
           "baking"
         ],
         "why": "Contains cocoa powder plus sugar and milk powder.",
-        "notes": "Reduce sugar in recipe significantly. Results will be sweeter and less intense."
+        "notes": "Reduce sugar in recipe significantly. Results will be sweeter and less intense.",
+        "science": "<p>Hot cocoa mix contains cocoa, sugar, and milk powder. Reduce other sugars in your recipe and expect a sweeter, less intense chocolate flavor.</p>"
       }
     ]
   },
@@ -1697,7 +1725,8 @@
           "baking"
         ],
         "why": "Unsweetened chocolate is just cocoa solids and cocoa butter. This recreates it.",
-        "notes": "Use neutral oil or butter depending on recipe. Melt butter first if using."
+        "notes": "Use neutral oil or butter depending on recipe. Melt butter first if using.",
+        "science": "<p>Cocoa powder is defatted chocolate. Adding fat (3 tbsp cocoa + 1 tbsp butter per ounce) recreates the cocoa butter content that gives baking chocolate its meltability.</p>"
       },
       {
         "name": "Semisweet Chocolate",
@@ -1707,7 +1736,8 @@
           "baking"
         ],
         "why": "Semisweet contains sugar. Reducing recipe sugar compensates.",
-        "notes": "Result will be slightly less intense. Works for brownies and cakes."
+        "notes": "Result will be slightly less intense. Works for brownies and cakes.",
+        "science": "<p>Semisweet contains sugar, so reduce recipe sugar by 1 tbsp per ounce. The added sugar means less intense chocolate flavor but still provides cocoa solids and fat.</p>"
       }
     ]
   },
@@ -1735,7 +1765,8 @@
           "baking"
         ],
         "why": "Semisweet is unsweetened chocolate with sugar added. This recreates the formula.",
-        "notes": "Melt chocolate, stir in sugar until dissolved. Adjust sugar to taste."
+        "notes": "Melt chocolate, stir in sugar until dissolved. Adjust sugar to taste.",
+        "science": "<p>Adding 1 tbsp sugar per ounce of unsweetened chocolate recreates semisweet's sweetness level. The sugar dissolves into the melted chocolate, creating similar flavor balance.</p>"
       },
       {
         "name": "Cocoa Powder + Sugar + Fat",
@@ -1745,7 +1776,8 @@
           "baking"
         ],
         "why": "Builds chocolate from components. Works when you're out of chocolate.",
-        "notes": "Melt butter, mix in cocoa and sugar. Won't have exact texture of solid chocolate."
+        "notes": "Melt butter, mix in cocoa and sugar. Won't have exact texture of solid chocolate.",
+        "science": "<p>This recreates chocolate from its components: cocoa provides flavor, fat provides mouthfeel and meltability, sugar provides sweetness. Combine 3 tbsp cocoa + 3 tbsp sugar + 1 tbsp butter per ounce.</p>"
       },
       {
         "name": "Milk Chocolate",
@@ -1755,7 +1787,8 @@
           "baking"
         ],
         "why": "Both are sweetened chocolates. Milk chocolate is sweeter and milder.",
-        "notes": "Results will be sweeter and less intensely chocolate. May want to reduce sugar slightly."
+        "notes": "Results will be sweeter and less intensely chocolate. May want to reduce sugar slightly.",
+        "science": "<p>Milk chocolate is sweeter and contains milk solids. Reduce recipe sugar slightly and expect a milder, creamier chocolate flavor from the added dairy.</p>"
       }
     ]
   },
@@ -1783,7 +1816,8 @@
           "baking"
         ],
         "why": "Brown sugar is white sugar + molasses. Adds moisture and chewiness.",
-        "notes": "Results will be more moist and chewy with caramel notes. May spread more when baking."
+        "notes": "Results will be more moist and chewy with caramel notes. May spread more when baking.",
+        "science": "<p>Brown sugar is white sugar plus molasses, adding moisture and slight acidity. Baked goods will be moister and chewier due to molasses's hygroscopic nature (attracts water).</p>"
       },
       {
         "name": "Coconut Sugar",
@@ -1794,7 +1828,8 @@
           "cooking"
         ],
         "why": "Similar sweetness level. Lower glycemic index.",
-        "notes": "Adds caramel/brown sugar flavor. Won't cream as smoothly. Slightly less sweet."
+        "notes": "Adds caramel/brown sugar flavor. Won't cream as smoothly. Slightly less sweet.",
+        "science": "<p>Coconut sugar has a lower glycemic index and contains small amounts of minerals. Its caramel-like flavor comes from the sap's natural compounds, affecting final taste.</p>"
       },
       {
         "name": "Honey",
@@ -1804,7 +1839,8 @@
           "baking"
         ],
         "why": "Honey is sweeter than sugar. Liquid form requires recipe adjustment.",
-        "notes": "Reduce other liquids and oven temp by 25\u00b0F to prevent over-browning. Adds honey flavor."
+        "notes": "Reduce other liquids and oven temp by 25\u00b0F to prevent over-browning. Adds honey flavor.",
+        "science": "<p>Honey is sweeter than sugar, so use 75% as much. It's acidic and hygroscopic, making baked goods moister and browner (honey promotes Maillard browning). Reduce other liquids slightly.</p>"
       },
       {
         "name": "Maple Syrup",
@@ -1814,7 +1850,8 @@
           "baking"
         ],
         "why": "Similar sweetness to honey. Requires liquid adjustment.",
-        "notes": "Reduce other liquids. Adds maple flavor. Lower oven temp slightly."
+        "notes": "Reduce other liquids. Adds maple flavor. Lower oven temp slightly.",
+        "science": "<p>Maple syrup adds liquid and distinct flavor. Use 75% as much and reduce other liquids. Its mineral content affects browning and provides subtle earthy notes.</p>"
       },
       {
         "name": "Stevia (for sweetness only)",
@@ -1824,7 +1861,8 @@
           "cooking"
         ],
         "why": "Provides sweetness without calories or carbs.",
-        "notes": "Does NOT provide bulk, browning, or texture. Only use in recipes where sugar's only role is sweetness (drinks, sauces). Not for baking."
+        "notes": "Does NOT provide bulk, browning, or texture. Only use in recipes where sugar's only role is sweetness (drinks, sauces). Not for baking.",
+        "science": "<p>Stevia is 200-300x sweeter than sugar but provides no bulk, browning, or moisture retention. It works for sweetness but can't replicate sugar's structural roles in baking.</p>"
       }
     ]
   },
@@ -1851,7 +1889,8 @@
           "baking"
         ],
         "why": "Powdered sugar is just finely ground sugar with anti-caking agent (usually cornstarch).",
-        "notes": "Blend in high-powered blender or food processor for 1-2 minutes until powdery. Sift before using."
+        "notes": "Blend in high-powered blender or food processor for 1-2 minutes until powdery. Sift before using.",
+        "science": "<p>Blending granulated sugar breaks crystals into powder. Adding 1 tbsp cornstarch per cup prevents clumping\u2014the same anti-caking agent used commercially.</p>"
       },
       {
         "name": "Coconut Sugar (blended)",
@@ -1861,7 +1900,8 @@
           "baking"
         ],
         "why": "Can be ground fine, though won't be as white or dissolve as smoothly.",
-        "notes": "Results will be tan colored with caramel flavor. Works for rustic frostings."
+        "notes": "Results will be tan colored with caramel flavor. Works for rustic frostings.",
+        "science": "<p>Blended coconut sugar creates a darker powdered sugar with caramel notes. The color affects final appearance but works well in frostings and dustings.</p>"
       }
     ]
   },
@@ -1951,7 +1991,8 @@
           "baking"
         ],
         "why": "Similar consistency and some caramel flavor. Less complex than molasses.",
-        "notes": "Milder flavor. Works in recipes where molasses isn't the star flavor."
+        "notes": "Milder flavor. Works in recipes where molasses isn't the star flavor.",
+        "science": "<p>Dark corn syrup has added molasses flavor but is less complex. It provides similar viscosity and moisture but milder taste with more neutral sweetness.</p>"
       },
       {
         "name": "Honey + Brown Sugar",
@@ -1961,7 +2002,8 @@
           "baking"
         ],
         "why": "Provides thickness and some depth. Not the same flavor profile.",
-        "notes": "Mix well. Results will be sweeter and less bitter. Different flavor."
+        "notes": "Mix well. Results will be sweeter and less bitter. Different flavor.",
+        "science": "<p>This combination mimics molasses's sweetness and slight bitterness. Honey provides viscosity while brown sugar contributes molasses flavor from its own molasses content.</p>"
       },
       {
         "name": "Maple Syrup",
@@ -1971,7 +2013,8 @@
           "baking"
         ],
         "why": "Similar thick liquid consistency. Different flavor profile.",
-        "notes": "Very different flavor - maple instead of caramel/bitter. Works in some recipes."
+        "notes": "Very different flavor - maple instead of caramel/bitter. Works in some recipes.",
+        "science": "<p>Maple syrup is less bitter and more delicate than molasses. Use in gingerbread or baked beans for a milder, more refined sweetness with different flavor notes.</p>"
       },
       {
         "name": "Date Syrup",
@@ -1981,7 +2024,8 @@
           "baking"
         ],
         "why": "Similar thick, dark consistency with complex sweetness.",
-        "notes": "Different flavor but good depth. Works well in gingerbread and dark cakes."
+        "notes": "Different flavor but good depth. Works well in gingerbread and dark cakes.",
+        "science": "<p>Date syrup offers similar viscosity with natural caramel-like sweetness. It's less bitter than molasses and adds fruit-derived minerals and complex sugars.</p>"
       }
     ]
   },
@@ -2085,7 +2129,8 @@
           "cooking"
         ],
         "why": "Similar sweetness and consistency. Different flavor.",
-        "notes": "Won't have maple flavor, but provides same sweetness and moisture."
+        "notes": "Won't have maple flavor, but provides same sweetness and moisture.",
+        "science": "<p>Honey is sweeter than maple with different flavor compounds. It works in similar applications but contributes floral notes instead of maple's woody, vanilla-like character.</p>"
       },
       {
         "name": "Maple-Flavored Pancake Syrup",
@@ -2095,7 +2140,8 @@
           "cooking"
         ],
         "why": "Designed to taste like maple syrup, though artificial.",
-        "notes": "Fine for pancakes and waffles. Not recommended for baking where real maple flavor is important."
+        "notes": "Fine for pancakes and waffles. Not recommended for baking where real maple flavor is important.",
+        "science": "<p>Pancake syrup is corn syrup with artificial maple flavoring. It lacks real maple's complexity but mimics the taste and provides identical sweetness and viscosity.</p>"
       },
       {
         "name": "Brown Sugar Syrup (homemade)",
@@ -2105,7 +2151,8 @@
           "cooking"
         ],
         "why": "Brown sugar has similar caramel notes. Creates pourable syrup.",
-        "notes": "Heat sugar and water until dissolved and slightly thickened. Different from maple but good depth."
+        "notes": "Heat sugar and water until dissolved and slightly thickened. Different from maple but good depth.",
+        "science": "<p>Dissolving brown sugar in water creates a syrup with caramel notes from molasses. It mimics maple's consistency and sweetness with a different but complementary flavor profile.</p>"
       },
       {
         "name": "Agave Nectar",
@@ -2116,7 +2163,8 @@
           "cooking"
         ],
         "why": "Similar liquid consistency. Neutral flavor.",
-        "notes": "Missing maple flavor but works as liquid sweetener. Slightly sweeter."
+        "notes": "Missing maple flavor but works as liquid sweetener. Slightly sweeter.",
+        "science": "<p>Agave is thinner and more neutral than maple. It's sweeter (use less) and won't contribute maple's distinctive flavor, but works when you need liquid sweetness.</p>"
       }
     ]
   },
@@ -2349,7 +2397,8 @@
           "cooking"
         ],
         "why": "Soy sauce provides umami and salt, tahini adds the paste-like body and slight bitterness.",
-        "notes": "Won't have fermented complexity but provides similar savory depth."
+        "notes": "Won't have fermented complexity but provides similar savory depth.",
+        "science": "<p>Soy sauce provides fermented soybean umami while tahini adds the thick, paste-like consistency. Together they approximate miso's savory depth and texture.</p>"
       },
       {
         "name": "Soy Sauce (alone)",
@@ -2359,7 +2408,8 @@
           "cooking"
         ],
         "why": "Both are fermented soy products with umami. Soy sauce is thinner and saltier.",
-        "notes": "Reduces overall salt in recipe. Misses the paste texture and fermented depth."
+        "notes": "Reduces overall salt in recipe. Misses the paste texture and fermented depth.",
+        "science": "<p>Soy sauce offers similar fermented soy flavor but is liquid, not paste. Use less (it's saltier) and expect thinner consistency and less complex fermented notes.</p>"
       },
       {
         "name": "Fish Sauce (for umami)",
@@ -2369,7 +2419,8 @@
           "cooking"
         ],
         "why": "Provides intense umami, though from a different source.",
-        "notes": "Not vegetarian. Very different flavor but hits the umami note. Use sparingly - very concentrated."
+        "notes": "Not vegetarian. Very different flavor but hits the umami note. Use sparingly - very concentrated.",
+        "science": "<p>Fish sauce provides intense umami from fermented anchovies. It adds savory depth but different flavor compounds\u2014use sparingly and expect a more pungent result.</p>"
       },
       {
         "name": "Vegetable Bouillon Paste",
@@ -2379,7 +2430,8 @@
           "cooking"
         ],
         "why": "Provides savory, salty paste with some umami from vegetables/yeast.",
-        "notes": "Missing the fermented quality. Better than nothing for soup bases."
+        "notes": "Missing the fermented quality. Better than nothing for soup bases.",
+        "science": "<p>Bouillon paste provides concentrated savory flavor and similar consistency. It lacks miso's fermented complexity but delivers umami and body in soups and sauces.</p>"
       }
     ]
   },
@@ -2464,7 +2516,8 @@
           "cooking"
         ],
         "why": "Hoisin provides thick, sweet-savory base. Soy adds salt depth.",
-        "notes": "Different flavor profile - more Chinese BBQ taste. Works well in stir-fries."
+        "notes": "Different flavor profile - more Chinese BBQ taste. Works well in stir-fries.",
+        "science": "<p>Hoisin provides thickness and sweetness while soy adds saltiness. The combination approximates oyster sauce's savory-sweet profile without the oyster extract.</p>"
       },
       {
         "name": "Soy Sauce + Sugar",
@@ -2474,7 +2527,8 @@
           "cooking"
         ],
         "why": "Approximates the salty-sweet profile. Cornstarch adds thickness.",
-        "notes": "Missing oyster umami depth but provides similar seasoning function."
+        "notes": "Missing oyster umami depth but provides similar seasoning function.",
+        "science": "<p>This simplified substitute provides the salty-sweet balance of oyster sauce. It lacks the briny depth from oyster extract but works for quick stir-fries.</p>"
       },
       {
         "name": "Mushroom Sauce (vegetarian oyster sauce)",
@@ -2484,7 +2538,8 @@
           "cooking"
         ],
         "why": "Specifically designed as vegetarian alternative. Made from mushrooms for similar umami.",
-        "notes": "Available in Asian markets. Excellent vegetarian substitute with similar flavor profile."
+        "notes": "Available in Asian markets. Excellent vegetarian substitute with similar flavor profile.",
+        "science": "<p>Mushroom sauce uses shiitake mushrooms to create similar umami intensity. Glutamates from mushrooms mimic the savory depth of oyster extract.</p>"
       },
       {
         "name": "Worcestershire + Soy + Sugar",
@@ -2494,7 +2549,8 @@
           "cooking"
         ],
         "why": "Combines fermented depth with soy and sweetness.",
-        "notes": "Western pantry solution. Worcestershire has anchovies, not vegetarian."
+        "notes": "Western pantry solution. Worcestershire has anchovies, not vegetarian.",
+        "science": "<p>Worcestershire adds fermented complexity, soy provides salt and color, sugar balances with sweetness. Together they approximate oyster sauce's layered flavor.</p>"
       }
     ]
   },
@@ -2520,7 +2576,8 @@
           "cooking"
         ],
         "why": "Combines the key flavor elements: soy, sweetness, nuttiness, and spices.",
-        "notes": "Blend until smooth. Adjust sweetness to taste. Very close to commercial hoisin."
+        "notes": "Blend until smooth. Adjust sweetness to taste. Very close to commercial hoisin.",
+        "science": "<p>Combine soy sauce, peanut butter, honey, rice vinegar, sesame oil, and garlic. These ingredients recreate hoisin's sweet, salty, slightly tangy profile with fermented soy depth.</p>"
       },
       {
         "name": "Oyster Sauce + Honey",
@@ -2530,7 +2587,8 @@
           "cooking"
         ],
         "why": "Oyster sauce provides similar thick, umami base. Honey adds sweetness.",
-        "notes": "Missing the spice complexity but similar texture and umami-sweet balance."
+        "notes": "Missing the spice complexity but similar texture and umami-sweet balance.",
+        "science": "<p>Oyster sauce provides umami and body while honey adds hoisin's characteristic sweetness. The combination works well for glazes and dipping sauces.</p>"
       },
       {
         "name": "Barbecue Sauce + Soy Sauce",
@@ -2540,7 +2598,8 @@
           "cooking"
         ],
         "why": "BBQ sauce has similar sweet-savory profile. Soy adds depth.",
-        "notes": "Different flavor (more Western) but works in a pinch for marinades."
+        "notes": "Different flavor (more Western) but works in a pinch for marinades.",
+        "science": "<p>BBQ sauce offers similar sweet-tangy-smoky notes, while soy sauce adds the fermented depth. Adjust ratios based on your BBQ sauce's sweetness level.</p>"
       }
     ]
   },
@@ -2565,7 +2624,8 @@
           "cooking"
         ],
         "why": "Approximates the soy-vinegar-sweet balance of Worcestershire.",
-        "notes": "Missing fermented anchovy depth but provides similar seasoning function."
+        "notes": "Missing fermented anchovy depth but provides similar seasoning function.",
+        "science": "<p>Soy sauce provides fermented depth and color while vinegar adds Worcestershire's characteristic tang. The combination lacks anchovy complexity but delivers similar savory-sour balance.</p>"
       },
       {
         "name": "Coconut Aminos + Vinegar",
@@ -2575,7 +2635,8 @@
           "cooking"
         ],
         "why": "Provides umami and tang. Vegetarian option.",
-        "notes": "Different flavor profile but similar function. Good for vegan cooking."
+        "notes": "Different flavor profile but similar function. Good for vegan cooking.",
+        "science": "<p>Coconut aminos offer a milder, slightly sweeter soy-like flavor. Adding vinegar recreates the tangy element, making this work for soy-free or lower-sodium needs.</p>"
       },
       {
         "name": "Tamarind Paste + Soy Sauce",
@@ -2585,7 +2646,8 @@
           "cooking"
         ],
         "why": "Tamarind adds the tangy-sweet depth that's key to Worcestershire.",
-        "notes": "Closer to authentic flavor. Tamarind provides similar fermented complexity."
+        "notes": "Closer to authentic flavor. Tamarind provides similar fermented complexity.",
+        "science": "<p>Tamarind provides the fruity acidity that's part of Worcestershire's complex flavor. Combined with soy's fermented notes, this closely approximates the original.</p>"
       }
     ]
   },
@@ -2671,7 +2733,8 @@
           "cooking"
         ],
         "why": "Tahini is ground sesame seeds. Provides sesame flavor in oil form.",
-        "notes": "Won't be as intensely flavored. Use for dressings and drizzling."
+        "notes": "Won't be as intensely flavored. Use for dressings and drizzling.",
+        "science": "<p>Tahini is ground sesame seeds, providing the nutty sesame flavor. Mixing with neutral oil thins it to the right consistency and captures toasted sesame's essence.</p>"
       },
       {
         "name": "Perilla Oil",
@@ -2681,7 +2744,8 @@
           "cooking"
         ],
         "why": "Korean oil with similar nutty, aromatic quality.",
-        "notes": "Different flavor - more herbal/minty. Traditional in Korean cuisine."
+        "notes": "Different flavor - more herbal/minty. Traditional in Korean cuisine.",
+        "science": "<p>Perilla oil (from the shiso family) has a similar nutty, slightly earthy flavor. It's common in Korean cooking and provides comparable aromatic depth.</p>"
       },
       {
         "name": "Walnut Oil",
@@ -2691,7 +2755,8 @@
           "cooking"
         ],
         "why": "Another nutty finishing oil with strong flavor.",
-        "notes": "Different flavor profile but provides similar nutty richness. Don't heat."
+        "notes": "Different flavor profile but provides similar nutty richness. Don't heat.",
+        "science": "<p>Walnut oil shares sesame's nutty character with its own distinct flavor. Use in dressings and finishing where toasted nut flavor enhances the dish.</p>"
       },
       {
         "name": "Peanut Oil",
@@ -2701,7 +2766,8 @@
           "cooking"
         ],
         "why": "Works for cooking but won't provide sesame flavor.",
-        "notes": "Only for cooking, not as finishing oil. Missing distinctive sesame taste."
+        "notes": "Only for cooking, not as finishing oil. Missing distinctive sesame taste.",
+        "science": "<p>Peanut oil offers a milder nutty flavor than sesame. It won't replicate toasted sesame's intensity but provides similar fat characteristics for cooking.</p>"
       }
     ]
   },
@@ -2728,7 +2794,8 @@
           "cooking"
         ],
         "why": "Similar alcohol content and flavor profile - slightly nutty and dry.",
-        "notes": "The most commonly recommended sake substitute in Western cooking."
+        "notes": "The most commonly recommended sake substitute in Western cooking.",
+        "science": "<p>Dry sherry shares sake's alcohol content and subtle sweetness. Its oxidized, nutty notes differ from sake but work well in Asian marinades and sauces.</p>"
       },
       {
         "name": "Dry White Wine",
@@ -2738,7 +2805,8 @@
           "cooking"
         ],
         "why": "Provides the alcohol for tenderizing and deglazing.",
-        "notes": "Flavor is different - more acidic. Use dry varieties like Sauvignon Blanc."
+        "notes": "Flavor is different - more acidic. Use dry varieties like Sauvignon Blanc.",
+        "science": "<p>Dry white wine provides similar alcohol for deglazing and tenderizing. Choose a neutral variety like Sauvignon Blanc to avoid overpowering other flavors.</p>"
       },
       {
         "name": "Rice Vinegar + Water",
@@ -2748,7 +2816,8 @@
           "cooking"
         ],
         "why": "Provides some of the rice-based flavor notes without alcohol.",
-        "notes": "More acidic than sake. Reduce other acids in recipe. Missing tenderizing effect."
+        "notes": "More acidic than sake. Reduce other acids in recipe. Missing tenderizing effect.",
+        "science": "<p>This non-alcoholic substitute provides rice-based acidity. It lacks sake's flavor-carrying alcohol but adds similar brightness to dressings and sauces.</p>"
       },
       {
         "name": "Chicken or Vegetable Broth",
@@ -2758,7 +2827,8 @@
           "cooking"
         ],
         "why": "Provides liquid and some savory depth without alcohol.",
-        "notes": "Won't have same flavor but works for moisture in recipes."
+        "notes": "Won't have same flavor but works for moisture in recipes.",
+        "science": "<p>Broth replaces sake's liquid and adds savory depth without alcohol. It won't provide the same flavor extraction that alcohol enables but adds body.</p>"
       }
     ]
   },
@@ -2784,7 +2854,8 @@
           "cooking"
         ],
         "why": "Apple cider vinegar is mild like rice vinegar. Diluting and sweetening gets it closer.",
-        "notes": "Has a fruitier taste. Good for dressings and marinades."
+        "notes": "Has a fruitier taste. Good for dressings and marinades.",
+        "science": "<p>Apple cider vinegar is stronger (5% vs rice vinegar's 4% acidity). Diluting it with water and a pinch of sugar approximates rice vinegar's mild, sweet tang.</p>"
       },
       {
         "name": "White Wine Vinegar (diluted)",
@@ -2794,7 +2865,8 @@
           "cooking"
         ],
         "why": "Similar mild acidity when diluted. Sugar balances the sharpness.",
-        "notes": "Slightly more acidic flavor but works well in most recipes."
+        "notes": "Slightly more acidic flavor but works well in most recipes.",
+        "science": "<p>White wine vinegar is sharper than rice vinegar. Diluting and adding a small amount of sugar mimics rice vinegar's characteristic mellowness.</p>"
       },
       {
         "name": "Lemon or Lime Juice",
@@ -2804,7 +2876,8 @@
           "cooking"
         ],
         "why": "Provides acidity with a fresh, bright note.",
-        "notes": "Different flavor profile - more citrusy. Fine for quick pickles and dressings."
+        "notes": "Different flavor profile - more citrusy. Fine for quick pickles and dressings.",
+        "science": "<p>Citrus provides acidity through citric acid rather than acetic acid. The flavor profile differs but the souring effect works for dressings and quick pickles.</p>"
       },
       {
         "name": "Champagne Vinegar",
@@ -2814,7 +2887,8 @@
           "cooking"
         ],
         "why": "Very similar mild, slightly sweet acidity profile.",
-        "notes": "More expensive but closest in delicacy to rice vinegar."
+        "notes": "More expensive but closest in delicacy to rice vinegar.",
+        "science": "<p>Champagne vinegar is delicate and slightly sweet, making it the closest Western substitute to rice vinegar's mild, refined acidity.</p>"
       }
     ]
   },
@@ -2840,7 +2914,8 @@
           "cooking"
         ],
         "why": "Broth provides depth, vinegar adds acidity. Non-alcoholic option.",
-        "notes": "Missing wine's complexity but provides similar cooking function."
+        "notes": "Missing wine's complexity but provides similar cooking function.",
+        "science": "<p>Broth provides depth and body while vinegar adds the acidity wine contributes. This non-alcoholic substitute works for deglazing and braising.</p>"
       },
       {
         "name": "Grape Juice + Vinegar",
@@ -2850,7 +2925,8 @@
           "cooking"
         ],
         "why": "Grape juice is from the same fruit. Vinegar adds acidity.",
-        "notes": "Sweeter than wine - may need to reduce other sugars. Good for deglazing."
+        "notes": "Sweeter than wine - may need to reduce other sugars. Good for deglazing.",
+        "science": "<p>Grape juice provides fruit compounds similar to wine, while vinegar adds acidity. Use unsweetened juice and expect a fruitier, sweeter result.</p>"
       },
       {
         "name": "Pomegranate Juice",
@@ -2860,7 +2936,8 @@
           "cooking"
         ],
         "why": "Similar color and tannin-like depth. Good acidity.",
-        "notes": "Sweeter and fruitier than wine. Works well in Middle Eastern-inspired dishes."
+        "notes": "Sweeter and fruitier than wine. Works well in Middle Eastern-inspired dishes.",
+        "science": "<p>Pomegranate offers similar tannins and acidity to red wine with its own fruity depth. It works well in reductions and adds beautiful color.</p>"
       },
       {
         "name": "Cranberry Juice",
@@ -2870,7 +2947,8 @@
           "cooking"
         ],
         "why": "Provides color, acidity, and slight tannin quality.",
-        "notes": "More tart than wine. Good for poultry and pork dishes."
+        "notes": "More tart than wine. Good for poultry and pork dishes.",
+        "science": "<p>Cranberry juice provides tartness and color similar to red wine. Its astringency mimics tannins, making it useful for sauces and marinades.</p>"
       }
     ]
   },
@@ -2896,7 +2974,8 @@
           "cooking"
         ],
         "why": "Broth provides savory depth, lemon adds acidity. Non-alcoholic.",
-        "notes": "Good for deglazing and pan sauces. Missing wine's complexity."
+        "notes": "Good for deglazing and pan sauces. Missing wine's complexity.",
+        "science": "<p>Broth provides savory depth while lemon adds the acidity white wine contributes. This combination works for deglazing and light sauces.</p>"
       },
       {
         "name": "White Wine Vinegar + Water",
@@ -2906,7 +2985,8 @@
           "cooking"
         ],
         "why": "White wine vinegar is literally oxidized white wine. Diluting reduces harshness.",
-        "notes": "More acidic than wine. Good for quick cooking, not long braises."
+        "notes": "More acidic than wine. Good for quick cooking, not long braises.",
+        "science": "<p>Diluted white wine vinegar provides the acidity of wine without alcohol. It's sharper but works for quick cooking where wine's complexity isn't essential.</p>"
       },
       {
         "name": "Apple Juice + Vinegar",
@@ -2916,7 +2996,8 @@
           "cooking"
         ],
         "why": "Apple provides subtle fruit notes, vinegar adds acidity.",
-        "notes": "Sweeter than wine. Works for pork and chicken dishes."
+        "notes": "Sweeter than wine. Works for pork and chicken dishes.",
+        "science": "<p>Apple juice adds fruitiness and light sweetness while vinegar provides acidity. The combination approximates white wine's role in cooking.</p>"
       },
       {
         "name": "Dry Vermouth",
@@ -2926,7 +3007,8 @@
           "cooking"
         ],
         "why": "Vermouth is fortified wine with herbs. Excellent for cooking.",
-        "notes": "Keeps longer than wine once opened. Adds herbal complexity."
+        "notes": "Keeps longer than wine once opened. Adds herbal complexity.",
+        "science": "<p>Vermouth is fortified wine with botanicals. It has a longer shelf life than wine and provides similar acidity with added herbal complexity.</p>"
       }
     ]
   },
@@ -3014,7 +3096,8 @@
           "cooking"
         ],
         "why": "Some fruits are naturally high in pectin. Adding them helps low-pectin fruits gel.",
-        "notes": "Old-fashioned method. Green apples and citrus pith are highest in pectin. Requires longer cooking."
+        "notes": "Old-fashioned method. Green apples and citrus pith are highest in pectin. Requires longer cooking.",
+        "science": "<p>Apples and citrus peels naturally contain pectin. Adding grated apple or citrus zest to low-pectin fruit jams provides natural gelling power.</p>"
       },
       {
         "name": "Chia Seeds",
@@ -3024,7 +3107,8 @@
           "cooking"
         ],
         "why": "Chia seeds create gel-like consistency. Creates 'chia jam' without cooking.",
-        "notes": "Different texture - visible seeds. Quick method. Less sweet since no cooking down."
+        "notes": "Different texture - visible seeds. Quick method. Less sweet since no cooking down.",
+        "science": "<p>Chia seeds absorb up to 12x their weight in liquid, creating a gel-like consistency. They provide fiber and texture for no-cook jams and spreads.</p>"
       },
       {
         "name": "Gelatin (for refrigerator jam)",
@@ -3034,7 +3118,8 @@
           "cooking"
         ],
         "why": "Creates gel, but requires refrigeration (won't be shelf-stable).",
-        "notes": "Not for traditional canning - only refrigerator jam. Sets firmly when cold. Not vegan."
+        "notes": "Not for traditional canning - only refrigerator jam. Sets firmly when cold. Not vegan.",
+        "science": "<p>Gelatin sets through protein networks rather than pectin's sugar-acid gel. It works for refrigerator storage but melts at room temperature.</p>"
       },
       {
         "name": "Cornstarch (for fruit sauces)",
@@ -3044,7 +3129,8 @@
           "cooking"
         ],
         "why": "Thickens fruit but creates sauce, not true jam.",
-        "notes": "Good for pie fillings and fruit sauces. Not for preserving or true jam texture."
+        "notes": "Good for pie fillings and fruit sauces. Not for preserving or true jam texture.",
+        "science": "<p>Cornstarch thickens through starch gelatinization rather than pectin's mechanism. It creates sauces rather than true jam texture but works for pie fillings.</p>"
       }
     ]
   },
@@ -3070,7 +3156,8 @@
           "baking"
         ],
         "why": "Creates similar binding and elasticity in gluten-free baking.",
-        "notes": "May need more liquid in recipe. Creates good texture in GF breads."
+        "notes": "May need more liquid in recipe. Creates good texture in GF breads.",
+        "science": "<p>Psyllium is a natural fiber that absorbs water and creates viscosity. Use about 2x the amount of xanthan and expect slightly different texture.</p>"
       },
       {
         "name": "Chia Seeds (ground) + Water",
@@ -3080,7 +3167,8 @@
           "baking"
         ],
         "why": "Chia gel provides binding similar to xanthan gum.",
-        "notes": "Let sit until gelled. May add visible specks. Good for GF baking."
+        "notes": "Let sit until gelled. May add visible specks. Good for GF baking.",
+        "science": "<p>Ground chia seeds create a gel when hydrated. Pre-soak them for best results. They provide binding in gluten-free baking similar to xanthan.</p>"
       },
       {
         "name": "Flax Meal + Water",
@@ -3090,7 +3178,8 @@
           "baking"
         ],
         "why": "Flax gel provides binding for gluten-free baking.",
-        "notes": "Adds slight nutty flavor. Good for hearty GF breads."
+        "notes": "Adds slight nutty flavor. Good for hearty GF breads.",
+        "science": "<p>Flax meal creates a mucilaginous gel when mixed with water. Use 1 tbsp flax + 3 tbsp water to replace 1 tsp xanthan for binding properties.</p>"
       },
       {
         "name": "Guar Gum",
@@ -3101,7 +3190,8 @@
           "cooking"
         ],
         "why": "Another plant-based gum with similar thickening properties.",
-        "notes": "Works slightly differently - may need to adjust. Good for cold applications. Less elastic."
+        "notes": "Works slightly differently - may need to adjust. Good for cold applications. Less elastic.",
+        "science": "<p>Guar gum is another galactomannan thickener with similar properties. Use slightly less guar than xanthan\u2014it can become stringy if overused.</p>"
       },
       {
         "name": "Cornstarch (for thickening only)",
@@ -3111,7 +3201,8 @@
           "cooking"
         ],
         "why": "Both thicken, but cornstarch doesn't provide elasticity or binding.",
-        "notes": "Only for thickening sauces, not for GF baking structure."
+        "notes": "Only for thickening sauces, not for GF baking structure.",
+        "science": "<p>Cornstarch thickens through different mechanisms than xanthan and requires heat to activate. It works for sauces but not for cold applications or gluten-free baking structure.</p>"
       }
     ]
   },
@@ -3138,7 +3229,8 @@
           "cooking"
         ],
         "why": "Similar gum with thickening properties. Xanthan is stronger.",
-        "notes": "Xanthan provides more elasticity. Good swap for GF baking."
+        "notes": "Xanthan provides more elasticity. Good swap for GF baking.",
+        "science": "<p>Xanthan and guar are both polysaccharide thickeners. Xanthan is slightly stronger\u2014use about 3/4 the amount when substituting for guar.</p>"
       },
       {
         "name": "Cornstarch (for thickening)",
@@ -3148,7 +3240,8 @@
           "cooking"
         ],
         "why": "Both thicken liquids, though cornstarch requires heat.",
-        "notes": "Cornstarch must be heated. Use for sauces, not cold applications."
+        "notes": "Cornstarch must be heated. Use for sauces, not cold applications.",
+        "science": "<p>Cornstarch requires heat activation while guar works cold. Use more cornstarch and cook it properly to achieve similar thickening power.</p>"
       },
       {
         "name": "Arrowroot",
@@ -3158,7 +3251,8 @@
           "cooking"
         ],
         "why": "Natural thickener with neutral flavor.",
-        "notes": "Requires heating. Good for sauces and gravies."
+        "notes": "Requires heating. Good for sauces and gravies.",
+        "science": "<p>Arrowroot is a root starch that creates clear, glossy thickening. It's heat-activated and works well in fruit sauces and gravies as a guar replacement.</p>"
       }
     ]
   },
@@ -3185,7 +3279,8 @@
           "baking"
         ],
         "why": "Similar texture when ground fine. Lower fat, more neutral flavor.",
-        "notes": "Not nut-free if cross-contamination is a concern. Slightly drier results."
+        "notes": "Not nut-free if cross-contamination is a concern. Slightly drier results.",
+        "science": "<p>Oat flour is lighter than almond flour with different fat content. Use 1:1 but expect different texture\u2014oat flour produces softer, less dense results.</p>"
       },
       {
         "name": "Sunflower Seed Flour",
@@ -3195,7 +3290,8 @@
           "baking"
         ],
         "why": "Similar fat content and texture. Nut-free alternative.",
-        "notes": "May turn green in baked goods due to chlorophyll reacting with baking soda - add 1 tsp lemon juice to prevent."
+        "notes": "May turn green in baked goods due to chlorophyll reacting with baking soda - add 1 tsp lemon juice to prevent.",
+        "science": "<p>Sunflower seed flour is nut-free with similar fat content. Note: it can turn green when reacting with baking soda due to chlorogenic acid\u2014add extra acid to prevent this.</p>"
       },
       {
         "name": "Coconut Flour (use less)",
@@ -3205,7 +3301,8 @@
           "baking"
         ],
         "why": "Coconut flour is VERY absorbent. Requires major recipe adjustment.",
-        "notes": "Very different texture. Add extra eggs and liquid. Results will be denser and more coconut-flavored."
+        "notes": "Very different texture. Add extra eggs and liquid. Results will be denser and more coconut-flavored.",
+        "science": "<p>Coconut flour is extremely absorbent\u2014use only 1/4 cup per cup of almond flour and add extra liquid and eggs. Results will be drier with coconut flavor.</p>"
       },
       {
         "name": "Cashew Flour",
@@ -3215,7 +3312,8 @@
           "baking"
         ],
         "why": "Very similar fat content, texture, and behavior. Another tree nut.",
-        "notes": "Milder, slightly sweeter flavor than almond. Works 1:1 in most recipes."
+        "notes": "Milder, slightly sweeter flavor than almond. Works 1:1 in most recipes.",
+        "science": "<p>Cashew flour has similar fat content and neutral flavor. It's a direct 1:1 substitute that produces comparable texture in baked goods.</p>"
       },
       {
         "name": "All-Purpose Flour (non-GF)",
@@ -3225,7 +3323,8 @@
           "baking"
         ],
         "why": "Different properties entirely - has gluten, less fat, less protein.",
-        "notes": "NOT gluten-free. Reduce butter/oil by 2 tbsp, may need less liquid. Texture will be very different."
+        "notes": "NOT gluten-free. Reduce butter/oil by 2 tbsp, may need less liquid. Texture will be very different.",
+        "science": "<p>AP flour is lighter and creates different textures than almond flour. Use for those without nut allergies who don't need gluten-free; reduce any added fat in the recipe.</p>"
       }
     ]
   },
@@ -3251,7 +3350,8 @@
           "baking"
         ],
         "why": "Almond flour is much less absorbent. Need 4x as much and fewer eggs.",
-        "notes": "Reduce eggs by 1 for every 1/4 cup coconut flour replaced. Different texture - less dense."
+        "notes": "Reduce eggs by 1 for every 1/4 cup coconut flour replaced. Different texture - less dense.",
+        "science": "<p>Almond flour is less absorbent than coconut flour. Use about 4x as much almond flour and reduce eggs and liquid since it doesn't absorb as much moisture.</p>"
       },
       {
         "name": "Cassava Flour",
@@ -3261,7 +3361,8 @@
           "baking"
         ],
         "why": "Both are grain-free. Cassava is less absorbent and more neutral.",
-        "notes": "Adjust liquid - cassava needs much less. Good for those avoiding nuts."
+        "notes": "Adjust liquid - cassava needs much less. Good for those avoiding nuts.",
+        "science": "<p>Cassava flour is a grain-free starch with more neutral absorption. Use about 1.5-2x the amount of coconut flour for similar results.</p>"
       }
     ]
   },
@@ -3287,7 +3388,8 @@
           "baking"
         ],
         "why": "Oat flour IS just ground oats. Blend until powdery.",
-        "notes": "Use certified GF oats if needed. Blend 30-60 seconds until fine powder."
+        "notes": "Use certified GF oats if needed. Blend 30-60 seconds until fine powder.",
+        "science": "<p>Blending rolled oats creates fresh oat flour. Blend until fine and sift out any large pieces for consistent results in baking.</p>"
       },
       {
         "name": "All-Purpose Flour",
@@ -3297,7 +3399,8 @@
           "baking"
         ],
         "why": "Similar protein content. AP flour has gluten, oat flour doesn't.",
-        "notes": "NOT gluten-free. Results will be less tender with more structure."
+        "notes": "NOT gluten-free. Results will be less tender with more structure.",
+        "science": "<p>AP flour can replace oat flour 1:1 but contains gluten and has different nutritional profile. Texture will be less hearty than oat-based baking.</p>"
       },
       {
         "name": "Whole Wheat Flour",
@@ -3307,7 +3410,8 @@
           "baking"
         ],
         "why": "Similar whole-grain heartiness. Whole wheat has gluten.",
-        "notes": "Denser results. May need slightly more liquid. NOT gluten-free."
+        "notes": "Denser results. May need slightly more liquid. NOT gluten-free.",
+        "science": "<p>Whole wheat flour provides similar hearty character to oat flour. Use 1:1 but expect slightly different flavor and denser texture from the bran content.</p>"
       }
     ]
   },
@@ -3407,7 +3511,8 @@
           "cooking"
         ],
         "why": "Very similar texture when blended smooth. Same mild, milky flavor.",
-        "notes": "Blend until completely smooth for ricotta-like texture. Slightly tangier."
+        "notes": "Blend until completely smooth for ricotta-like texture. Slightly tangier.",
+        "science": "<p>Blending cottage cheese breaks down the curds to match ricotta's smoother texture. The flavor is milder\u2014add a splash of cream for richness.</p>"
       },
       {
         "name": "Cream Cheese + Yogurt",
@@ -3418,7 +3523,8 @@
           "cooking"
         ],
         "why": "Creates similar creamy texture. Richer than ricotta.",
-        "notes": "Blend until smooth. Results will be denser and richer."
+        "notes": "Blend until smooth. Results will be denser and richer.",
+        "science": "<p>Cream cheese provides richness while yogurt adds the slight tang of ricotta. Mix until smooth for filling or spreading applications.</p>"
       },
       {
         "name": "Mascarpone",
@@ -3428,7 +3534,8 @@
           "baking"
         ],
         "why": "Similar Italian fresh cheese. Much richer and creamier.",
-        "notes": "Higher fat - better for desserts than savory. Works in cannoli, cheesecakes."
+        "notes": "Higher fat - better for desserts than savory. Works in cannoli, cheesecakes.",
+        "science": "<p>Mascarpone is richer and sweeter than ricotta with a smoother texture. It works in sweet applications but may be too rich for savory dishes.</p>"
       },
       {
         "name": "Silken Tofu (blended)",
@@ -3438,7 +3545,8 @@
           "cooking"
         ],
         "why": "Similar texture when blended. Vegan option.",
-        "notes": "Add salt and lemon for flavor. Works well in lasagna and stuffed shells."
+        "notes": "Add salt and lemon for flavor. Works well in lasagna and stuffed shells.",
+        "science": "<p>Silken tofu blends to a creamy consistency similar to ricotta. Add lemon juice for tang and salt to taste. It's lower in fat with neutral flavor.</p>"
       },
       {
         "name": "Greek Yogurt (drained)",
@@ -3448,7 +3556,8 @@
           "cooking"
         ],
         "why": "Similar creamy texture. More tangy than ricotta.",
-        "notes": "Strain through cheesecloth for thicker texture. Works for dips and lighter dishes."
+        "notes": "Strain through cheesecloth for thicker texture. Works for dips and lighter dishes.",
+        "science": "<p>Draining Greek yogurt overnight creates a thick, tangy substitute. The texture is smoother than ricotta with more pronounced acidity.</p>"
       }
     ]
   },
@@ -3474,7 +3583,8 @@
           "cooking"
         ],
         "why": "Similar tangy flavor profile. Both are common in Mediterranean cooking.",
-        "notes": "Goat cheese is creamier and less salty. Add pinch of salt if needed."
+        "notes": "Goat cheese is creamier and less salty. Add pinch of salt if needed.",
+        "science": "<p>Goat cheese shares feta's tangy flavor from similar fatty acid profiles. It's creamier and doesn't crumble the same way but provides comparable taste.</p>"
       },
       {
         "name": "Cotija",
@@ -3484,7 +3594,8 @@
           "cooking"
         ],
         "why": "Similar salty, crumbly texture. Mexican cheese with comparable function.",
-        "notes": "Less tangy than feta. Good for tacos, salads, grain bowls."
+        "notes": "Less tangy than feta. Good for tacos, salads, grain bowls.",
+        "science": "<p>Cotija is a Mexican cheese with similar saltiness and crumbly texture. It's less tangy than feta but works well as a finishing cheese.</p>"
       },
       {
         "name": "Ricotta Salata",
@@ -3494,7 +3605,8 @@
           "cooking"
         ],
         "why": "Pressed, salted ricotta with similar crumbly texture.",
-        "notes": "Milder and less tangy. Good for salads and pasta."
+        "notes": "Milder and less tangy. Good for salads and pasta.",
+        "science": "<p>Ricotta salata is pressed, salted ricotta with firm, crumbly texture. It's milder than feta but provides similar textural contrast in salads.</p>"
       },
       {
         "name": "Halloumi (different texture)",
@@ -3504,7 +3616,8 @@
           "cooking"
         ],
         "why": "Another brined Mediterranean cheese. Doesn't crumble - holds shape.",
-        "notes": "Won't crumble - cuts into cubes. Best grilled or pan-fried. Squeaky texture."
+        "notes": "Won't crumble - cuts into cubes. Best grilled or pan-fried. Squeaky texture.",
+        "science": "<p>Halloumi is saltier with a squeaky texture and can be grilled. It doesn't crumble like feta but offers similar briny, tangy notes.</p>"
       },
       {
         "name": "Firm Tofu + Lemon + Salt (vegan)",
@@ -3514,7 +3627,8 @@
           "cooking"
         ],
         "why": "Tofu absorbs the tangy, salty brine flavors. Vegan feta.",
-        "notes": "Press tofu first. Marinate 30+ min. Add herbs like oregano for authenticity."
+        "notes": "Press tofu first. Marinate 30+ min. Add herbs like oregano for authenticity.",
+        "science": "<p>Pressing and marinating tofu in lemon juice and salt mimics feta's tangy, salty profile. Add nutritional yeast for cheesy flavor depth.</p>"
       }
     ]
   },
@@ -3541,7 +3655,8 @@
           "cooking"
         ],
         "why": "Very similar cheese - milder, moister version of cheddar.",
-        "notes": "Milder flavor. Melts slightly differently (more smoothly)."
+        "notes": "Milder flavor. Melts slightly differently (more smoothly).",
+        "science": "<p>Colby is milder than cheddar with similar melting properties. It's made with a similar process but washed to reduce acidity, resulting in sweeter flavor.</p>"
       },
       {
         "name": "Gruy\u00e8re",
@@ -3551,7 +3666,8 @@
           "cooking"
         ],
         "why": "Both melt beautifully. Gruy\u00e8re is nuttier and more complex.",
-        "notes": "More expensive. Excellent for mac and cheese, fondue, gratins."
+        "notes": "More expensive. Excellent for mac and cheese, fondue, gratins.",
+        "science": "<p>Gruy\u00e8re has a more complex, nutty flavor than cheddar. It melts beautifully and works in any application where cheddar's sharpness isn't essential.</p>"
       },
       {
         "name": "Gouda",
@@ -3561,7 +3677,8 @@
           "cooking"
         ],
         "why": "Similar melting properties. Slightly sweeter, less sharp.",
-        "notes": "Aged Gouda is closer to sharp cheddar. Young Gouda is milder."
+        "notes": "Aged Gouda is closer to sharp cheddar. Young Gouda is milder.",
+        "science": "<p>Gouda offers similar melting quality with sweeter, more buttery notes. Aged Gouda provides more depth for sharp cheddar replacements.</p>"
       },
       {
         "name": "Monterey Jack",
@@ -3571,7 +3688,8 @@
           "cooking"
         ],
         "why": "Similar texture and melting. Much milder flavor.",
-        "notes": "Good for quesadillas, nachos. Pepper Jack adds heat."
+        "notes": "Good for quesadillas, nachos. Pepper Jack adds heat.",
+        "science": "<p>Monterey Jack is mild and melts well but lacks cheddar's sharpness. It's a good choice when you want melting quality without strong flavor.</p>"
       },
       {
         "name": "American Cheese",
@@ -3581,7 +3699,8 @@
           "cooking"
         ],
         "why": "Designed for smooth melting. Much milder, processed.",
-        "notes": "Only for melting applications (grilled cheese, burgers). Less complex flavor."
+        "notes": "Only for melting applications (grilled cheese, burgers). Less complex flavor.",
+        "science": "<p>American cheese is processed with emulsifiers for superior melting. It lacks cheddar's complexity but provides reliable, smooth melt for burgers and grilled cheese.</p>"
       }
     ]
   },
@@ -3607,7 +3726,8 @@
           "cooking"
         ],
         "why": "Provides savory liquid base. Vegetarian/vegan option.",
-        "notes": "Lighter flavor. Add a splash of soy sauce for more depth."
+        "notes": "Lighter flavor. Add a splash of soy sauce for more depth.",
+        "science": "<p>Vegetable broth provides savory depth without meat. It's lighter than chicken broth\u2014boost umami with a splash of soy sauce or miso if desired.</p>"
       },
       {
         "name": "Beef Broth",
@@ -3617,7 +3737,8 @@
           "cooking"
         ],
         "why": "Both are meat broths with umami depth.",
-        "notes": "Stronger, darker flavor. Better for hearty dishes than delicate ones."
+        "notes": "Stronger, darker flavor. Better for hearty dishes than delicate ones.",
+        "science": "<p>Beef broth is heartier and more robust than chicken broth. It works in any application but will contribute darker color and stronger flavor.</p>"
       },
       {
         "name": "Bouillon Cube + Water",
@@ -3627,7 +3748,8 @@
           "cooking"
         ],
         "why": "Concentrated broth in cube form. Same flavor profile.",
-        "notes": "Can be salty - taste before adding more salt. Good pantry staple."
+        "notes": "Can be salty - taste before adding more salt. Good pantry staple.",
+        "science": "<p>Bouillon cubes are concentrated broth seasoning. They're saltier than regular broth, so adjust other salt in the recipe. Use one cube per cup of water.</p>"
       },
       {
         "name": "Better Than Bouillon",
@@ -3637,7 +3759,8 @@
           "cooking"
         ],
         "why": "Concentrated broth paste. Very close to real broth.",
-        "notes": "Keeps in fridge for months. Adjust amount to taste. Excellent quality."
+        "notes": "Keeps in fridge for months. Adjust amount to taste. Excellent quality.",
+        "science": "<p>Better Than Bouillon is concentrated broth paste with more natural flavor than cubes. Use 1 teaspoon per cup of water for broth-like results.</p>"
       },
       {
         "name": "Water + Soy Sauce + Aromatics",
@@ -3647,7 +3770,8 @@
           "cooking"
         ],
         "why": "Creates simple savory liquid when no broth available.",
-        "notes": "Not as rich but works in a pinch. Add bay leaf or herbs if available."
+        "notes": "Not as rich but works in a pinch. Add bay leaf or herbs if available.",
+        "science": "<p>This quick substitute adds umami (soy sauce) and flavor (aromatics like garlic, ginger, onion). It's not as complex as broth but works in a pinch.</p>"
       }
     ]
   },
@@ -3673,7 +3797,8 @@
           "cooking"
         ],
         "why": "More savory depth. Not vegetarian.",
-        "notes": "Richer flavor. Use when vegetarian isn't required."
+        "notes": "Richer flavor. Use when vegetarian isn't required.",
+        "science": "<p>Chicken broth is richer and more savory than vegetable broth. It works perfectly if vegetarian/vegan requirements aren't a concern.</p>"
       },
       {
         "name": "Mushroom Broth",
@@ -3683,7 +3808,8 @@
           "cooking"
         ],
         "why": "Deep umami from mushrooms. Vegetarian/vegan.",
-        "notes": "More intense flavor. Excellent for risotto, gravies, Asian dishes."
+        "notes": "More intense flavor. Excellent for risotto, gravies, Asian dishes.",
+        "science": "<p>Mushroom broth provides deep umami from glutamates naturally present in mushrooms. It's heartier than vegetable broth and works especially well in earthy dishes.</p>"
       },
       {
         "name": "Water + Miso",
@@ -3693,7 +3819,8 @@
           "cooking"
         ],
         "why": "Miso provides umami and fermented depth. Vegan.",
-        "notes": "Add miso at end of cooking (don't boil). Different but delicious flavor."
+        "notes": "Add miso at end of cooking (don't boil). Different but delicious flavor.",
+        "science": "<p>Miso provides fermented depth and umami to plain water. Use about 1 tablespoon per cup for a quick broth substitute with probiotic benefits.</p>"
       },
       {
         "name": "Homemade: Veggie Scraps",
@@ -3703,7 +3830,8 @@
           "cooking"
         ],
         "why": "Real vegetable broth from scraps. Zero waste, great flavor.",
-        "notes": "Save scraps in freezer until you have enough. Avoid brassicas (cabbage, broccoli) - they get bitter."
+        "notes": "Save scraps in freezer until you have enough. Avoid brassicas (cabbage, broccoli) - they get bitter.",
+        "science": "<p>Simmering vegetable scraps (onion ends, carrot peels, celery leaves) creates flavorful broth. Avoid cruciferous vegetables which can become bitter.</p>"
       }
     ]
   },
@@ -3729,7 +3857,8 @@
           "cooking"
         ],
         "why": "Tomato paste is just concentrated tomato sauce.",
-        "notes": "Simmer sauce until reduced by 2/3. Takes 10-15 minutes."
+        "notes": "Simmer sauce until reduced by 2/3. Takes 10-15 minutes.",
+        "science": "<p>Simmering tomato sauce reduces water content, concentrating flavors to match tomato paste. Use about 3 tbsp sauce to equal 1 tbsp paste.</p>"
       },
       {
         "name": "Canned Crushed Tomatoes (reduced)",
@@ -3739,7 +3868,8 @@
           "cooking"
         ],
         "why": "Same tomato base, just needs concentration through cooking.",
-        "notes": "Strain seeds if desired. Simmer until thick."
+        "notes": "Strain seeds if desired. Simmer until thick.",
+        "science": "<p>Reducing crushed tomatoes concentrates their flavor. Cook down until thick and paste-like, which also deepens flavor through caramelization.</p>"
       },
       {
         "name": "Ketchup (in a pinch)",
@@ -3749,7 +3879,8 @@
           "cooking"
         ],
         "why": "Contains tomato concentrate plus sugar and vinegar.",
-        "notes": "Will add sweetness. Reduce other sugars in recipe. Only for emergencies."
+        "notes": "Will add sweetness. Reduce other sugars in recipe. Only for emergencies.",
+        "science": "<p>Ketchup contains tomato paste plus sugar and vinegar. It works in savory dishes but adds sweetness and tang\u2014reduce other sugars and acids accordingly.</p>"
       },
       {
         "name": "Sun-Dried Tomatoes (blended)",
@@ -3759,7 +3890,8 @@
           "cooking"
         ],
         "why": "Concentrated tomato flavor in dried form.",
-        "notes": "Use oil-packed and drain, or rehydrate dried ones. More intense flavor."
+        "notes": "Use oil-packed and drain, or rehydrate dried ones. More intense flavor.",
+        "science": "<p>Blending rehydrated sun-dried tomatoes creates concentrated tomato flavor. The result is more intense and slightly different but works in sauces and stews.</p>"
       }
     ]
   },
@@ -3915,7 +4047,8 @@
           "cooking"
         ],
         "why": "Similar mild acidity level. Slightly less fruity.",
-        "notes": "Very good substitute. Clean, mild flavor."
+        "notes": "Very good substitute. Clean, mild flavor.",
+        "science": "<p>White wine vinegar has similar acidity with a more neutral, slightly fruity flavor. It works 1:1 in most recipes without significant taste difference.</p>"
       },
       {
         "name": "Rice Vinegar",
@@ -3925,7 +4058,8 @@
           "cooking"
         ],
         "why": "Both are mild vinegars. Rice vinegar is slightly sweeter.",
-        "notes": "Excellent substitute, especially for Asian-fusion dishes."
+        "notes": "Excellent substitute, especially for Asian-fusion dishes.",
+        "science": "<p>Rice vinegar is milder and slightly sweeter than apple cider vinegar. Use it when you want less sharp acidity in dressings or marinades.</p>"
       },
       {
         "name": "Lemon Juice",
@@ -3935,7 +4069,8 @@
           "cooking"
         ],
         "why": "Both are mild acids. Lemon is more citrusy.",
-        "notes": "Adds citrus flavor instead of apple. Good for dressings."
+        "notes": "Adds citrus flavor instead of apple. Good for dressings.",
+        "science": "<p>Lemon juice provides citric acid instead of acetic acid. The flavor differs but the souring effect is similar for dressings and marinades.</p>"
       },
       {
         "name": "Champagne Vinegar",
@@ -3945,7 +4080,8 @@
           "cooking"
         ],
         "why": "Very similar mild, delicate acidity.",
-        "notes": "More expensive but excellent quality substitute."
+        "notes": "More expensive but excellent quality substitute.",
+        "science": "<p>Champagne vinegar is delicate and refined with subtle fruitiness. It's a direct substitute with slightly more elegant flavor notes.</p>"
       }
     ]
   },
@@ -3973,7 +4109,8 @@
           "cooking"
         ],
         "why": "Dried herbs are concentrated - water has evaporated, oils remain.",
-        "notes": "Add dried herbs early in cooking (they need time to rehydrate). Fresh herbs add at end."
+        "notes": "Add dried herbs early in cooking (they need time to rehydrate). Fresh herbs add at end.",
+        "science": "<p>Drying concentrates herb flavors, so use 1/3 the amount of dried. Add dried herbs earlier in cooking to rehydrate and release their oils.</p>"
       },
       {
         "name": "Frozen Herbs",
@@ -3983,7 +4120,8 @@
           "cooking"
         ],
         "why": "Frozen herbs retain most of their fresh flavor.",
-        "notes": "Won't work for garnishing (texture changes). Great for cooking."
+        "notes": "Won't work for garnishing (texture changes). Great for cooking.",
+        "science": "<p>Freezing preserves herbs' fresh flavor and color. Use them directly from frozen in cooked dishes\u2014they become limp but retain flavor.</p>"
       },
       {
         "name": "Herb Paste (in tubes)",
@@ -3993,7 +4131,8 @@
           "cooking"
         ],
         "why": "Concentrated fresh herb flavor in convenient form.",
-        "notes": "Gourmet Garden and similar brands. Good flavor, long fridge life."
+        "notes": "Gourmet Garden and similar brands. Good flavor, long fridge life.",
+        "science": "<p>Herb pastes are fresh herbs blended with oil for preservation. They provide convenient fresh herb flavor with longer shelf life than fresh bunches.</p>"
       }
     ]
   },
@@ -4020,7 +4159,8 @@
           "cooking"
         ],
         "why": "Fresh herbs have more volume but same essential oils when you use more.",
-        "notes": "Add fresh herbs at end of cooking. Much brighter flavor."
+        "notes": "Add fresh herbs at end of cooking. Much brighter flavor.",
+        "science": "<p>Fresh herbs are less concentrated, so use 3x the amount of dried. Add them later in cooking to preserve their volatile oils and bright flavor.</p>"
       },
       {
         "name": "Different Dried Herb (similar flavor family)",
@@ -4030,7 +4170,8 @@
           "cooking"
         ],
         "why": "Some herbs have similar flavor profiles.",
-        "notes": "Oregano \u2194 Marjoram. Thyme \u2194 Savory. Basil \u2194 Oregano (Italian). Cilantro \u2192 Parsley (no swap for cilantro flavor)."
+        "notes": "Oregano \u2194 Marjoram. Thyme \u2194 Savory. Basil \u2194 Oregano (Italian). Cilantro \u2192 Parsley (no swap for cilantro flavor).",
+        "science": "<p>Herbs in the same family share flavor compounds: oregano/marjoram, basil/mint, thyme/savory. Substituting within families maintains similar flavor profiles.</p>"
       }
     ]
   },
@@ -4248,7 +4389,8 @@
           "cooking"
         ],
         "why": "Very similar nutty, complex flavor. The classic Western substitute.",
-        "notes": "Best substitute available. Use dry (fino or amontillado), not sweet sherry."
+        "notes": "Best substitute available. Use dry (fino or amontillado), not sweet sherry.",
+        "science": "<p>Dry sherry is the classic substitute for Shaoxing, sharing its oxidized, nutty character. Cooking sherry works but may be saltier\u2014adjust seasoning accordingly.</p>"
       },
       {
         "name": "Sake",
@@ -4258,7 +4400,8 @@
           "cooking"
         ],
         "why": "Both are rice wines. Sake is cleaner, less complex.",
-        "notes": "Add tiny pinch of sugar to approximate Shaoxing's slight sweetness."
+        "notes": "Add tiny pinch of sugar to approximate Shaoxing's slight sweetness.",
+        "science": "<p>Sake provides similar alcohol content for cooking but is cleaner and less complex than Shaoxing. Add a tiny splash of rice vinegar to approximate Shaoxing's depth.</p>"
       },
       {
         "name": "Mirin",
@@ -4268,7 +4411,8 @@
           "cooking"
         ],
         "why": "Another Asian rice wine. Much sweeter than Shaoxing.",
-        "notes": "Reduce or eliminate other sugars in recipe. Works for marinades."
+        "notes": "Reduce or eliminate other sugars in recipe. Works for marinades.",
+        "science": "<p>Mirin is sweeter than Shaoxing, so reduce other sugars in the recipe. It provides similar rice-based flavor with more pronounced sweetness.</p>"
       },
       {
         "name": "Dry White Wine",
@@ -4278,7 +4422,8 @@
           "cooking"
         ],
         "why": "Provides alcohol for tenderizing, different flavor profile.",
-        "notes": "Missing the nutty depth. Works in a pinch for stir-fries."
+        "notes": "Missing the nutty depth. Works in a pinch for stir-fries.",
+        "science": "<p>Dry white wine lacks Shaoxing's distinctive aged character but provides alcohol for flavor extraction. Add a drop of rice vinegar for closer approximation.</p>"
       },
       {
         "name": "Chicken Broth (non-alcoholic)",
@@ -4288,7 +4433,8 @@
           "cooking"
         ],
         "why": "Provides liquid and some depth without alcohol.",
-        "notes": "Missing the alcohol's tenderizing effect and flavor. Emergency only."
+        "notes": "Missing the alcohol's tenderizing effect and flavor. Emergency only.",
+        "science": "<p>Broth replaces the liquid and adds savory depth without alcohol's flavor-extracting properties. Use for alcohol-free cooking with adjusted flavor expectations.</p>"
       }
     ]
   },
@@ -4314,7 +4460,8 @@
           "cooking"
         ],
         "why": "Both are chili-garlic pastes. Sriracha is slightly sweeter and smoother.",
-        "notes": "Sriracha has more sugar and vinegar. Works well in most applications."
+        "notes": "Sriracha has more sugar and vinegar. Works well in most applications.",
+        "science": "<p>Sriracha is smoother and sweeter than sambal oelek, with garlic already included. It works in similar applications but provides different texture and sweetness.</p>"
       },
       {
         "name": "Gochugaru (Korean Chili Flakes) + Garlic",
@@ -4324,7 +4471,8 @@
           "cooking"
         ],
         "why": "Creates similar chunky chili-garlic paste.",
-        "notes": "Gochugaru is milder - adjust amount for desired heat."
+        "notes": "Gochugaru is milder - adjust amount for desired heat.",
+        "science": "<p>Gochugaru flakes mixed with minced garlic approximate sambal's chunky texture. Add a splash of rice vinegar to match sambal's slight tanginess.</p>"
       },
       {
         "name": "Crushed Red Pepper + Garlic + Vinegar",
@@ -4334,7 +4482,8 @@
           "cooking"
         ],
         "why": "Creates basic chili-garlic paste from pantry staples.",
-        "notes": "Different texture (dry vs wet). Let sit to meld flavors."
+        "notes": "Different texture (dry vs wet). Let sit to meld flavors.",
+        "science": "<p>This DIY sambal combines standard red pepper flakes with fresh garlic and a little vinegar. The texture differs but the flavor profile is similar.</p>"
       },
       {
         "name": "Harissa",
@@ -4344,7 +4493,8 @@
           "cooking"
         ],
         "why": "Both are chili pastes with garlic and spices.",
-        "notes": "Different flavor profile (North African vs Indonesian). More cumin/coriander notes."
+        "notes": "Different flavor profile (North African vs Indonesian). More cumin/coriander notes.",
+        "science": "<p>Harissa is a North African chili paste with different spices (cumin, coriander, caraway). It provides similar heat with a more complex, smokier flavor profile.</p>"
       }
     ]
   },
@@ -4371,7 +4521,8 @@
           "cooking"
         ],
         "why": "Very similar cultured cream. Sour cream is tangier and lower fat.",
-        "notes": "May curdle if boiled (cr\u00e8me fra\u00eeche won't). Add at end of cooking or temper first."
+        "notes": "May curdle if boiled (cr\u00e8me fra\u00eeche won't). Add at end of cooking or temper first.",
+        "science": "<p>Sour cream is tangier and lighter than cr\u00e8me fra\u00eeche. It's an excellent substitute in most applications but may curdle if boiled due to lower fat content.</p>"
       },
       {
         "name": "Heavy Cream + Buttermilk (homemade)",
@@ -4381,7 +4532,8 @@
           "cooking"
         ],
         "why": "This IS how cr\u00e8me fra\u00eeche is made - cream cultured with bacteria.",
-        "notes": "Cover loosely, leave at room temp 12-24 hours until thick. Refrigerate after."
+        "notes": "Cover loosely, leave at room temp 12-24 hours until thick. Refrigerate after.",
+        "science": "<p>Mixing cream with buttermilk and letting it sit at room temperature creates homemade cr\u00e8me fra\u00eeche. The buttermilk's bacteria culture the cream.</p>"
       },
       {
         "name": "Greek Yogurt + Heavy Cream",
@@ -4391,7 +4543,8 @@
           "cooking"
         ],
         "why": "Combines tang of yogurt with richness of cream.",
-        "notes": "More tangy than true cr\u00e8me fra\u00eeche. Good for dolloping."
+        "notes": "More tangy than true cr\u00e8me fra\u00eeche. Good for dolloping.",
+        "science": "<p>Greek yogurt provides tang while cream adds richness. Mix them for a similar flavor profile that works in both sweet and savory applications.</p>"
       },
       {
         "name": "Mascarpone + Lemon Juice",
@@ -4401,7 +4554,8 @@
           "cooking"
         ],
         "why": "Mascarpone has similar richness, lemon adds missing tang.",
-        "notes": "Very rich. Good for desserts and finishing sauces."
+        "notes": "Very rich. Good for desserts and finishing sauces.",
+        "science": "<p>Mascarpone is rich but lacks tang; lemon juice adds the acidity that distinguishes cr\u00e8me fra\u00eeche. The result is smooth and works well in desserts.</p>"
       }
     ]
   },
@@ -4430,7 +4584,8 @@
           "baking"
         ],
         "why": "Similar fat content and texture. Tree nut instead of legume.",
-        "notes": "Milder flavor. Good for those with peanut (not tree nut) allergies."
+        "notes": "Milder flavor. Good for those with peanut (not tree nut) allergies.",
+        "science": "<p>Almond butter has a milder, slightly sweeter flavor than peanut butter. It works 1:1 with similar fat content and consistency.</p>"
       },
       {
         "name": "Cashew Butter",
@@ -4441,7 +4596,8 @@
           "baking"
         ],
         "why": "Very similar creamy texture. Mild, sweet flavor.",
-        "notes": "Sweeter and milder than peanut butter. Excellent in Asian sauces."
+        "notes": "Sweeter and milder than peanut butter. Excellent in Asian sauces.",
+        "science": "<p>Cashew butter is creamier and milder than peanut butter. It blends smoothly into sauces and works well in baking with subtle sweetness.</p>"
       },
       {
         "name": "Sunflower Seed Butter",
@@ -4452,7 +4608,8 @@
           "baking"
         ],
         "why": "Similar texture and fat content. Nut-free and peanut-free.",
-        "notes": "May turn green when baked due to chlorophyll reaction - add 1 tsp lemon juice to batter."
+        "notes": "May turn green when baked due to chlorophyll reaction - add 1 tsp lemon juice to batter.",
+        "science": "<p>Sunflower butter is nut-free with an earthy flavor. Note: it may turn green in baked goods due to chlorogenic acid reacting with baking soda.</p>"
       },
       {
         "name": "Tahini",
@@ -4462,7 +4619,8 @@
           "cooking"
         ],
         "why": "Similar consistency. Sesame flavor instead of peanut.",
-        "notes": "More bitter and savory. Works in Asian sauces, different in baking."
+        "notes": "More bitter and savory. Works in Asian sauces, different in baking.",
+        "science": "<p>Tahini (sesame seed paste) has a more bitter, savory profile than peanut butter. It works in savory applications and some sweets where its distinctive flavor complements.</p>"
       },
       {
         "name": "Soy Nut Butter",
@@ -4473,7 +4631,8 @@
           "baking"
         ],
         "why": "Made from roasted soybeans. Nut-free, similar texture.",
-        "notes": "Closest to peanut butter in flavor. Good for allergies (check soy allergy)."
+        "notes": "Closest to peanut butter in flavor. Good for allergies (check soy allergy).",
+        "science": "<p>Soy nut butter mimics peanut butter's taste and texture while being nut-free. It's made from roasted soybeans and provides similar protein content.</p>"
       }
     ]
   },
@@ -4574,7 +4733,8 @@
           "cooking"
         ],
         "why": "Both are fermented fish products with intense umami.",
-        "notes": "Fish sauce is liquid and saltier. Provides same savory depth."
+        "notes": "Fish sauce is liquid and saltier. Provides same savory depth.",
+        "science": "<p>Fish sauce is liquid fermented fish with intense umami. Use less than anchovy paste (it's stronger) and expect thinner consistency.</p>"
       },
       {
         "name": "Worcestershire Sauce",
@@ -4584,7 +4744,8 @@
           "cooking"
         ],
         "why": "Contains anchovies plus other fermented flavors.",
-        "notes": "More complex flavor with tamarind and molasses. Less fishy."
+        "notes": "More complex flavor with tamarind and molasses. Less fishy.",
+        "science": "<p>Worcestershire contains anchovies plus other ingredients. It provides similar umami with additional complexity from tamarind and spices.</p>"
       },
       {
         "name": "Miso Paste (vegetarian)",
@@ -4594,7 +4755,8 @@
           "cooking"
         ],
         "why": "Provides fermented umami depth without fish.",
-        "notes": "Vegetarian option. Different flavor but similar savory function."
+        "notes": "Vegetarian option. Different flavor but similar savory function.",
+        "science": "<p>Miso offers fermented umami depth without fish. It has different flavor compounds but provides the savory backbone anchovies contribute.</p>"
       },
       {
         "name": "Soy Sauce + Tiny Pinch of Seaweed",
@@ -4604,7 +4766,8 @@
           "cooking"
         ],
         "why": "Soy provides umami, seaweed adds ocean flavor.",
-        "notes": "Vegetarian. Won't taste the same but adds similar depth."
+        "notes": "Vegetarian. Won't taste the same but adds similar depth.",
+        "science": "<p>Soy sauce provides fermented umami while seaweed adds oceanic notes. Together they approximate anchovy's savory-briny contribution.</p>"
       },
       {
         "name": "Capers (for brininess)",
@@ -4614,7 +4777,8 @@
           "cooking"
         ],
         "why": "Provides briny, savory notes without fish.",
-        "notes": "Different flavor - pickled vs fermented. Works for some applications."
+        "notes": "Different flavor - pickled vs fermented. Works for some applications.",
+        "science": "<p>Capers add salty, briny notes similar to anchovies but lack the deep umami. Use with other savory ingredients for comparable flavor impact.</p>"
       }
     ]
   },
@@ -4639,7 +4803,8 @@
           "cooking"
         ],
         "why": "Similar briny, Mediterranean flavor profile.",
-        "notes": "Larger pieces - chop fine. Less tangy than capers."
+        "notes": "Larger pieces - chop fine. Less tangy than capers.",
+        "science": "<p>Green olives share capers' briny, tangy character. Chop them to similar size and expect a slightly different but complementary flavor profile.</p>"
       },
       {
         "name": "Pickled Pepperoncini (chopped)",
@@ -4649,7 +4814,8 @@
           "cooking"
         ],
         "why": "Provides similar briny, pickled bite.",
-        "notes": "Adds mild heat. Different flavor but similar function."
+        "notes": "Adds mild heat. Different flavor but similar function.",
+        "science": "<p>Pepperoncini provide tangy, briny flavor with mild heat. Chopped fine, they add similar pops of flavor to dishes calling for capers.</p>"
       },
       {
         "name": "Dill Pickles (chopped fine)",
@@ -4659,7 +4825,8 @@
           "cooking"
         ],
         "why": "Briny, pickled, tangy - similar flavor notes.",
-        "notes": "Dill flavor will come through. Works in tartar sauce, some salads."
+        "notes": "Dill flavor will come through. Works in tartar sauce, some salads.",
+        "science": "<p>Finely diced dill pickles offer comparable acidity and briny crunch. They work in tartar sauce, salads, and other applications where capers shine.</p>"
       },
       {
         "name": "Lemon Zest + Salt (for brightness)",
@@ -4669,7 +4836,8 @@
           "cooking"
         ],
         "why": "Provides similar bright, punchy accent.",
-        "notes": "Won't have briny flavor but adds similar brightness to dishes."
+        "notes": "Won't have briny flavor but adds similar brightness to dishes.",
+        "science": "<p>When capers provide brightness more than brininess, lemon zest with salt delivers similar pop. It lacks the fermented depth but adds freshness.</p>"
       }
     ]
   },
@@ -4695,7 +4863,8 @@
           "cooking"
         ],
         "why": "Both provide umami and cheesy flavor.",
-        "notes": "Not vegan. Provides similar savory, cheesy depth."
+        "notes": "Not vegan. Provides similar savory, cheesy depth.",
+        "science": "<p>Parmesan provides similar umami and cheesy flavor. It's not vegan but offers the savory, nutty depth nutritional yeast mimics.</p>"
       },
       {
         "name": "Miso Paste",
@@ -4705,7 +4874,8 @@
           "cooking"
         ],
         "why": "Both provide fermented umami depth.",
-        "notes": "Different flavor - more savory than cheesy. Adds saltiness."
+        "notes": "Different flavor - more savory than cheesy. Adds saltiness.",
+        "science": "<p>Miso adds umami depth without the cheesy flavor. It works in savory applications where you need savory depth rather than cheese-like taste.</p>"
       },
       {
         "name": "Soy Sauce + Garlic Powder",
@@ -4715,7 +4885,8 @@
           "cooking"
         ],
         "why": "Creates savory umami flavor.",
-        "notes": "Missing the B-vitamins and cheesy quality. Emergency substitute."
+        "notes": "Missing the B-vitamins and cheesy quality. Emergency substitute.",
+        "science": "<p>This combination provides umami (soy) and savory depth (garlic) without the cheesy notes. Use for general savory enhancement.</p>"
       },
       {
         "name": "Brewer's Yeast",
@@ -4725,7 +4896,8 @@
           "cooking"
         ],
         "why": "Similar product from brewing industry.",
-        "notes": "More bitter taste. Not as pleasant for most applications."
+        "notes": "More bitter taste. Not as pleasant for most applications.",
+        "science": "<p>Brewer's yeast is more bitter than nutritional yeast with a stronger flavor. Use less and expect different taste\u2014it's less pleasant as a direct substitute.</p>"
       }
     ]
   },
@@ -4753,7 +4925,8 @@
           "baking"
         ],
         "why": "Coconut cream IS the thick part of coconut milk that separates.",
-        "notes": "Chill can 24 hours. Scoop only the solid white cream, discard liquid."
+        "notes": "Chill can 24 hours. Scoop only the solid white cream, discard liquid.",
+        "science": "<p>Chilling coconut milk separates the fat from the water. Scooping the thick top layer yields coconut cream with the same richness.</p>"
       },
       {
         "name": "Heavy Cream (not vegan)",
@@ -4763,7 +4936,8 @@
           "cooking"
         ],
         "why": "Similar fat content and richness.",
-        "notes": "Not vegan. Won't have coconut flavor. Works for texture/richness."
+        "notes": "Not vegan. Won't have coconut flavor. Works for texture/richness.",
+        "science": "<p>Heavy cream matches coconut cream's fat content and whips similarly. It lacks coconut flavor but provides the same rich, creamy texture.</p>"
       },
       {
         "name": "Cashew Cream",
@@ -4773,7 +4947,8 @@
           "cooking"
         ],
         "why": "Similar thick, rich texture. Vegan.",
-        "notes": "Blend soaked cashews with less water for thicker cream. Neutral flavor."
+        "notes": "Blend soaked cashews with less water for thicker cream. Neutral flavor.",
+        "science": "<p>Blended soaked cashews create a neutral, rich cream. It's versatile for both sweet and savory applications and has similar fat content to coconut cream.</p>"
       }
     ]
   },
@@ -4799,7 +4974,8 @@
           "cooking"
         ],
         "why": "Sambal is similar chili-garlic base. Sugar adds sriracha's sweetness.",
-        "notes": "Very close substitute. Same brand often makes both."
+        "notes": "Very close substitute. Same brand often makes both.",
+        "science": "<p>Adding sugar to sambal oelek approximates sriracha's sweetness. Blend for smoother texture if desired. This creates similar heat with comparable flavor.</p>"
       },
       {
         "name": "Tabasco + Garlic + Sugar",
@@ -4809,7 +4985,8 @@
           "cooking"
         ],
         "why": "Approximates the heat, garlic, and sweetness.",
-        "notes": "Much thinner consistency. Different heat profile (vinegar-forward)."
+        "notes": "Much thinner consistency. Different heat profile (vinegar-forward).",
+        "science": "<p>Tabasco provides vinegary heat; adding garlic and sugar mimics sriracha's sweet-spicy-garlicky profile. The texture will be thinner.</p>"
       },
       {
         "name": "Gochujang (diluted)",
@@ -4819,7 +4996,8 @@
           "cooking"
         ],
         "why": "Both are sweet-spicy Asian condiments.",
-        "notes": "Different flavor profile - more fermented. Works for marinades."
+        "notes": "Different flavor profile - more fermented. Works for marinades.",
+        "science": "<p>Gochujang is thicker and sweeter than sriracha. Thin it with rice vinegar and add garlic for a similar heat-and-sweet balance with Korean flair.</p>"
       },
       {
         "name": "Cayenne + Garlic + Vinegar + Sugar",
@@ -4829,7 +5007,8 @@
           "cooking"
         ],
         "why": "Builds sriracha flavor from basic ingredients.",
-        "notes": "Mix together. Won't have same texture but captures the flavor."
+        "notes": "Mix together. Won't have same texture but captures the flavor.",
+        "science": "<p>This homemade version uses ground cayenne for heat, fresh garlic for pungency, vinegar for tang, and sugar for balance. Simmer to blend flavors.</p>"
       }
     ]
   },
@@ -4855,7 +5034,8 @@
           "cooking"
         ],
         "why": "Same plant, just processed differently. Similar heat.",
-        "notes": "Milder, more earthy. Used in light-colored dishes where black specks unwanted."
+        "notes": "Milder, more earthy. Used in light-colored dishes where black specks unwanted.",
+        "science": "<p>White pepper is black pepper with the outer layer removed. It's slightly milder with earthy, musty notes and is preferred in light-colored dishes.</p>"
       },
       {
         "name": "Pink Peppercorns",
@@ -4865,7 +5045,8 @@
           "cooking"
         ],
         "why": "Similar pungent quality though technically different plant.",
-        "notes": "Milder, slightly sweet. More decorative than functional."
+        "notes": "Milder, slightly sweet. More decorative than functional.",
+        "science": "<p>Pink peppercorns aren't true pepper\u2014they're from a different plant with milder, slightly sweet flavor. Use for color and gentle heat.</p>"
       },
       {
         "name": "Ground Coriander",
@@ -4875,7 +5056,8 @@
           "cooking"
         ],
         "why": "Provides some warmth and complexity.",
-        "notes": "Very different flavor - citrusy. Use when pepper is not essential."
+        "notes": "Very different flavor - citrusy. Use when pepper is not essential.",
+        "science": "<p>Coriander provides warmth without the same heat as black pepper. It has citrusy, floral notes that complement rather than replace pepper's bite.</p>"
       },
       {
         "name": "Paprika (for color) + Cayenne (for heat)",
@@ -4885,7 +5067,8 @@
           "cooking"
         ],
         "why": "Provides both color and heat element.",
-        "notes": "Very different flavor. Only when black pepper unavailable."
+        "notes": "Very different flavor. Only when black pepper unavailable.",
+        "science": "<p>This combination provides visual speckle (paprika) and heat (cayenne) separately. Adjust cayenne carefully\u2014it's much hotter than black pepper.</p>"
       }
     ]
   }

@@ -52,6 +52,7 @@ function setupEventListeners() {
     // Search
     ingredientSearch.addEventListener('input', handleSearch);
     ingredientSearch.addEventListener('focus', handleSearch);
+    ingredientSearch.addEventListener('click', handleSearch);
 
     // Close dropdown when clicking outside
     document.addEventListener('click', (e) => {
@@ -64,6 +65,7 @@ function setupEventListeners() {
     document.getElementById('back-to-search').addEventListener('click', () => {
         resultsSection.classList.add('hidden');
         searchSection.classList.remove('hidden');
+        document.querySelector('.container').classList.remove('viewing-results');
         ingredientSearch.value = '';
         ingredientSearch.focus();
     });
@@ -174,16 +176,29 @@ function selectIngredient(key) {
     document.getElementById('selected-ingredient').textContent = data.name;
     document.getElementById('ingredient-function').textContent = data.properties.function;
 
-    // Reset to "Baking" tab
-    currentContext = 'baking';
+    // Check which contexts have substitutions
+    const hasBaking = data.substitutions.some(sub => sub.context.includes('baking'));
+    const hasCooking = data.substitutions.some(sub => sub.context.includes('cooking'));
+
+    // Default to baking, but switch if no baking subs available
+    if (hasBaking) {
+        currentContext = 'baking';
+    } else if (hasCooking) {
+        currentContext = 'cooking';
+    } else {
+        currentContext = 'baking'; // fallback
+    }
+
+    // Update tab UI
     document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-    document.querySelector('.tab[data-context="baking"]').classList.add('active');
+    document.querySelector(`.tab[data-context="${currentContext}"]`).classList.add('active');
 
     displaySubstitutions(data);
 
     searchSection.classList.add('hidden');
     resultsSection.classList.remove('hidden');
     searchResults.classList.add('hidden');
+    document.querySelector('.container').classList.add('viewing-results');
 }
 
 // Display substitutions
@@ -242,11 +257,15 @@ function displaySubstitutions(ingredientData) {
                 </div>
                 ${sub.notes ? `<div class="${isWarning ? 'sub-warning' : 'sub-note'}">${sub.notes}</div>` : ''}
                 ${sub.science ? `
-                    <button class="science-toggle" onclick="toggleScience('${cardId}')">
-                        <span class="toggle-icon">▼</span> 🔬 The Science
-                    </button>
-                    <div class="science-content hidden" id="${cardId}">
-                        ${sub.science}
+                    <div class="science-section">
+                        <div class="science-preview" onclick="toggleScience('${cardId}')">
+                            <span class="science-label">🔬 The Science</span>
+                            <span class="science-teaser">${getScienceTeaser(sub.science)}</span>
+                            <span class="toggle-icon" id="icon-${cardId}">▼</span>
+                        </div>
+                        <div class="science-content hidden" id="${cardId}">
+                            ${sub.science}
+                        </div>
                     </div>
                 ` : ''}
                 ${getVoteButtonsHTML(voteId)}
@@ -385,20 +404,28 @@ function getVoteButtonsHTML(voteId) {
     `;
 }
 
+// Get a short teaser from science content
+function getScienceTeaser(science) {
+    // Strip HTML tags and get first ~60 chars
+    const text = science.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+    if (text.length <= 60) return text;
+    return text.substring(0, 60).trim() + '...';
+}
+
 // Toggle science explanation
 function toggleScience(cardId) {
     const content = document.getElementById(cardId);
-    const button = content.previousElementSibling;
-    const icon = button.querySelector('.toggle-icon');
+    const preview = content.previousElementSibling;
+    const icon = document.getElementById('icon-' + cardId);
 
     if (content.classList.contains('hidden')) {
         content.classList.remove('hidden');
         icon.textContent = '▲';
-        button.classList.add('active');
+        preview.classList.add('active');
     } else {
         content.classList.add('hidden');
         icon.textContent = '▼';
-        button.classList.remove('active');
+        preview.classList.remove('active');
     }
 }
 
