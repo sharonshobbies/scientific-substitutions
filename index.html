@@ -111,6 +111,42 @@
         </a>
     </div>
 
+    <!-- Request Substitution Modal -->
+    <div id="request-modal" class="modal hidden">
+        <div class="modal-backdrop" onclick="closeRequestModal()"></div>
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeRequestModal()">×</button>
+            <h2>Request a Substitution</h2>
+            <p class="modal-subtitle">Can't find an ingredient? Let us know what you're looking for!</p>
+            <form id="request-form" onsubmit="submitRequest(event)">
+                <div class="form-group">
+                    <label for="request-ingredient">Ingredient you need to substitute</label>
+                    <input type="text" id="request-ingredient" required maxlength="50" placeholder="Tamarind paste">
+                </div>
+                <div class="form-group">
+                    <label for="request-context">What are you making?</label>
+                    <input type="text" id="request-context" maxlength="100" placeholder="Pad Thai, cookies, etc.">
+                </div>
+                <div class="form-group">
+                    <label for="request-notes">Any additional notes? (optional)</label>
+                    <textarea id="request-notes" rows="3" maxlength="150" placeholder="Dietary restrictions, substitutes you've already tried..."></textarea>
+                </div>
+                <button type="submit" class="submit-btn">Submit Request</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Thank You Modal -->
+    <div id="thank-you-modal" class="modal hidden">
+        <div class="modal-backdrop" onclick="closeThankYouModal()"></div>
+        <div class="modal-content modal-small">
+            <div class="thank-you-icon">🧪</div>
+            <h2>Thank You!</h2>
+            <p>Your substitution request has been submitted.</p>
+            <button class="submit-btn" onclick="closeThankYouModal()">Got it</button>
+        </div>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="app.js"></script>
 </body>

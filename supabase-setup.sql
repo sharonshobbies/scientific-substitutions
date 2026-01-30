@@ -78,3 +78,19 @@ CREATE POLICY "Allow public insert on searches" ON ingredient_searches FOR INSER
 CREATE POLICY "Allow public update on searches" ON ingredient_searches FOR UPDATE USING (true);
 CREATE POLICY "Allow public insert on votes" ON substitution_votes FOR INSERT WITH CHECK (true);
 CREATE POLICY "Allow public update on votes" ON substitution_votes FOR UPDATE USING (true);
+
+-- Table for substitution requests from users
+CREATE TABLE substitution_requests (
+    id SERIAL PRIMARY KEY,
+    ingredient TEXT NOT NULL,
+    context TEXT,
+    notes TEXT,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+    reviewed BOOLEAN DEFAULT FALSE
+);
+
+-- Enable RLS for requests table
+ALTER TABLE substitution_requests ENABLE ROW LEVEL SECURITY;
+
+-- Allow anyone to insert requests (but not read - only you can see them in dashboard)
+CREATE POLICY "Allow public insert on requests" ON substitution_requests FOR INSERT WITH CHECK (true);

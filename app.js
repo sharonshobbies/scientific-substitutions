@@ -41,6 +41,7 @@ const INGREDIENT_DESCRIPTIONS = {
     cheddar: 'Sharp, melty cheese for any dish',
     chicken_broth: 'Savory liquid base for cooking',
     cocoa_powder: 'Pure chocolate flavor for baking',
+    coffee: 'Deep roasted flavor, enhances chocolate',
     coconut_cream: 'Rich dairy-free cream alternative',
     coconut_flour: 'Highly absorbent gluten-free flour',
     coconut_milk_canned: 'Creamy base for curries and desserts',
@@ -239,7 +240,14 @@ function showAllIngredients() {
 // Display search dropdown
 function displaySearchResults(matches, showRecent = false) {
     if (matches.length === 0) {
-        searchResults.innerHTML = '<div class="search-result-item"><span class="name">No ingredients found</span></div>';
+        searchResults.innerHTML = `
+            <div class="no-results-container">
+                <div class="no-results-text">No ingredients found</div>
+                <button class="request-link" onclick="openRequestModal()">
+                    Request a Substitution →
+                </button>
+            </div>
+        `;
         searchResults.classList.remove('hidden');
         return;
     }
@@ -745,6 +753,55 @@ function updateSwapCounter() {
     } else {
         counterEl.classList.add('hidden');
     }
+}
+
+// Request Substitution Modal Functions
+function openRequestModal() {
+    const searchQuery = ingredientSearch.value.trim();
+    document.getElementById('request-ingredient').value = searchQuery;
+    document.getElementById('request-modal').classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+    searchResults.classList.add('hidden');
+}
+
+function closeRequestModal() {
+    document.getElementById('request-modal').classList.add('hidden');
+    document.body.style.overflow = '';
+    document.getElementById('request-form').reset();
+}
+
+function closeThankYouModal() {
+    document.getElementById('thank-you-modal').classList.add('hidden');
+    document.body.style.overflow = '';
+}
+
+async function submitRequest(event) {
+    event.preventDefault();
+
+    const ingredient = document.getElementById('request-ingredient').value.trim();
+    const context = document.getElementById('request-context').value.trim();
+    const notes = document.getElementById('request-notes').value.trim();
+
+    if (!ingredient) return;
+
+    // Save to Supabase
+    if (supabaseClient) {
+        try {
+            await supabaseClient.from('substitution_requests').insert({
+                ingredient: ingredient,
+                context: context || null,
+                notes: notes || null,
+                created_at: new Date().toISOString()
+            });
+        } catch (error) {
+            console.error('Failed to save request:', error);
+        }
+    }
+
+    // Close request modal and show thank you
+    closeRequestModal();
+    document.getElementById('thank-you-modal').classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
 }
 
 // Start

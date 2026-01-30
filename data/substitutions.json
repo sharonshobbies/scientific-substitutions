@@ -5149,5 +5149,90 @@
         "science": "<p>This separates pepper's functions: paprika provides visual speckle; cayenne (capsaicin) provides heat. Different heat mechanism\u2014capsaicin vs piperine.</p><p>Use \u00bc tsp cayenne + \u00bd tsp paprika per tsp black pepper. The heat hits differently (capsaicin burns longer). Works for color and heat but flavor differs.</p>"
       }
     ]
+  },
+  "coffee": {
+    "name": "Coffee",
+    "category": "flavorings",
+    "aliases": [
+      "espresso",
+      "brewed coffee"
+    ],
+    "context": [
+      "baking",
+      "cooking"
+    ],
+    "properties": {
+      "acidity": "moderate (pH 4.5-6)",
+      "function": "adds deep, bitter, roasted flavor; enhances chocolate; provides caffeine"
+    },
+    "substitutions": [
+      {
+        "name": "Instant Espresso Powder",
+        "ratio": "1 tsp espresso powder + 1/4 cup hot water = 1/4 cup brewed coffee",
+        "reliability": "excellent",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Concentrated coffee flavor that dissolves instantly. Ideal for baking where you want intense coffee taste without extra liquid.",
+        "notes": "For recipes calling for brewed coffee, dissolve in hot water. For dry recipes, add powder directly.",
+        "science": "<p>Instant espresso is brewed coffee that's been dehydrated through freeze-drying or spray-drying. This preserves the volatile aromatic compounds (furans, pyrazines) responsible for coffee's complex flavor.</p><p>The concentration means more flavor per gram\u2014essential in baking where too much liquid can affect texture. It also dissolves completely, unlike ground coffee which leaves gritty residue.</p>"
+      },
+      {
+        "name": "Strong Brewed Black Tea",
+        "ratio": "1 cup double-strength black tea = 1 cup coffee",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides tannins, bitterness, and dark color similar to coffee, though flavor profile is distinctly different.",
+        "notes": "Use 2 tea bags or double the loose leaf for stronger brew. Best in chocolate recipes where coffee is used to enhance rather than feature.",
+        "science": "<p>Black tea contains tannins (theaflavins, thearubigins) that provide astringency and bitterness similar to coffee's chlorogenic acids. Both enhance chocolate's flavor through complementary bitter compounds.</p><p>Tea lacks coffee's roasted pyrazines but contributes its own aromatic complexity. The caffeine content is lower (40-70mg vs 95mg per cup).</p>"
+      },
+      {
+        "name": "Chicory Root (Caffeine-Free)",
+        "ratio": "1 tbsp roasted chicory + 1 cup hot water = 1 cup coffee substitute",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Classic coffee substitute with similar roasted, slightly bitter flavor. Naturally caffeine-free.",
+        "notes": "Traditional in New Orleans-style coffee. Has a slightly woody, nutty flavor that's similar but not identical to coffee.",
+        "science": "<p>Roasting chicory root triggers Maillard reactions similar to coffee roasting, producing melanoidins (brown polymers) and aromatic compounds like furans and pyrazines.</p><p>Chicory contains inulin, a prebiotic fiber that adds slight sweetness and body. The roasted flavor comes from caramelization of the root's natural sugars.</p>"
+      },
+      {
+        "name": "Dandelion Root Coffee (Caffeine-Free)",
+        "ratio": "1 tbsp roasted dandelion root + 1 cup hot water = 1 cup coffee substitute",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Earthy, roasted flavor with bitter notes. Completely caffeine-free alternative.",
+        "notes": "More bitter than coffee. Often blended with chicory for better flavor. Available at health food stores.",
+        "science": "<p>Roasted dandelion root develops bitter compounds (taraxacin, sesquiterpene lactones) during roasting. The Maillard reaction creates brown color and roasted aromatics.</p><p>Contains no caffeine but has similar bitter compounds that can satisfy coffee cravings. The root's inulin fiber provides some body to the brew.</p>"
+      },
+      {
+        "name": "Cocoa Powder + Vanilla",
+        "ratio": "2 tbsp cocoa powder + 1/2 tsp vanilla = substitute in baking recipes calling for coffee",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Coffee often enhances chocolate in baking. If avoiding coffee, boosting the chocolate directly achieves similar depth.",
+        "notes": "Only works in chocolate-based recipes. Won't provide coffee flavor but intensifies the chocolate experience coffee would have enhanced.",
+        "science": "<p>Coffee enhances chocolate through complementary bitter compounds\u2014both contain methylxanthines (caffeine, theobromine) and share similar roasted aromatic profiles.</p><p>Adding more cocoa provides extra theobromine and cocoa polyphenols, while vanilla's vanillin compound adds aromatic complexity that partially compensates for missing coffee volatiles.</p>"
+      },
+      {
+        "name": "Carob Powder (Caffeine-Free)",
+        "ratio": "3 tbsp carob powder = 1 tbsp instant coffee (in baking)",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Naturally sweet, caffeine-free powder with mild chocolate-like flavor. Works in recipes where coffee provides background depth.",
+        "notes": "Much sweeter than coffee\u2014reduce other sugars slightly. Flavor is more chocolate-adjacent than coffee-like.",
+        "science": "<p>Carob contains natural sugars (40-50% by weight) plus tannins that provide mild bitterness. The roasted carob develops some Maillard products similar to coffee, though less complex.</p><p>Contains pinitol (a cyclitol sugar) and is naturally caffeine-free. The dark color comes from condensed tannins (proanthocyanidins) that form during roasting.</p>"
+      }
+    ]
   }
 }
