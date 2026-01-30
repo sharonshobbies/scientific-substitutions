@@ -518,7 +518,7 @@ main {
 
 /* Featured Swaps */
 .featured-swaps {
-    margin-top: 32px;
+    margin-top: 48px;
     padding-top: 24px;
     border-top: 1px solid var(--color-border);
 }
@@ -613,14 +613,17 @@ main {
 
 /* Footer */
 footer {
-    padding: 40px 24px;
+    padding: 16px 24px 40px;
     text-align: center;
 }
 
 .swap-counter {
-    margin-top: 12px;
+    position: fixed;
+    bottom: 20px;
+    left: 16px;
     font-size: 0.7rem;
     color: var(--color-text-muted);
+    z-index: 100;
 }
 
 .footer-tagline {
@@ -644,12 +647,14 @@ footer {
     font-size: 0.9rem;
     transition: all 0.2s;
     z-index: 100;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .kofi-link:hover {
     border-color: var(--color-accent);
     color: var(--color-accent);
     background: var(--color-accent-light);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
 }
 
 /* Mobile */
@@ -696,6 +701,10 @@ footer {
     .kofi-link {
         padding: 8px 16px;
         font-size: 0.8rem;
+    }
+
+    .swap-counter {
+        font-size: 0.6rem;
     }
 
     .featured-grid {

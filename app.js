@@ -137,8 +137,27 @@ async function init() {
         renderFeaturedSwaps();
         updateSwapCounter();
         setRandomFooterQuote();
+
+        // Check for ingredient in URL hash and restore state
+        const hash = window.location.hash.slice(1);
+        if (hash && ingredients[hash]) {
+            selectIngredient(hash, true);
+        }
     } catch (error) {
         console.error('Failed to load ingredients:', error);
+    }
+}
+
+// Navigate back to search
+function goToSearch(skipHistory = false) {
+    resultsSection.classList.add('hidden');
+    searchSection.classList.remove('hidden');
+    document.querySelector('.container').classList.remove('viewing-results');
+    ingredientSearch.value = '';
+    selectedIngredient = null;
+
+    if (!skipHistory) {
+        history.pushState(null, '', window.location.pathname);
     }
 }
 
@@ -166,11 +185,17 @@ function setupEventListeners() {
 
     // Back button
     document.getElementById('back-to-search').addEventListener('click', () => {
-        resultsSection.classList.add('hidden');
-        searchSection.classList.remove('hidden');
-        document.querySelector('.container').classList.remove('viewing-results');
-        ingredientSearch.value = '';
-        ingredientSearch.focus();
+        goToSearch();
+    });
+
+    // Handle browser back/forward buttons
+    window.addEventListener('popstate', () => {
+        const hash = window.location.hash.slice(1);
+        if (hash && ingredients[hash]) {
+            selectIngredient(hash, true);
+        } else {
+            goToSearch(true);
+        }
     });
 
     // Context tabs
@@ -268,9 +293,14 @@ function displaySearchResults(matches, showRecent = false) {
 }
 
 // Select ingredient
-function selectIngredient(key) {
+function selectIngredient(key, skipHistory = false) {
     selectedIngredient = key;
     const data = ingredients[key];
+
+    // Update URL hash for persistence
+    if (!skipHistory) {
+        window.location.hash = key;
+    }
 
     // Track this search for popularity and personal history
     trackSearch(key);
@@ -379,22 +409,63 @@ function displaySubstitutions(ingredientData) {
     resultsContainer.innerHTML = html;
 }
 
-// Format category
+// Category emoji mapping
+const CATEGORY_EMOJIS = {
+    dairy: '🥛',
+    leavening: '🫧',
+    eggs: '🥚',
+    fats: '🧈',
+    sweeteners: '🍯',
+    acids: '🍋',
+    thickeners: '🥣',
+    asian: '🥢',
+    alcohol: '🍷',
+    flour: '🌾',
+    chocolate: '🍫',
+    condiments: '🫙',
+    cheese: '🧀',
+    pantry: '🥫',
+    broth: '🍲',
+    vegan: '🌱',
+    nut_butters: '🥫',
+    seasonings: '🌿',
+    herbs: '🌿',
+    aromatics: '🌿',
+    flavorings: '🌿',
+    spices: '🌿'
+};
+
+// Get just the emoji for a category
+function getCategoryEmoji(category) {
+    return CATEGORY_EMOJIS[category] || '';
+}
+
+// Format category with emoji
 function formatCategory(category) {
     const categories = {
-        dairy: 'Dairy',
-        leavening: 'Leavening',
-        eggs: 'Eggs',
-        fats: 'Fats & Oils',
-        sweeteners: 'Sweeteners',
-        acids: 'Acids',
-        thickeners: 'Thickeners',
-        asian: 'Asian',
-        alcohol: 'Cooking Alcohol',
-        flour: 'Flour',
-        chocolate: 'Chocolate',
-        condiments: 'Condiments',
-        flavorings: 'Flavorings'
+        dairy: 'Dairy 🥛',
+        leavening: 'Leavening 🫧',
+        eggs: 'Eggs 🥚',
+        fats: 'Fats & Oils 🧈',
+        sweeteners: 'Sweeteners 🍯',
+        acids: 'Acids 🍋',
+        thickeners: 'Thickeners 🥣',
+        asian: 'Asian 🥢',
+        alcohol: 'Cooking Wine 🍷',
+        flour: 'Flour 🌾',
+        chocolate: 'Chocolate 🍫',
+        condiments: 'Condiments 🫙',
+        cheese: 'Cheese 🧀',
+        pantry: 'Pantry 🥫',
+        broth: 'Broth 🍲',
+        vegan: 'Vegan 🌱',
+        nut_butters: 'Pantry 🥫',
+        // Consolidated into Seasonings
+        seasonings: 'Seasonings 🌿',
+        herbs: 'Seasonings 🌿',
+        aromatics: 'Seasonings 🌿',
+        flavorings: 'Seasonings 🌿',
+        spices: 'Seasonings 🌿'
     };
     return categories[category] || category;
 }
@@ -641,11 +712,12 @@ function renderFeaturedSwaps() {
         const topSub = ingredient.substitutions?.[0];
         const topSubName = topSub?.name || 'alternatives';
         const description = INGREDIENT_DESCRIPTIONS[key] || ingredient.properties?.function || '';
+        const categoryEmoji = getCategoryEmoji(ingredient.category);
 
         return `
             <button class="swap-card" data-key="${key}" tabindex="0" aria-label="View ${ingredient.name} substitutions">
                 <span class="swap-card-swap">
-                    ${ingredient.name}<span class="swap-card-arrow">→</span>${topSubName}
+                    ${categoryEmoji} ${ingredient.name}<span class="swap-card-arrow">→</span>${topSubName}
                 </span>
                 <span class="swap-card-description">${description}</span>
             </button>
