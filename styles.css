@@ -614,6 +614,25 @@ footer {
     letter-spacing: 0.01em;
 }
 
+.kofi-link {
+    display: inline-block;
+    margin-top: 16px;
+    padding: 10px 20px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 100px;
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+}
+
+.kofi-link:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+    background: var(--color-accent-light);
+}
+
 /* Mobile */
 @media (max-width: 500px) {
     header {
