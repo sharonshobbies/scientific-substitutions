@@ -72,6 +72,29 @@
         "why": "Kefir is also a cultured dairy product with similar acidity, thickness, and tangy flavor.",
         "notes": "Excellent 1:1 substitute. Slightly thinner than buttermilk but same chemistry.",
         "science": "<p>Kefir is fermented by a symbiotic culture of bacteria AND yeasts (SCOBY), producing lactic acid, acetic acid, and CO\u2082. Its pH of 4.2-4.6 closely matches buttermilk.</p><p>The diverse microorganism population creates a more complex flavor profile with additional organic acids (propionic, butyric) and B-vitamins from yeast metabolism.</p>"
+      },
+      {
+        "name": "Soy Milk + Lemon Juice (Vegan)",
+        "ratio": "1 cup soy milk + 1 tablespoon lemon juice, let sit 10 minutes",
+        "reliability": "good",
+        "context": [
+          "baking",
+          "cooking"
+        ],
+        "why": "Soy milk's protein structure curdles with acid similarly to dairy milk, creating comparable acidity and texture.",
+        "notes": "Soy milk works better than other plant milks because its proteins coagulate. Use unsweetened, unflavored soy milk.",
+        "science": "<p>Soy milk contains 7S and 11S globulin proteins that denature and coagulate when exposed to acid, similar to casein in dairy. This creates visible curdling and thickening.</p><p>The resulting pH of ~4.5-5.0 provides enough acidity to activate baking soda (NaHCO\u2083 + H\u207a \u2192 Na\u207a + H\u2082O + CO\u2082). Unlike dairy buttermilk, it lacks the complex flavor compounds from bacterial fermentation, but the chemistry for leavening works.</p>"
+      },
+      {
+        "name": "Oat Milk + Apple Cider Vinegar (Vegan)",
+        "ratio": "1 cup oat milk + 1 tablespoon apple cider vinegar, let sit 5 minutes",
+        "reliability": "fair",
+        "context": [
+          "baking"
+        ],
+        "why": "Provides acidity for leavening reactions. Oat milk's natural sweetness complements baked goods.",
+        "notes": "Won't curdle visibly like dairy or soy milk, but the acidity still works for baking. Best for recipes where buttermilk flavor isn't central.",
+        "science": "<p>Oat milk lacks the protein structure to coagulate, so it won't thicken or curdle visibly. However, the acetic acid still lowers the pH enough to react with baking soda for leavening.</p><p>Oat milk's beta-glucan fiber adds some viscosity and moisture retention, which helps in baked goods. The neutral-sweet flavor works well in pancakes, muffins, and quick breads.</p>"
       }
     ]
   },
@@ -1491,6 +1514,17 @@
         "why": "Will work but produces slightly different texture due to higher protein.",
         "notes": "Results will be slightly denser and less tender. Mix less to reduce gluten development.",
         "science": "<p>Using AP flour (10-12% protein) instead of cake flour (7-8%) means more gluten development. Gluten network: glutenin provides elasticity, gliadin provides extensibility.</p><p>Results will be slightly denser and chewier. To compensate, reduce mixing time (limits gluten development) and consider adding 1 tbsp extra fat (coats proteins, limiting gluten formation). Still works but with textural differences.</p>"
+      },
+      {
+        "name": "Rice Flour + Tapioca Starch (Gluten-Free)",
+        "ratio": "\u00be cup rice flour + \u00bc cup tapioca starch = 1 cup cake flour",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Rice flour provides structure while tapioca starch adds lightness and helps with browning, mimicking cake flour's tender results.",
+        "notes": "Add \u00bd tsp xanthan gum per cup if your recipe doesn't already include a binder. Works well for vanilla cakes, cupcakes, and tender cookies.",
+        "science": "<p>Cake flour's tenderness comes from low protein content (7-8%). Rice flour has similarly low protein (~6%), making it naturally suited for tender GF cakes.</p><p>Tapioca starch (from cassava root) contributes chewiness through its amylopectin content, which gelatinizes to create a slightly elastic texture. It also promotes Maillard browning, giving GF cakes better color.</p><p>The combination creates a lighter crumb than rice flour alone, which can be gritty. Superfine rice flour yields the best results.</p>"
       }
     ]
   },
@@ -1530,6 +1564,17 @@
         "why": "AP flour can make bread, just with slightly less chew and rise.",
         "notes": "Results will be acceptable but less chewy. Fine for home bread baking.",
         "science": "<p>AP flour's lower protein (10-12% vs 12-14%) creates less gluten. The resulting bread will have softer crumb, less chew, and potentially less volume.</p><p>For some breads (focaccia, ciabatta), this is acceptable. For bagels or high-hydration breads requiring strong gluten, AP flour is less ideal. Consider longer autolyse (30-60 min) to develop more gluten from available proteins.</p>"
+      },
+      {
+        "name": "Gluten-Free Bread Flour Blend",
+        "ratio": "1 cup GF bread flour blend = 1 cup bread flour (use with xanthan gum if not included)",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Commercial GF bread flour blends combine starches and binding agents to mimic gluten's structure-building properties.",
+        "notes": "Look for blends containing xanthan gum or psyllium husk. Results will be denser than wheat bread. Requires different hydration\u2014GF doughs are often wetter.",
+        "science": "<p>Gluten-free bread relies on alternative structure-builders: xanthan gum and psyllium husk form viscous gels that trap CO\u2082 from yeast fermentation, mimicking gluten's gas-retention ability.</p><p>Most GF bread blends combine rice flour (neutral flavor), tapioca starch (chewiness and browning), and potato starch (moisture retention). The starches gelatinize during baking, creating structure.</p><p>Psyllium husk is particularly effective\u2014its mucilage forms an elastic network when hydrated, improving crumb structure and reducing the crumbly texture common in GF breads.</p>"
       }
     ]
   },
@@ -1567,6 +1612,17 @@
         "why": "For more tender results like Southern-style biscuits.",
         "notes": "Results will be more tender and delicate. Traditional for fluffy biscuits.",
         "science": "<p>Using cake flour (7-8% protein) creates even more tender results than standard self-rising flour (made from AP flour at 10-12% protein).</p><p>Add 1\u00bd tsp baking powder + \u00bc tsp salt per cup cake flour. The combination produces exceptionally light biscuits and scones\u2014lower gluten development + chemical leavening = maximum tenderness and lift.</p>"
+      },
+      {
+        "name": "Gluten-Free Flour Blend + Baking Powder + Salt",
+        "ratio": "1 cup GF flour blend + 1\u00bd tsp baking powder + \u00bc tsp salt = 1 cup self-rising flour",
+        "reliability": "good",
+        "context": [
+          "baking"
+        ],
+        "why": "Creates GF self-rising flour by adding leavening and salt to a gluten-free base, same principle as regular self-rising flour.",
+        "notes": "Use a GF blend that contains xanthan gum for better structure. Best for biscuits, pancakes, and quick breads where tender texture is desired.",
+        "science": "<p>Self-rising flour is simply flour + baking powder + salt. The same formula works with gluten-free flour blends.</p><p>Baking powder (sodium bicarbonate + acid salt) provides double-acting leavening: first when moistened, then when heated. In GF baking, this lift is crucial since there's no gluten network to trap gases.</p><p>Most GF blends include xanthan gum (0.5-1%) which provides viscosity to trap the CO\u2082 bubbles, preventing the flat, dense results common in GF quick breads.</p>"
       }
     ]
   },
@@ -3701,6 +3757,17 @@
         "why": "Designed for smooth melting. Much milder, processed.",
         "notes": "Only for melting applications (grilled cheese, burgers). Less complex flavor.",
         "science": "<p>American cheese is processed cheese: cheddar + emulsifiers (sodium citrate, sodium phosphate). The emulsifiers create perfect melting through casein protein modification.</p><p>The emulsifiers prevent fat separation during heating\u2014why it melts so smoothly. Flavor is milder than cheddar. Ideal for burgers and grilled cheese where melt quality matters more than cheese complexity.</p>"
+      },
+      {
+        "name": "Vegan Cheddar (Dairy-Free)",
+        "ratio": "1:1 substitution",
+        "reliability": "fair",
+        "context": [
+          "cooking"
+        ],
+        "why": "Modern vegan cheddars use cashews, coconut oil, and starches to approximate melting behavior and tangy flavor.",
+        "notes": "Quality varies widely by brand. Best for melting in sauces, nachos, or grilled cheese. May not work well in recipes requiring sharp aged cheddar flavor.",
+        "science": "<p>Vegan cheddar typically combines coconut oil (for meltability), tapioca or potato starch (for stretch), and cashews or nutritional yeast (for savory flavor).</p><p>The melting behavior comes from the starches gelatinizing when heated\u2014tapioca starch creates that characteristic stretch. Coconut oil's low melting point (24\u00b0C/76\u00b0F) allows it to soften at similar temperatures to dairy fat.</p><p>Nutritional yeast provides glutamic acid, the same compound responsible for Parmesan's umami, giving a cheesy flavor without dairy.</p>"
       }
     ]
   },
@@ -4556,6 +4623,17 @@
         "why": "Mascarpone has similar richness, lemon adds missing tang.",
         "notes": "Very rich. Good for desserts and finishing sauces.",
         "science": "<p>Mascarpone is ~45% fat Italian cream cheese\u2014rich but lacking cr\u00e8me fra\u00eeche's tang. Lemon juice (citric acid) adds acidity.</p><p>Mix 1 cup mascarpone + 1 tbsp lemon juice. The texture is smoother than cr\u00e8me fra\u00eeche. Works well in desserts and sauces where slight citrus note complements.</p>"
+      },
+      {
+        "name": "Coconut Cream + Lemon Juice (Vegan)",
+        "ratio": "1 cup coconut cream + 1 teaspoon lemon juice",
+        "reliability": "good",
+        "context": [
+          "cooking"
+        ],
+        "why": "Coconut cream provides similar richness and fat content. Lemon juice adds the characteristic tang.",
+        "notes": "Use full-fat coconut cream (the thick part from chilled canned coconut milk). Best for sauces, soups, and dolloping\u2014not ideal for baking.",
+        "science": "<p>Coconut cream is approximately 24% fat, close to cr\u00e8me fra\u00eeche's 28-30%. This high fat content provides the rich mouthfeel and ability to be stirred into hot dishes without curdling.</p><p>The saturated fats in coconut (mainly lauric and myristic acids) remain stable at cooking temperatures. Adding lemon juice (citric acid) provides the tangy flavor profile characteristic of cultured dairy products.</p>"
       }
     ]
   },

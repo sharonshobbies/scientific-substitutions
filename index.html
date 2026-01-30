@@ -3,11 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scientific Substitutions</title>
+    <title>Scientific Substitutions | Ingredient Swaps Backed by Food Science</title>
+    <meta name="description" content="Find the perfect ingredient substitution for any recipe. Scientific explanations for why each swap works in baking and cooking. Buttermilk, eggs, butter, and 100+ ingredients covered.">
+    <meta name="keywords" content="ingredient substitution, recipe substitutes, baking substitutes, cooking substitutes, food science, buttermilk substitute, egg substitute, butter substitute">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://scientific-substitutions.vercel.app/">
+    <meta property="og:title" content="Scientific Substitutions | Ingredient Swaps Backed by Food Science">
+    <meta property="og:description" content="Find the perfect ingredient substitution for any recipe. Learn why each swap works with real food science.">
+    <meta property="og:image" content="https://scientific-substitutions.vercel.app/favicon.png">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Scientific Substitutions | Ingredient Swaps Backed by Food Science">
+    <meta name="twitter:description" content="Find the perfect ingredient substitution for any recipe. Learn why each swap works with real food science.">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://scientific-substitutions.vercel.app/">
+
+    <link rel="icon" type="image/png" href="favicon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Scientific Substitutions",
+        "description": "Find scientifically-accurate ingredient substitutions for cooking and baking",
+        "url": "https://scientific-substitutions.vercel.app/",
+        "applicationCategory": "Food & Drink",
+        "operatingSystem": "Any",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        }
+    }
+    </script>
 </head>
 <body>
     <div class="container">
@@ -30,11 +67,14 @@
                     <div id="search-results" class="search-results hidden"></div>
                 </div>
 
-                <!-- Popular Swaps -->
-                <div id="popular-swaps" class="popular-swaps hidden">
-                    <h3 class="popular-title">Popular Swaps</h3>
-                    <div id="popular-list" class="popular-list"></div>
-                </div>
+                <!-- Featured Swaps -->
+                <section class="featured-swaps" id="featured-swaps">
+                    <div class="featured-header">
+                        <h2 class="featured-title">Popular Swaps</h2>
+                        <p class="featured-subtitle">The most searched ingredient replacements</p>
+                    </div>
+                    <div class="featured-grid" id="featured-grid"></div>
+                </section>
             </section>
 
             <!-- Results Section -->
@@ -63,7 +103,7 @@
         <footer>
             <p class="footer-tagline"><em>Cooking is chemistry. And chemistry is life.</em></p>
             <div id="swap-counter" class="swap-counter hidden">
-                <span id="counter-number">0</span> substitutions searched
+                <span id="counter-number">0</span> happy substitutions
             </div>
         </footer>
         <a href="https://ko-fi.com/sharonshobbies" target="_blank" rel="noopener" class="kofi-link">

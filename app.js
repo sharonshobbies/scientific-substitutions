@@ -15,6 +15,101 @@ let globalStats = { searches: {}, votes: {}, totalSearches: 0 };
 const USER_VOTES_KEY = 'scientificSubstitutions_userVotes';
 const USER_HISTORY_KEY = 'scientificSubstitutions_history';
 
+// Footer quotes (randomly selected on each page load)
+const FOOTER_QUOTES = [
+    "The kitchen is a laboratory where science creates art.",
+    "Cooking is chemistry. And chemistry is life.",
+    "Cooking isn't magic, it's just chemistry, thermal dynamics, and a little art."
+];
+
+// Ingredient descriptions for Popular Swaps display
+const INGREDIENT_DESCRIPTIONS = {
+    all_purpose_flour: 'The base of most baked goods',
+    almond_flour: 'Gluten-free, low-carb alternative',
+    anchovy_paste: 'Umami depth in sauces and dressings',
+    apple_cider_vinegar: 'Tangy acid for dressings and baking',
+    baking_powder: 'Chemical leavening for quick breads',
+    baking_soda: 'Activates with acid for rise',
+    balsamic_vinegar: 'Rich, sweet-tangy finishing acid',
+    black_pepper: 'Essential aromatic heat',
+    bread_flour: 'High-protein for chewy breads',
+    brown_sugar: 'Molasses-rich sweetness and moisture',
+    butter: 'The gold standard of baking fats',
+    buttermilk: 'Tangy dairy for tender baked goods',
+    cake_flour: 'Low-protein for delicate crumb',
+    capers: 'Briny pop in Mediterranean dishes',
+    cheddar: 'Sharp, melty cheese for any dish',
+    chicken_broth: 'Savory liquid base for cooking',
+    cocoa_powder: 'Pure chocolate flavor for baking',
+    coconut_cream: 'Rich dairy-free cream alternative',
+    coconut_flour: 'Highly absorbent gluten-free flour',
+    coconut_milk_canned: 'Creamy base for curries and desserts',
+    cornstarch: 'Silky thickener for sauces',
+    cream_cheese: 'Tangy spread and baking essential',
+    cream_of_tartar: 'Stabilizes egg whites and activates soda',
+    creme_fraiche: 'Rich, tangy French cream',
+    dijon_mustard: 'Sharp, smooth emulsifier',
+    dried_herbs: 'Concentrated flavor for slow cooking',
+    egg_whites: 'Protein for structure and foam',
+    egg_yolks: 'Rich emulsifier and thickener',
+    eggs: 'Binding, leavening, and structure',
+    evaporated_milk: 'Concentrated milk for richness',
+    feta: 'Salty, crumbly Greek cheese',
+    fish_sauce: 'Funky umami bomb',
+    fresh_garlic: 'Aromatic foundation flavor',
+    fresh_ginger: 'Bright, spicy warmth',
+    fresh_herbs: 'Bright finishing flavors',
+    gelatin: 'Sets liquids into gels',
+    gochujang: 'Korean fermented chili paste',
+    guar_gum: 'Gluten-free binding and thickening',
+    half_and_half: 'Light cream for coffee and cooking',
+    heavy_cream: 'Rich fat for whipping and sauces',
+    hoisin_sauce: 'Sweet-savory Chinese glaze',
+    honey: 'Natural liquid sweetener',
+    lard: 'Traditional fat for flaky pastry',
+    lemon_juice: 'Bright acid and freshness',
+    maple_syrup: 'Complex natural sweetness',
+    milk: 'Essential liquid dairy',
+    mirin: 'Sweet Japanese rice wine',
+    miso: 'Fermented umami paste',
+    molasses: 'Deep, bittersweet syrup',
+    nutritional_yeast: 'Cheesy vegan seasoning',
+    oat_flour: 'Hearty whole grain flour',
+    oyster_sauce: 'Rich, briny Chinese sauce',
+    parmesan: 'Sharp, nutty aged cheese',
+    peanut_butter: 'Creamy nut spread',
+    pectin: 'Natural fruit-based gelling',
+    powdered_sugar: 'Fine sugar for frostings',
+    red_wine: 'Depth for braises and sauces',
+    rice_vinegar: 'Mild Asian cooking acid',
+    ricotta: 'Creamy, mild fresh cheese',
+    sake: 'Japanese rice wine for cooking',
+    sambal_oelek: 'Pure chili paste heat',
+    self_rising_flour: 'Pre-mixed with leavening',
+    semisweet_chocolate: 'Balanced sweet chocolate',
+    sesame_oil: 'Nutty Asian finishing oil',
+    shaoxing_wine: 'Chinese cooking wine',
+    shortening: 'Neutral fat for flaky texture',
+    sour_cream: 'Tangy cultured dairy',
+    soy_sauce: 'Salty umami essential',
+    sriracha: 'Garlicky hot sauce',
+    sweetened_condensed_milk: 'Thick, sweet milk for desserts',
+    tahini: 'Creamy sesame seed paste',
+    tomato_paste: 'Concentrated tomato umami',
+    unsweetened_chocolate: 'Pure cacao for baking',
+    vanilla_extract: 'Warm, sweet aromatic',
+    vegetable_broth: 'Savory plant-based liquid',
+    white_sugar: 'Pure sweetness and structure',
+    white_wine: 'Bright acid for deglazing',
+    worcestershire_sauce: 'Complex savory seasoning',
+    xanthan_gum: 'Powerful gluten-free binder',
+    yeast: 'Living leavening for bread',
+    yogurt: 'Tangy cultured dairy'
+};
+
+// Default featured swaps (shown when no search data exists)
+const DEFAULT_FEATURED = ['butter', 'eggs', 'buttermilk', 'all_purpose_flour'];
+
 // DOM Elements
 const searchSection = document.getElementById('search-section');
 const resultsSection = document.getElementById('results-section');
@@ -39,11 +134,19 @@ async function init() {
             await loadGlobalStats();
         }
 
-        updatePopularSwaps();
+        renderFeaturedSwaps();
         updateSwapCounter();
-        ingredientSearch.focus();
+        setRandomFooterQuote();
     } catch (error) {
         console.error('Failed to load ingredients:', error);
+    }
+}
+
+function setRandomFooterQuote() {
+    const tagline = document.querySelector('.footer-tagline');
+    if (tagline) {
+        const randomQuote = FOOTER_QUOTES[Math.floor(Math.random() * FOOTER_QUOTES.length)];
+        tagline.innerHTML = `<em>${randomQuote}</em>`;
     }
 }
 
@@ -347,7 +450,7 @@ async function handleVote(voteId, voteType) {
     // Sync to Supabase
     if (supabaseClient) {
         try {
-            await supabaseClientClient.rpc('update_vote', {
+            await supabaseClient.rpc('update_vote', {
                 vote_id_param: voteId,
                 vote_type: voteType,
                 action: action,
@@ -489,8 +592,8 @@ async function loadGlobalStats() {
             });
         }
 
-        updatePopularSwaps();
         updateSwapCounter();
+        renderFeaturedSwaps();
     } catch (error) {
         console.error('Failed to load global stats:', error);
     }
@@ -500,17 +603,64 @@ async function trackSearch(ingredientKey) {
     // Update local state immediately for responsive UI
     globalStats.searches[ingredientKey] = (globalStats.searches[ingredientKey] || 0) + 1;
     globalStats.totalSearches++;
-    updatePopularSwaps();
     updateSwapCounter();
+    renderFeaturedSwaps();
 
     // Sync to Supabase
     if (supabaseClient) {
         try {
-            await supabaseClientClient.rpc('increment_search', { ingredient: ingredientKey });
+            await supabaseClient.rpc('increment_search', { ingredient: ingredientKey });
         } catch (error) {
             console.error('Failed to track search:', error);
         }
     }
+}
+
+function renderFeaturedSwaps() {
+    const grid = document.getElementById('featured-grid');
+    if (!grid) return;
+
+    // Get top 4 most searched ingredients from global stats
+    let topIngredients = Object.entries(globalStats.searches)
+        .filter(([key]) => ingredients[key]) // Only include valid ingredients
+        .sort((a, b) => b[1] - a[1]) // Sort by count descending
+        .slice(0, 4)
+        .map(([key]) => key);
+
+    // Fall back to defaults if not enough search data
+    if (topIngredients.length < 4) {
+        const remaining = DEFAULT_FEATURED.filter(key => !topIngredients.includes(key));
+        topIngredients = [...topIngredients, ...remaining].slice(0, 4);
+    }
+
+    grid.innerHTML = topIngredients.map(key => {
+        const ingredient = ingredients[key];
+        if (!ingredient) return '';
+
+        // Get the top substitution for this ingredient
+        const topSub = ingredient.substitutions?.[0];
+        const topSubName = topSub?.name || 'alternatives';
+        const description = INGREDIENT_DESCRIPTIONS[key] || ingredient.properties?.function || '';
+
+        return `
+            <button class="swap-card" data-key="${key}" tabindex="0" aria-label="View ${ingredient.name} substitutions">
+                <span class="swap-card-swap">
+                    ${ingredient.name}<span class="swap-card-arrow">→</span>${topSubName}
+                </span>
+                <span class="swap-card-description">${description}</span>
+            </button>
+        `;
+    }).join('');
+
+    // Add click handlers
+    grid.querySelectorAll('.swap-card').forEach(card => {
+        card.addEventListener('click', () => {
+            const ingredientKey = card.dataset.key;
+            if (ingredients[ingredientKey]) {
+                selectIngredient(ingredientKey);
+            }
+        });
+    });
 }
 
 function updateSwapCounter() {
@@ -523,46 +673,6 @@ function updateSwapCounter() {
     } else {
         counterEl.classList.add('hidden');
     }
-}
-
-function updatePopularSwaps() {
-    const popularSection = document.getElementById('popular-swaps');
-    const popularList = document.getElementById('popular-list');
-
-    // Get top 6 most searched ingredients
-    const sorted = Object.entries(globalStats.searches)
-        .filter(([key]) => ingredients[key])
-        .sort((a, b) => b[1] - a[1])
-        .slice(0, 6);
-
-    if (sorted.length === 0) {
-        popularSection.classList.add('hidden');
-        return;
-    }
-
-    popularSection.classList.remove('hidden');
-
-    popularList.innerHTML = sorted.map(([key, count]) => {
-        const data = ingredients[key];
-        return `
-            <div class="popular-item" data-key="${key}">
-                <div class="popular-item-info">
-                    <span class="item-name">${data.name}</span>
-                    <span class="item-meta">${formatCategory(data.category)}</span>
-                </div>
-                <span class="item-searches">${count} search${count !== 1 ? 'es' : ''}</span>
-            </div>
-        `;
-    }).join('');
-
-    popularList.querySelectorAll('.popular-item').forEach(item => {
-        item.addEventListener('click', () => {
-            const key = item.dataset.key;
-            if (key && ingredients[key]) {
-                selectIngredient(key);
-            }
-        });
-    });
 }
 
 // Start
