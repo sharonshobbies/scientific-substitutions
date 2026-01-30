@@ -595,39 +595,43 @@ main {
 
 /* Footer */
 footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 24px;
-    gap: 16px;
+    padding: 40px 24px;
+    text-align: center;
 }
 
 .swap-counter {
-    position: fixed;
-    bottom: 16px;
-    right: 16px;
-    font-size: 0.75rem;
+    margin-top: 12px;
+    font-size: 0.7rem;
     color: var(--color-text-muted);
 }
 
 .footer-tagline {
     font-family: var(--font-serif);
-    font-size: 0.9rem;
+    font-size: 1.25rem;
     color: var(--color-text-secondary);
     letter-spacing: 0.01em;
-    margin: 0;
+    font-style: italic;
 }
 
 .kofi-link {
-    color: var(--color-text-muted);
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    padding: 10px 20px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 100px;
+    color: var(--color-text-secondary);
     text-decoration: none;
-    font-size: 0.75rem;
-    transition: color 0.2s;
-    white-space: nowrap;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+    z-index: 100;
 }
 
 .kofi-link:hover {
+    border-color: var(--color-accent);
     color: var(--color-accent);
+    background: var(--color-accent-light);
 }
 
 /* Mobile */
@@ -667,10 +671,13 @@ footer {
         font-size: 0.85rem;
     }
 
-    footer {
-        flex-direction: column;
-        text-align: center;
-        gap: 8px;
+    .footer-tagline {
+        font-size: 1.1rem;
+    }
+
+    .kofi-link {
+        padding: 8px 16px;
+        font-size: 0.8rem;
     }
 }
 
